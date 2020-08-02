@@ -1096,3 +1096,144 @@ ls
 vim index.js
 ls
 yarn start
+ls
+cd wintspo-client
+ls
+cd config
+ls
+vim webpack.config.js
+npm start
+cd ..
+npm install --save @babel/polyfill
+ls
+cd config
+ls
+vim webpack.config.js
+npt start
+yarn start
+ls
+vim webpack.config.js
+ls
+cd ..
+ls
+cd ..
+ls
+rm -rf wintspo-client
+ls
+create-react-app wintspo-client
+yarn add react-router-dom react-redux redux redux-actions immutable styled-components open-color
+ls
+ls -la
+s
+ls
+cd wintspo-client
+ls
+yarn add react-router-dom react-redux redux redux-actions immutable styled-components open-color
+ls -la
+cd ..
+ls
+ls =la
+ls -la
+rm -rf node_modules
+ls
+ls -la
+cd .config
+ls
+ls -la
+cd ..
+ls
+ls -la
+cd .gnupg
+ls
+ls -a
+ls -la
+cd private-keys-v1.d
+ls
+ls -la
+cd ..
+ls
+cd wintspo-server
+ls
+ls -la
+vim .env
+ls
+ls -la
+vim .env
+ls
+cd ..
+git --hard 59db55c4ba2a2325279aa8e1f08417142fcff51f
+git reset --hard 59db55c4ba2a2325279aa8e1f08417142fcff51f
+ls
+ls -la
+git status
+ls
+cd wintspo-server
+ls
+ls -la
+ls
+git checkout .
+cd ..
+git checkout .
+ls
+git clone https://github.com/doyun0916/WinterSports-server.git
+ls
+ls -la
+ls
+vim WinterSports-server
+ls
+cd WinterSports-server
+ls
+ls -la
+cd ..
+ls
+ls -la
+ls
+rm -rf WinterSports-server
+ls
+vim package.json
+ls
+ls -la
+ls
+cd wintspo-client
+ls
+ls -la
+cd ..
+ls
+ls -la
+cd .config
+ls
+cd configstore
+ls
+cd ..
+ls -la
+cd .gnupg
+ls
+cd ..
+ls
+ls -la
+cd .yarn
+ls
+cd bin
+ls
+ls -la
+cd ..
+ls
+ls -la
+cd ..
+ls
+ls -la
+rm -rf .yarn
+ls -la
+rm package.json
+ls -la
+rm yarn.lock
+ls
+rm -rf wintspo-client
+ls
+ls -la
+cd wintspo-server
+ls
+yarn start
+cd ..
+ls
+exit
