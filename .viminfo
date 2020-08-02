@@ -15,7 +15,7 @@ $
 
 # Command Line History (newest to oldest):
 :q
-|2,0,1596381827,,"q"
+|2,0,1596382013,,"q"
 :wq
 |2,0,1596381333,,"wq"
 :Q
@@ -67,29 +67,33 @@ $
 
 # File marks:
 '0  42  0  ~/wintspo-client/package.json
-|4,48,42,0,1596381827,"~/wintspo-client/package.json"
-'1  1  0  ~/wintspo-client/package.json
-|4,49,1,0,1596381749,"~/wintspo-client/package.json"
+|4,48,42,0,1596382013,"~/wintspo-client/package.json"
+'1  42  0  ~/wintspo-client/package.json
+|4,49,42,0,1596381827,"~/wintspo-client/package.json"
 '2  1  0  ~/wintspo-client/package.json
 |4,50,1,0,1596381749,"~/wintspo-client/package.json"
-'3  12  10  ~/wintspo-client/src/Root.js
-|4,51,12,10,1596381333,"~/wintspo-client/src/Root.js"
-'4  14  1  ~/wintspo-client/src/Root.js
-|4,52,14,1,1596381299,"~/wintspo-client/src/Root.js"
-'5  14  1  ~/wintspo-client/src/Root.js
-|4,53,14,1,1596381299,"~/wintspo-client/src/Root.js"
-'6  13  21  ~/wintspo-client/src/index.js
-|4,54,13,21,1596381186,"~/wintspo-client/src/index.js"
-'7  11  29  ~/wintspo-client/src/redux/configureStore.js
-|4,55,11,29,1596381096,"~/wintspo-client/src/redux/configureStore.js"
-'8  6  2  ~/wintspo-client/src/redux/modules/index.js
-|4,56,6,2,1596381070,"~/wintspo-client/src/redux/modules/index.js"
-'9  16  16  ~/wintspo-client/src/redux/modules/base.js
-|4,57,16,16,1596381055,"~/wintspo-client/src/redux/modules/base.js"
+'3  1  0  ~/wintspo-client/package.json
+|4,51,1,0,1596381749,"~/wintspo-client/package.json"
+'4  1  0  ~/wintspo-client/package.json
+|4,52,1,0,1596381749,"~/wintspo-client/package.json"
+'5  1  0  ~/wintspo-client/package.json
+|4,53,1,0,1596381749,"~/wintspo-client/package.json"
+'6  12  10  ~/wintspo-client/src/Root.js
+|4,54,12,10,1596381333,"~/wintspo-client/src/Root.js"
+'7  14  1  ~/wintspo-client/src/Root.js
+|4,55,14,1,1596381299,"~/wintspo-client/src/Root.js"
+'8  14  1  ~/wintspo-client/src/Root.js
+|4,56,14,1,1596381299,"~/wintspo-client/src/Root.js"
+'9  13  21  ~/wintspo-client/src/index.js
+|4,57,13,21,1596381186,"~/wintspo-client/src/index.js"
 
 # Jumplist (newest first):
 -'  42  0  ~/wintspo-client/package.json
+|4,39,42,0,1596382013,"~/wintspo-client/package.json"
+-'  42  0  ~/wintspo-client/package.json
 |4,39,42,0,1596381827,"~/wintspo-client/package.json"
+-'  1  0  ~/wintspo-client/package.json
+|4,39,1,0,1596381821,"~/wintspo-client/package.json"
 -'  1  0  ~/wintspo-client/package.json
 |4,39,1,0,1596381821,"~/wintspo-client/package.json"
 -'  1  0  ~/wintspo-client/package.json
@@ -98,6 +102,16 @@ $
 |4,39,28,3,1596381702,"~/wintspo-client/package.json"
 -'  28  3  ~/wintspo-client/package.json
 |4,39,28,3,1596381702,"~/wintspo-client/package.json"
+-'  28  3  ~/wintspo-client/package.json
+|4,39,28,3,1596381702,"~/wintspo-client/package.json"
+-'  12  10  ~/wintspo-client/src/Root.js
+|4,39,12,10,1596381333,"~/wintspo-client/src/Root.js"
+-'  12  10  ~/wintspo-client/src/Root.js
+|4,39,12,10,1596381333,"~/wintspo-client/src/Root.js"
+-'  12  10  ~/wintspo-client/src/Root.js
+|4,39,12,10,1596381333,"~/wintspo-client/src/Root.js"
+-'  12  10  ~/wintspo-client/src/Root.js
+|4,39,12,10,1596381333,"~/wintspo-client/src/Root.js"
 -'  12  10  ~/wintspo-client/src/Root.js
 |4,39,12,10,1596381333,"~/wintspo-client/src/Root.js"
 -'  12  10  ~/wintspo-client/src/Root.js
@@ -114,6 +128,22 @@ $
 |4,39,14,1,1596381328,"~/wintspo-client/src/Root.js"
 -'  14  1  ~/wintspo-client/src/Root.js
 |4,39,14,1,1596381328,"~/wintspo-client/src/Root.js"
+-'  14  1  ~/wintspo-client/src/Root.js
+|4,39,14,1,1596381328,"~/wintspo-client/src/Root.js"
+-'  14  1  ~/wintspo-client/src/Root.js
+|4,39,14,1,1596381328,"~/wintspo-client/src/Root.js"
+-'  14  1  ~/wintspo-client/src/Root.js
+|4,39,14,1,1596381328,"~/wintspo-client/src/Root.js"
+-'  14  1  ~/wintspo-client/src/Root.js
+|4,39,14,1,1596381328,"~/wintspo-client/src/Root.js"
+-'  14  1  ~/wintspo-client/src/Root.js
+|4,39,14,1,1596381299,"~/wintspo-client/src/Root.js"
+-'  14  1  ~/wintspo-client/src/Root.js
+|4,39,14,1,1596381299,"~/wintspo-client/src/Root.js"
+-'  14  1  ~/wintspo-client/src/Root.js
+|4,39,14,1,1596381299,"~/wintspo-client/src/Root.js"
+-'  14  1  ~/wintspo-client/src/Root.js
+|4,39,14,1,1596381299,"~/wintspo-client/src/Root.js"
 -'  14  1  ~/wintspo-client/src/Root.js
 |4,39,14,1,1596381299,"~/wintspo-client/src/Root.js"
 -'  14  1  ~/wintspo-client/src/Root.js
@@ -138,6 +168,54 @@ $
 |4,39,16,19,1596381192,"~/wintspo-client/src/Root.js"
 -'  16  19  ~/wintspo-client/src/Root.js
 |4,39,16,19,1596381192,"~/wintspo-client/src/Root.js"
+-'  16  19  ~/wintspo-client/src/Root.js
+|4,39,16,19,1596381192,"~/wintspo-client/src/Root.js"
+-'  16  19  ~/wintspo-client/src/Root.js
+|4,39,16,19,1596381192,"~/wintspo-client/src/Root.js"
+-'  16  19  ~/wintspo-client/src/Root.js
+|4,39,16,19,1596381192,"~/wintspo-client/src/Root.js"
+-'  16  19  ~/wintspo-client/src/Root.js
+|4,39,16,19,1596381192,"~/wintspo-client/src/Root.js"
+-'  16  19  ~/wintspo-client/src/Root.js
+|4,39,16,19,1596381192,"~/wintspo-client/src/Root.js"
+-'  16  19  ~/wintspo-client/src/Root.js
+|4,39,16,19,1596381192,"~/wintspo-client/src/Root.js"
+-'  16  19  ~/wintspo-client/src/Root.js
+|4,39,16,19,1596381192,"~/wintspo-client/src/Root.js"
+-'  16  19  ~/wintspo-client/src/Root.js
+|4,39,16,19,1596381192,"~/wintspo-client/src/Root.js"
+-'  13  21  ~/wintspo-client/src/index.js
+|4,39,13,21,1596381186,"~/wintspo-client/src/index.js"
+-'  13  21  ~/wintspo-client/src/index.js
+|4,39,13,21,1596381186,"~/wintspo-client/src/index.js"
+-'  13  21  ~/wintspo-client/src/index.js
+|4,39,13,21,1596381186,"~/wintspo-client/src/index.js"
+-'  13  21  ~/wintspo-client/src/index.js
+|4,39,13,21,1596381186,"~/wintspo-client/src/index.js"
+-'  13  21  ~/wintspo-client/src/index.js
+|4,39,13,21,1596381186,"~/wintspo-client/src/index.js"
+-'  13  21  ~/wintspo-client/src/index.js
+|4,39,13,21,1596381186,"~/wintspo-client/src/index.js"
+-'  13  21  ~/wintspo-client/src/index.js
+|4,39,13,21,1596381186,"~/wintspo-client/src/index.js"
+-'  13  21  ~/wintspo-client/src/index.js
+|4,39,13,21,1596381186,"~/wintspo-client/src/index.js"
+-'  13  21  ~/wintspo-client/src/index.js
+|4,39,13,21,1596381186,"~/wintspo-client/src/index.js"
+-'  13  21  ~/wintspo-client/src/index.js
+|4,39,13,21,1596381186,"~/wintspo-client/src/index.js"
+-'  13  21  ~/wintspo-client/src/index.js
+|4,39,13,21,1596381186,"~/wintspo-client/src/index.js"
+-'  13  21  ~/wintspo-client/src/index.js
+|4,39,13,21,1596381186,"~/wintspo-client/src/index.js"
+-'  13  21  ~/wintspo-client/src/index.js
+|4,39,13,21,1596381186,"~/wintspo-client/src/index.js"
+-'  13  21  ~/wintspo-client/src/index.js
+|4,39,13,21,1596381186,"~/wintspo-client/src/index.js"
+-'  13  21  ~/wintspo-client/src/index.js
+|4,39,13,21,1596381186,"~/wintspo-client/src/index.js"
+-'  13  21  ~/wintspo-client/src/index.js
+|4,39,13,21,1596381186,"~/wintspo-client/src/index.js"
 -'  13  21  ~/wintspo-client/src/index.js
 |4,39,13,21,1596381186,"~/wintspo-client/src/index.js"
 -'  13  21  ~/wintspo-client/src/index.js
@@ -202,97 +280,19 @@ $
 |4,39,20,23,1596381115,"~/wintspo-client/src/index.js"
 -'  20  23  ~/wintspo-client/src/index.js
 |4,39,20,23,1596381115,"~/wintspo-client/src/index.js"
--'  11  29  ~/wintspo-client/src/redux/configureStore.js
-|4,39,11,29,1596381096,"~/wintspo-client/src/redux/configureStore.js"
--'  11  29  ~/wintspo-client/src/redux/configureStore.js
-|4,39,11,29,1596381096,"~/wintspo-client/src/redux/configureStore.js"
--'  11  29  ~/wintspo-client/src/redux/configureStore.js
-|4,39,11,29,1596381096,"~/wintspo-client/src/redux/configureStore.js"
--'  11  29  ~/wintspo-client/src/redux/configureStore.js
-|4,39,11,29,1596381096,"~/wintspo-client/src/redux/configureStore.js"
--'  11  29  ~/wintspo-client/src/redux/configureStore.js
-|4,39,11,29,1596381096,"~/wintspo-client/src/redux/configureStore.js"
--'  11  29  ~/wintspo-client/src/redux/configureStore.js
-|4,39,11,29,1596381096,"~/wintspo-client/src/redux/configureStore.js"
--'  11  29  ~/wintspo-client/src/redux/configureStore.js
-|4,39,11,29,1596381096,"~/wintspo-client/src/redux/configureStore.js"
--'  11  29  ~/wintspo-client/src/redux/configureStore.js
-|4,39,11,29,1596381096,"~/wintspo-client/src/redux/configureStore.js"
--'  11  29  ~/wintspo-client/src/redux/configureStore.js
-|4,39,11,29,1596381096,"~/wintspo-client/src/redux/configureStore.js"
--'  11  29  ~/wintspo-client/src/redux/configureStore.js
-|4,39,11,29,1596381096,"~/wintspo-client/src/redux/configureStore.js"
--'  11  29  ~/wintspo-client/src/redux/configureStore.js
-|4,39,11,29,1596381096,"~/wintspo-client/src/redux/configureStore.js"
--'  11  29  ~/wintspo-client/src/redux/configureStore.js
-|4,39,11,29,1596381096,"~/wintspo-client/src/redux/configureStore.js"
--'  11  29  ~/wintspo-client/src/redux/configureStore.js
-|4,39,11,29,1596381096,"~/wintspo-client/src/redux/configureStore.js"
--'  11  29  ~/wintspo-client/src/redux/configureStore.js
-|4,39,11,29,1596381096,"~/wintspo-client/src/redux/configureStore.js"
--'  11  29  ~/wintspo-client/src/redux/configureStore.js
-|4,39,11,29,1596381096,"~/wintspo-client/src/redux/configureStore.js"
--'  11  29  ~/wintspo-client/src/redux/configureStore.js
-|4,39,11,29,1596381096,"~/wintspo-client/src/redux/configureStore.js"
--'  11  29  ~/wintspo-client/src/redux/configureStore.js
-|4,39,11,29,1596381096,"~/wintspo-client/src/redux/configureStore.js"
--'  11  29  ~/wintspo-client/src/redux/configureStore.js
-|4,39,11,29,1596381096,"~/wintspo-client/src/redux/configureStore.js"
--'  11  29  ~/wintspo-client/src/redux/configureStore.js
-|4,39,11,29,1596381096,"~/wintspo-client/src/redux/configureStore.js"
--'  11  29  ~/wintspo-client/src/redux/configureStore.js
-|4,39,11,29,1596381096,"~/wintspo-client/src/redux/configureStore.js"
--'  11  29  ~/wintspo-client/src/redux/configureStore.js
-|4,39,11,29,1596381096,"~/wintspo-client/src/redux/configureStore.js"
--'  11  29  ~/wintspo-client/src/redux/configureStore.js
-|4,39,11,29,1596381096,"~/wintspo-client/src/redux/configureStore.js"
--'  11  29  ~/wintspo-client/src/redux/configureStore.js
-|4,39,11,29,1596381096,"~/wintspo-client/src/redux/configureStore.js"
--'  11  29  ~/wintspo-client/src/redux/configureStore.js
-|4,39,11,29,1596381096,"~/wintspo-client/src/redux/configureStore.js"
--'  11  29  ~/wintspo-client/src/redux/configureStore.js
-|4,39,11,29,1596381096,"~/wintspo-client/src/redux/configureStore.js"
--'  11  29  ~/wintspo-client/src/redux/configureStore.js
-|4,39,11,29,1596381096,"~/wintspo-client/src/redux/configureStore.js"
--'  11  29  ~/wintspo-client/src/redux/configureStore.js
-|4,39,11,29,1596381096,"~/wintspo-client/src/redux/configureStore.js"
--'  11  29  ~/wintspo-client/src/redux/configureStore.js
-|4,39,11,29,1596381096,"~/wintspo-client/src/redux/configureStore.js"
--'  11  29  ~/wintspo-client/src/redux/configureStore.js
-|4,39,11,29,1596381096,"~/wintspo-client/src/redux/configureStore.js"
--'  11  29  ~/wintspo-client/src/redux/configureStore.js
-|4,39,11,29,1596381096,"~/wintspo-client/src/redux/configureStore.js"
--'  11  29  ~/wintspo-client/src/redux/configureStore.js
-|4,39,11,29,1596381096,"~/wintspo-client/src/redux/configureStore.js"
--'  11  29  ~/wintspo-client/src/redux/configureStore.js
-|4,39,11,29,1596381096,"~/wintspo-client/src/redux/configureStore.js"
--'  1  0  ~/wintspo-client/src/redux/configureStore.js
-|4,39,1,0,1596381082,"~/wintspo-client/src/redux/configureStore.js"
--'  1  0  ~/wintspo-client/src/redux/configureStore.js
-|4,39,1,0,1596381082,"~/wintspo-client/src/redux/configureStore.js"
--'  1  0  ~/wintspo-client/src/redux/configureStore.js
-|4,39,1,0,1596381082,"~/wintspo-client/src/redux/configureStore.js"
--'  1  0  ~/wintspo-client/src/redux/configureStore.js
-|4,39,1,0,1596381082,"~/wintspo-client/src/redux/configureStore.js"
--'  1  0  ~/wintspo-client/src/redux/configureStore.js
-|4,39,1,0,1596381082,"~/wintspo-client/src/redux/configureStore.js"
--'  1  0  ~/wintspo-client/src/redux/configureStore.js
-|4,39,1,0,1596381082,"~/wintspo-client/src/redux/configureStore.js"
--'  1  0  ~/wintspo-client/src/redux/configureStore.js
-|4,39,1,0,1596381082,"~/wintspo-client/src/redux/configureStore.js"
--'  1  0  ~/wintspo-client/src/redux/configureStore.js
-|4,39,1,0,1596381082,"~/wintspo-client/src/redux/configureStore.js"
--'  1  0  ~/wintspo-client/src/redux/configureStore.js
-|4,39,1,0,1596381082,"~/wintspo-client/src/redux/configureStore.js"
--'  1  0  ~/wintspo-client/src/redux/configureStore.js
-|4,39,1,0,1596381082,"~/wintspo-client/src/redux/configureStore.js"
--'  1  0  ~/wintspo-client/src/redux/configureStore.js
-|4,39,1,0,1596381082,"~/wintspo-client/src/redux/configureStore.js"
+-'  20  23  ~/wintspo-client/src/index.js
+|4,39,20,23,1596381115,"~/wintspo-client/src/index.js"
+-'  20  23  ~/wintspo-client/src/index.js
+|4,39,20,23,1596381115,"~/wintspo-client/src/index.js"
+-'  20  23  ~/wintspo-client/src/index.js
+|4,39,20,23,1596381115,"~/wintspo-client/src/index.js"
+-'  20  23  ~/wintspo-client/src/index.js
+|4,39,20,23,1596381115,"~/wintspo-client/src/index.js"
 
 # History of marks within files (newest to oldest):
 
 > ~/wintspo-client/package.json
-	*	1596381826	0
+	*	1596382012	0
 	"	42	0
 	^	28	4
 	.	23	42
