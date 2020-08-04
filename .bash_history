@@ -1237,3 +1237,290 @@ yarn start
 cd ..
 ls
 exit
+ls
+create-react-app wintspo-client
+ls
+cd wintspo-client
+yarn add react-router-dom react-redux redux redux-actions immutable styled-components open-color
+ls
+vim package.json
+yarn start
+ls
+vim package.json
+yarn start
+vim .jsconfig.json
+ls
+mkdir components containers lib pages redux
+ls
+rm components containers lib pages redux
+rmdir components containers lib pages redux
+ls
+cd src
+ls
+mkdir components containers lib pages redux
+ls
+rm App.css
+rm App.test.js
+rm logo.svg
+cd pages
+ls
+vim Auth.js
+vim Home.js
+vim index.js
+cd ..
+vim App.js
+ls
+vim Root.js
+vim index.js
+yarn start
+ls
+cd redux
+ls
+mkdir modules
+cd modules
+ls
+vim base.js
+vim index.js
+cd ..
+vim configureStore.js
+ls
+cd ..
+vim index.js
+vim Root.js
+yarn start
+vim Root.js
+yarn start
+ls
+cd ..
+ls
+vim package.json
+ls
+yarn add react-hot-loader@next
+ls
+vim package.json
+yarn eject
+cd ..
+ls
+git add .
+git commit -m "wintspo-client added trial3"
+ls
+cd wintspo-client
+ls
+vim package.json
+ls
+ls -la
+yarn eject
+cd ..
+ls
+git status
+git add .
+ls
+git status
+git commit -m "wintspo-client trial3"
+ls
+cd wintspo-client
+yarn eject
+ls
+vim package.json
+ls
+cd config
+ls
+vim webpack.config.js
+ls
+vim webpackDevServer.config.js
+cd ..
+ls
+cd src
+ls
+vim index.js
+cd ..
+cd src
+vim index.js
+yarn start
+cd redux
+ls
+vim configureStore.js
+cd ..
+yarn add styled-components open-color
+yarn start
+exit
+ls
+cd wintspo-server
+ls
+ls -la
+vim .env
+ls
+cd ..
+ls
+cd wintspo-client
+ls
+yarn add styled-components open-color
+ls
+cd src
+ls
+vim index.css
+ls
+cd lib
+ls
+vim styleUtil.js
+ls
+cd ..
+ls
+cd components
+ls
+mkdir Base
+ls
+cd Base
+ls
+mkdir Header
+ls
+cd Header
+vim Header.js
+ls
+cd ..
+ls
+cd ..
+ls
+mkdir Header
+ls
+cd Base
+ls
+cd Header
+ls
+vim index.js
+cd ..
+ls
+cd ..
+ls
+cd Header
+ls
+cd ..
+ls
+rmdir Header
+ls
+cd ..
+ls
+cd containers
+ls
+mkdir Base
+ls
+cd Base
+vim HeaderContainer.js
+cd ..
+ls
+cd ..
+ls
+vim App.js
+yarn start
+ls
+cd components
+ls
+cd Base
+ls
+cd Header
+ls
+vim Header.js
+cd ..
+ls
+cd lib
+ls
+cd ..
+cd componetns
+cd components
+ls
+cd Base
+ls
+cd Header
+ls
+vim Header.js
+cd ..
+yarn start
+ls
+cd src
+ls
+cd components
+ls
+cd Base
+ls
+cd Header
+ls
+vim Header.js
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+cd containers
+ls
+cd Basse
+cd Base
+ls
+vim HeaderContainer.js
+ls
+cd ..
+ls
+cd src
+ls
+cd lib
+ls
+cd ..
+vim App.js
+ls
+cd lib
+ls
+vim styleUtil.js
+ls
+cd ..
+ls
+cd components
+cd Base
+ls
+cd Header
+ls
+vim LoginButton.js
+ls
+vim index.js
+cd ..
+ls
+cd containers
+ls
+cd Base
+ls
+vim HeaderContainer.js
+yarn start
+ls
+cd ..
+cd components
+ls
+cd Base
+ls
+cd Header
+ls
+vim index.js
+vim LoginButton.js
+yarn start
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+cd containers
+ls
+cd Base
+ls
+vim HeaderContainer.js
+cd ..
+ls
+vim App.js
+yarn start
+ls
+cd containers
+ls
+cd Base
+ls
+vim HeaderContainer.js
+yarn start
