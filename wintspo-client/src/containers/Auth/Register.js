@@ -5,6 +5,8 @@ import {bindActionCreators} from 'redux';
 import * as authActions from 'redux/modules/auth';
 import {isEmail, isLength, isAlphanumeric} from 'validator';
 import debounce from 'lodash/debounce';
+import * as userActions from 'redux/modules/user';
+import storage from 'lib/storage';
 
 class Register extends Component {
     setError = (message) => {
@@ -95,7 +97,7 @@ class Register extends Component {
     }
 
     handleLocalRegister = async () => {
-	const { form, AuthActions, error, history } = this.props;
+	const { form, AuthActions, UserActions, error, history } = this.props;
 	const { email, username, password, passwordConfirm } = form.toJS();
 	const { validate } = this;
 	
@@ -109,7 +111,10 @@ class Register extends Component {
 		email, username, password
 	    });
 	    const loggedInfo = this.props.result.toJS();
-	    console.log(loggedInfo);
+	    
+	    storage.set('loggedInfo', loggedInfo);
+	    UserActions.setLoggedInfo(loggedInfo);
+	    UserActions.setValidated(true);
 	    history.push('/');
 	} catch(e) {
 	    if(e.response.status === 409) {
@@ -176,6 +181,7 @@ export default connect(
 	result: state.auth.get('result')
     }),
     (dispatch) => ({
-        AuthActions: bindActionCreators(authActions, dispatch)
+        AuthActions: bindActionCreators(authActions, dispatch),
+	UserActions: bindActionCreators(userActions, dispatch)
     })
 )(Register);
