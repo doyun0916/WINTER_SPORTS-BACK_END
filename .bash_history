@@ -1524,3 +1524,421 @@ cd Base
 ls
 vim HeaderContainer.js
 yarn start
+ls
+cd wintspo-client
+ls
+cd s rc
+cd src
+ls
+cd pages
+ls
+vim Auth.js
+cd ..
+cd containers Base
+cd containers
+cd Base
+cd HeaderContainer.js
+vim HeaderContainer.js
+yarn start
+cd ..
+cd components
+ls
+cd Base
+ls
+cd ..
+mkdir Auth
+cd Auth
+vim AuthWrapper.js
+ls
+vim index.js
+ls
+cd ..
+cd pages
+ls
+vim Auth.js
+ls
+yarn start
+ls
+vim Auth.js
+cd ..
+cd src
+cd components
+ls
+cd Auth
+ls
+vim AuthWrapper.js
+vim index.js
+cd ..
+ls
+cd ..
+ls
+cd components
+ls
+cd Auth
+ls
+cd ..
+cd pages
+ls
+vim Auth.js
+ls
+cd ..
+cd components
+ls
+cd Auth
+ls
+vim AuthWrapper.js
+ls
+cd ..
+yarn start
+cd Auth
+ls
+vim AuthContent.js
+ls
+vim index.js
+ls
+cd ..
+ls
+cd containers
+ls
+mkdir Auth
+ls
+cd Auth
+ls
+vim Login.js
+vim Register.js
+ls
+vim index.js
+ls
+ls -la
+vim index.js
+cd ..
+cd pages
+ls
+vim Auth.js
+yarn start
+vim Auth.js
+yarn start
+cd ..
+ls
+cd components
+ls
+cd Auth
+ls
+vim InputWithLabel.js
+vim index.js
+cd ..
+ls
+cd ..
+ls
+cd containers
+ls
+vim Auth
+cd Auth
+ls
+vim Login.js
+yarn start
+ls
+vim Login.js
+yarn start
+ls
+cd ..
+ls
+cd components
+ls
+cd Auth
+ls
+vim AuthButton.js
+ls
+vim index.js
+ls
+vim AuthButton.js
+ls
+cd ..
+cd containers
+ls
+cd Auth
+ls
+vim Login.js
+yarn start
+cd ..
+ls
+cd ..
+cd components
+ls
+vim Auth
+cd Auth
+vim RightAlignedLink.js
+vim index.js
+ls
+cd ..
+cd containers
+ls
+cd Auth
+ls
+vim Login.js
+yarn start
+vim Login.js
+yarn start
+ls
+vim Register.js
+cd ..
+cd components
+ls
+cd Auth
+ls
+vim InputWithLabel.js
+yarn start
+vim InputWithLabel.js
+cd ..
+cd containers
+ls
+vim Auth
+cd Auth
+ls
+vim Register.js
+ls
+yarn start
+cd ..
+ls
+cd redux
+ls
+cd modules
+ls
+vim auth.js
+vim index.js
+cd ..
+cd containers
+cd Auth
+ls
+vim Login.js
+ls
+vim Register.js
+yarn start
+ls
+vim Login.js
+yarn start
+cd ..
+ls
+cd redux
+ls
+cd modules
+ls
+vim auth.js
+cd ..
+cd containers
+ls
+cd Auth
+vim Login.js
+ls
+cd ..
+cd Auth
+ls
+vim Register.js
+yarn start
+ls
+vim Register.js
+ls
+vim Login.js
+vim Register.js
+vim Login.js
+yarn start
+cd ..
+yarn add axios redux-pender
+cd ..
+git add .
+git commit -m "front-end part base_comp"
+git push -u origin master
+git push -u -f origin master
+cd wintspo-client
+ls
+cd src
+cd lib
+cd api
+ls
+mkdir api
+cd api
+vim auth.js
+cd ..
+ls
+cd ..
+vim package.json
+yanr start
+yarn start
+ls
+vim package.json
+cd src
+cd redux
+vim configureStore.js
+ls
+cd modules
+ls
+vim index.js
+vim auth.js
+cd ..
+yarn add validator
+ls
+cd src
+cd containers
+cd Auth
+vim Register.js
+yarn start
+cd ..
+cd redux
+vim configureStore.js
+yarn start
+vim configureStore.js
+yarn start
+vim configureStore.js
+yarn start
+ls
+vim configureStore.js
+cd ..
+ls
+cd lib
+ls
+cd api
+ls
+vim auth.js
+ls
+cd ..
+cd redux
+ls
+cd modules
+ls
+vim auth.js
+ls
+cd ..
+ls
+vim components
+cd components
+ls
+cd Auth
+ls
+cd ..
+ls
+cd containers
+ls
+cd Auth
+ls
+vim Register.js
+cd ..
+ls
+cd redux
+ls
+cd modules
+ls
+vim auth.js
+cd ..
+cd containers
+cd Auth
+vim Register.js
+yarn start
+vim Register.js
+yarn start
+vim Register.js
+ls
+cd ..
+ls
+cd redux
+ls
+cd modules
+ls
+vim auth,js
+vim auth.js
+yarn start
+ls
+cd ..
+ls
+cd lib
+ls
+styleUtil.js
+vim styleUtil.js
+cd ..
+cd components
+ls
+cd Auth
+ls
+vim AuthErro.js
+ls
+vim index.js
+cd ..
+cd containers
+ls
+cd Auth
+ls
+vim Register.js
+yarn start
+ls
+vim Register.js
+yarn start
+cd ..
+cd components
+ls
+cd Auth
+ls
+vim index.js
+ls
+vim AuthError.js
+vim AuthErro.js
+rm AuthErro.js
+vim AuthError.js
+vim index.js
+yarn start
+ls
+vim AuthError.js
+ls
+yarn start
+ls
+cd ..
+cd containers
+ls
+cd Auth
+ls
+vim Register.js
+ls
+cd ..
+ls
+cd redux
+ls
+cd modules
+ls
+vim auth.js
+cd..
+cd ..
+ls
+cd lib
+ls
+cd api
+ls
+vim auth.js
+cd .. ..
+cd ....
+cd ..
+ls
+cd ..
+ls
+cd containers
+ls
+cd Auth
+ls
+vim Register.js
+cd ..
+yarn add lodash
+yarn start
+ls
+cd wintspo-server
+yarn start
+ls
+cd wintspo-server
+yarn start
+ls
+cd wintspo-client
+ls
+cd src
+cd containers Auth
+cd containers
+cd Auth
+ls
+vim Register.js
+yarn start
+exit
