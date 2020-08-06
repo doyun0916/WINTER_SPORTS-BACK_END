@@ -25,7 +25,7 @@ mongoose.connect(process.env.MONGO_URI, {
   console.error(e);
 });
 
-const token = jwt.sign({ foo: 'bar'}, 'secret-key', { expiresIn: '7d' }, (err, token) => {
+const token = jwt.sign({ creator: 'dyk'}, 'secret-key', { expiresIn: '1d' }, (err, token) => {
 	if(err) {
 		console.log(err);
 		return;

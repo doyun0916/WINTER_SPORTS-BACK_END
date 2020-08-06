@@ -1,140 +1,3 @@
-cd books
-ls
-vim index.js
-ls
-cd ..
-ls
-vim index.js
-ls
-cd api
-ls
-vim index.js
-cd books
-ls
-vim index.js
-cd ..
-ls
-cd books
-ls
-vim index.js
-cd ..
-ls
-vim index.js
-yarn npm
-yarn start
-ls
-cd books
-ls
-vim index.js
-yarn start
-ls
-vim index.js
-ls
-yarn start
-vim index.js
-ls
-cd ..
-ls
-vim index.js
-cd pai
-cd api
-cd books
-ls
-vim index.js
-ls
-cd ..
-yarn add mongoose
-yarn add dotenv
-vim .env
-ls
-cd src
-ls
-vim index.js
-yarn start
-vim index.js
-ls
-yarn start
-vim index.js
-ls
-cd ..
-ls
-vim .env
-ls
-cd src
-ls
-vim index.js
-ls
-cd ..
-vim .env
-cd ..
-ls
-cd wintspo-server
-ls
-yarn start
-;s
-ls
-cd src
-ls
-vim index.js
-yarn start
-ls
-vim index.js
-yarn start
-vim index.js
-ls
-ls -la
-cd ..
-ls
-cd node_modules
-ls
-cd mongodb
-ls
-cd ..
-ls
-cd src
-ls
-cd ..
-cd src
-vim index.js
-yarn start
-ls
-mkdir models
-ls
-cd models
-ls
-vim book.js
-cd ..
-ls
-vim index.js
-cd ..
-vim .dev
-vim index.js
-ls
-vim src
-cd src
-ls
-vim .dev
-vim index.js
-cd ..
-vim .env
-yarn add koa-bodyparser
-ls
-cd src
-ls
-vim index.js
-ls
-vim index.js
-ls
-yarn start
-ls
-cd ..
-vim .env
-yarn start
-vim .env
-yarn start
-ls
-cd src
-vim index.js
 ls
 vim index.js
 ls
@@ -1998,3 +1861,140 @@ vim auth.controller.js
 ls
 yarn start
 exit
+ls
+git remote -v
+ls
+git status
+git remote rm origin
+git remote add origin https://github.com/doyun0916/WinterSports_server.git
+git add .
+git commit -m "nodemailer added"
+ls
+git push -u origin master
+git push -u -f origin master
+ls
+cd wintspo-server
+ls
+cd src
+cd ..
+vim package.json
+ls
+vim yarn.lock
+ls
+cd src
+ls
+vim index.js
+ls
+cd lib
+ls
+vim token.js
+ls
+cd ..
+ls
+vim models
+ls
+cd models
+ls
+cd account.js
+vim account.js
+exit
+ls
+cd wintspo-client
+yarn start
+ls
+cd wintspo-server
+ls
+cd src
+ls
+cd api
+ls
+cd auth
+ls
+vim auth.controller.js
+vim index.js
+ls
+vim auth.controller.js
+vim index.js
+ls
+vim auth.controller.js
+ls
+cd ..
+ls
+cd ..
+ls
+cd models
+ls
+vim account.js
+cd ..
+ls
+cd api
+cd auth
+vim auth.controller.js
+ls
+vim index.js
+vim auth.controller.js
+yarn start
+ls
+cd ..
+ls
+cd ..
+ls
+cd models
+ls
+cd account.js
+vim account.js
+ls
+cd ..
+ls
+cd api
+ls
+cd auth
+cd auth.controller.js
+vim auth.controller.js
+ls
+cd ..
+ls
+cd ..
+ls
+cd models
+ls
+vim account.js
+yarn start
+ls
+vim account.js
+yarn start
+ls
+cd account.js
+vim account.js
+ls
+cd ..
+ls
+cd lib
+ls
+vim token.js
+ls
+cd ..
+ls
+cd models
+ls
+vim account.js
+yarn start
+ls
+cd ..
+ls
+cd api
+ls
+cd auth
+ls
+vim auth.controller.js
+yarn start
+vim auth.controller.js
+yarn start
+vim auth.controller.js
+yarn start
+vim auth.controller.js
+yarn start
+vim auth.controller.js
+yarn start
+vim auth.controller.js
+yarn start

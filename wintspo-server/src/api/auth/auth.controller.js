@@ -1,39 +1,15 @@
 const Joi = require('joi');
 const Account = require('models/account');
-const nodemailer = require('nodemailer');
-
-exports.mailcheck = async (ctx) => {
-	let transporter = nodemailer.createTransport({
-		service: 'gmail',
-		host: 'smtp.gmail.com',
-		port: 587,
-		secure: false,
-		auth: {
-			user: process.env.NODEMAILER_USER,
-			pass: process.env.NODEMAILER_PASS,
-		},
-	});
-	let code = "123456";
-
-	let info = await transporter.sendMail({
-		from: `"WintSpo Team" <${process.env.NODEMAILER_USER}>`,
-		to: ctx.request.body.email,
-		subject: 'WintSpo Auth Number',
-		text: code,
-		html: `<b>${code}</b>`,
-	});
-};
 
 exports.localRegister = async (ctx) => {
 	
 	const schema = Joi.object().keys({
-		username: Joi.string().alphanum().min(4).max(15).required(),
+		username: Joi.string().alphanum().min(3).max(15).required(),
 		email: Joi.string().email().required(),
-		password: Joi.string().required().min(6)
+		password: Joi.string().required().min(5)
 	});
 
 	const result = schema.validate(ctx.request.body);
-	
 	if(result.error) {
 		ctx.status = 400;
 		return;
@@ -41,16 +17,12 @@ exports.localRegister = async (ctx) => {
 
 	let existing = null;
 	try {
-		existing = await Account.findByEmailOrUsername(ctx.request.body);
+		existing = await Account.findByEmail(ctx.request.body.email);
 	} catch (e) {
 		ctx.throw(500, e);
 	}
-
 	if(existing) {
 		ctx.status = 409;
-		ctx.body = {
-			key: existing.email === ctx.request.body.email ? 'email' : 'username'
-		};
 		return;
 	}
 
@@ -61,15 +33,7 @@ exports.localRegister = async (ctx) => {
 		ctx.throw(500, e);
 	}
 
-	let token = null;
-	try {
-		token = await account.generateToken();
-	} catch (e) {
-		ctx.throw(500, e);
-	}
-
-	ctx.cookies.set('access_token', token, { httpOnly: true, maxAge: 1000 * 60 * 60 * 24 * 7 });
-	ctx.body = account.profile;
+	ctx.body = account.username;
 };
 
 exports.localLogin = async (ctx) => {
@@ -106,24 +70,8 @@ exports.localLogin = async (ctx) => {
 		ctx.throw(500, e);
 	}
 
-	ctx.cookies.set('access_token', token, { httpOnly: true, maxAge: 1000 * 60 * 60 * 24 * 7 });
-	ctx.body = account.profile;
-};
-
-exports.exists = async (ctx) => {
-	const { key, value } = ctx.params;
-    let account = null;
-
-    try {
-        // key 에 따라 findByEmail 혹은 findByUsername 을 실행합니다.
-        account = await (key === 'email' ? Account.findByEmail(value) : Account.findByUsername(value));    
-    } catch (e) {
-        ctx.throw(500, e);
-    }
-
-    ctx.body = {
-        exists: account !== null
-    };
+	ctx.cookies.set('access_token', token, { httpOnly: true, maxAge: 1000 * 60 * 60 * 24});
+	ctx.body = account.username;
 };
 
 exports.logout = (ctx) => {
@@ -132,6 +80,7 @@ exports.logout = (ctx) => {
         httpOnly: true
     });
     ctx.status = 204;
+    ctx.body = "success";
 };
 
 exports.check = (ctx) => {
@@ -140,5 +89,5 @@ exports.check = (ctx) => {
 		ctx.status = 403;
 		return;
 	}
-	ctx.body = user.profile;
+	ctx.body = user.username;
 };

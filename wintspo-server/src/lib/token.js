@@ -7,7 +7,7 @@ function generateToken(payload) {
 			jwt.sign( 
 				payload, 
 				jwtSecret,
-				{ expiresIn: '7d' }, 
+				{ expiresIn: '1d' }, 
 				(error, token) => {
 					if(error) reject(error);
 					resolve(token);
@@ -35,10 +35,10 @@ exports.jwtMiddleware = async (ctx, next) => {
 	try{
 		const decoded = await decodeToken(token);
 		if(Date.now() / 1000 - decoded.iat > 60 * 60 * 24) {
-			const { _id, profile } = decoded;
-			const freshToken = await generateToken({ _id, profile }, 'account');
+			const { _id, username } = decoded;
+			const freshToken = await generateToken({ _id, username }, 'account');
 			ctx.cookies.set('access_token', freshToken, {
-				maxAge: 1000 * 60 * 60 * 24 * 7,
+				maxAge: 1000 * 60 * 60 * 24,
 				httpOnly: true
 			});
 		}
