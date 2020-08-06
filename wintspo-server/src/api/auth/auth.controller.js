@@ -1,5 +1,28 @@
 const Joi = require('joi');
 const Account = require('models/account');
+const nodemailer = require('nodemailer');
+
+exports.mailcheck = async (ctx) => {
+	let transporter = nodemailer.createTransport({
+		service: 'gmail',
+		host: 'smtp.gmail.com',
+		port: 587,
+		secure: false,
+		auth: {
+			user: process.env.NODEMAILER_USER,
+			pass: process.env.NODEMAILER_PASS,
+		},
+	});
+	let code = "123456";
+
+	let info = await transporter.sendMail({
+		from: `"WintSpo Team" <${process.env.NODEMAILER_USER}>`,
+		to: ctx.request.body.email,
+		subject: 'WintSpo Auth Number',
+		text: code,
+		html: `<b>${code}</b>`,
+	});
+};
 
 exports.localRegister = async (ctx) => {
 	

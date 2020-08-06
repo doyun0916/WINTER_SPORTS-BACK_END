@@ -15,11 +15,11 @@ $
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1596599355,,"wq"
+|2,0,1596687091,,"wq"
 :q
-|2,0,1596599313,,"q"
+|2,0,1596686672,,"q"
 :Q
-|2,0,1596541898,,"Q"
+|2,0,1596684573,,"Q"
 :Wq
 |2,0,1596532665,,"Wq"
 :q!
@@ -27,7 +27,7 @@ $
 
 # Search String History (newest to oldest):
 ? @$
-|2,1,1596541897,,"@$"
+|2,1,1596644240,,"@$"
 
 # Expression History (newest to oldest):
 
@@ -40,7 +40,7 @@ $
 # Registers:
 ""0	LINE	0
 	export default configureStore;
-|3,1,0,1,1,0,1596541900,"export default configureStore;"
+|3,1,0,1,1,0,1596644240,"export default configureStore;"
 "1	LINE	0
 	export default configureStore;
 |3,0,1,1,1,0,1596541469,"export default configureStore;"
@@ -70,230 +70,716 @@ $
 |3,0,9,1,1,0,1596541469,"            const nextRootReducer = require('./modules').default;"
 
 # File marks:
-'0  22  21  ~/wintspo-client/src/containers/Base/HeaderContainer.js
-|4,48,22,21,1596599355,"~/wintspo-client/src/containers/Base/HeaderContainer.js"
-'1  1  0  ~/wintspo-client/src/containers/Base/HeadContainer.js
-|4,49,1,0,1596599313,"~/wintspo-client/src/containers/Base/HeadContainer.js"
-'2  18  4  ~/wintspo-client/src/containers/Auth/Login.js
-|4,50,18,4,1596599259,"~/wintspo-client/src/containers/Auth/Login.js"
-'3  46  18  ~/wintspo-client/src/containers/Base/HeaderContainer.js
-|4,51,46,18,1596598575,"~/wintspo-client/src/containers/Base/HeaderContainer.js"
-'4  46  18  ~/wintspo-client/src/containers/Base/HeaderContainer.js
-|4,52,46,18,1596598575,"~/wintspo-client/src/containers/Base/HeaderContainer.js"
-'5  2  76  ~/wintspo-client/src/containers/Auth/Login.js
-|4,53,2,76,1596593485,"~/wintspo-client/src/containers/Auth/Login.js"
-'6  2  76  ~/wintspo-client/src/containers/Auth/Login.js
-|4,54,2,76,1596593485,"~/wintspo-client/src/containers/Auth/Login.js"
-'7  26  0  ~/wintspo-client/src/containers/Auth/Login.js
-|4,55,26,0,1596593407,"~/wintspo-client/src/containers/Auth/Login.js"
-'8  26  0  ~/wintspo-client/src/containers/Auth/Login.js
-|4,56,26,0,1596593407,"~/wintspo-client/src/containers/Auth/Login.js"
-'9  17  0  ~/wintspo-client/src/containers/Auth/Login.js
-|4,57,17,0,1596593407,"~/wintspo-client/src/containers/Auth/Login.js"
+'0  16  19  ~/wintspo-server/src/api/auth/auth.controller.js
+|4,48,16,19,1596687091,"~/wintspo-server/src/api/auth/auth.controller.js"
+'1  21  25  ~/wintspo-server/src/api/auth/auth.controller.js
+|4,49,21,25,1596686672,"~/wintspo-server/src/api/auth/auth.controller.js"
+'2  21  25  ~/wintspo-server/src/api/auth/auth.controller.js
+|4,50,21,25,1596686672,"~/wintspo-server/src/api/auth/auth.controller.js"
+'3  20  27  ~/wintspo-server/src/api/auth/auth.controller.js
+|4,51,20,27,1596686470,"~/wintspo-server/src/api/auth/auth.controller.js"
+'4  20  27  ~/wintspo-server/src/api/auth/auth.controller.js
+|4,52,20,27,1596686470,"~/wintspo-server/src/api/auth/auth.controller.js"
+'5  20  27  ~/wintspo-server/src/api/auth/auth.controller.js
+|4,53,20,27,1596686470,"~/wintspo-server/src/api/auth/auth.controller.js"
+'6  20  27  ~/wintspo-server/src/api/auth/auth.controller.js
+|4,54,20,27,1596686470,"~/wintspo-server/src/api/auth/auth.controller.js"
+'7  6  23  ~/wintspo-server/.env
+|4,55,6,23,1596686115,"~/wintspo-server/.env"
+'8  10  8  ~/wintspo-server/src/api/auth/index.js
+|4,56,10,8,1596685751,"~/wintspo-server/src/api/auth/index.js"
+'9  6  31  ~/wintspo-server/src/api/index.js
+|4,57,6,31,1596685713,"~/wintspo-server/src/api/index.js"
 
 # Jumplist (newest first):
--'  22  21  ~/wintspo-client/src/containers/Base/HeaderContainer.js
-|4,39,22,21,1596599355,"~/wintspo-client/src/containers/Base/HeaderContainer.js"
--'  46  18  ~/wintspo-client/src/containers/Base/HeaderContainer.js
-|4,39,46,18,1596599320,"~/wintspo-client/src/containers/Base/HeaderContainer.js"
--'  1  0  ~/wintspo-client/src/containers/Base/HeadContainer.js
-|4,39,1,0,1596599313,"~/wintspo-client/src/containers/Base/HeadContainer.js"
--'  1  0  ~/wintspo-client/src/containers/Base/HeadContainer.js
-|4,39,1,0,1596599313,"~/wintspo-client/src/containers/Base/HeadContainer.js"
--'  18  4  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,18,4,1596599259,"~/wintspo-client/src/containers/Auth/Login.js"
--'  18  4  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,18,4,1596599259,"~/wintspo-client/src/containers/Auth/Login.js"
--'  18  4  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,18,4,1596599259,"~/wintspo-client/src/containers/Auth/Login.js"
--'  18  4  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,18,4,1596599259,"~/wintspo-client/src/containers/Auth/Login.js"
--'  2  76  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,2,76,1596599108,"~/wintspo-client/src/containers/Auth/Login.js"
--'  2  76  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,2,76,1596599108,"~/wintspo-client/src/containers/Auth/Login.js"
--'  2  76  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,2,76,1596599108,"~/wintspo-client/src/containers/Auth/Login.js"
--'  2  76  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,2,76,1596599108,"~/wintspo-client/src/containers/Auth/Login.js"
--'  46  18  ~/wintspo-client/src/containers/Base/HeaderContainer.js
-|4,39,46,18,1596598575,"~/wintspo-client/src/containers/Base/HeaderContainer.js"
--'  46  18  ~/wintspo-client/src/containers/Base/HeaderContainer.js
-|4,39,46,18,1596598575,"~/wintspo-client/src/containers/Base/HeaderContainer.js"
--'  46  18  ~/wintspo-client/src/containers/Base/HeaderContainer.js
-|4,39,46,18,1596598575,"~/wintspo-client/src/containers/Base/HeaderContainer.js"
--'  46  18  ~/wintspo-client/src/containers/Base/HeaderContainer.js
-|4,39,46,18,1596598575,"~/wintspo-client/src/containers/Base/HeaderContainer.js"
--'  2  76  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,2,76,1596593485,"~/wintspo-client/src/containers/Auth/Login.js"
--'  2  76  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,2,76,1596593485,"~/wintspo-client/src/containers/Auth/Login.js"
--'  2  76  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,2,76,1596593485,"~/wintspo-client/src/containers/Auth/Login.js"
--'  2  76  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,2,76,1596593485,"~/wintspo-client/src/containers/Auth/Login.js"
--'  2  76  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,2,76,1596593485,"~/wintspo-client/src/containers/Auth/Login.js"
--'  2  76  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,2,76,1596593485,"~/wintspo-client/src/containers/Auth/Login.js"
--'  2  76  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,2,76,1596593485,"~/wintspo-client/src/containers/Auth/Login.js"
--'  2  76  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,2,76,1596593485,"~/wintspo-client/src/containers/Auth/Login.js"
--'  26  0  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,26,0,1596593415,"~/wintspo-client/src/containers/Auth/Login.js"
--'  17  0  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,17,0,1596593415,"~/wintspo-client/src/containers/Auth/Login.js"
--'  17  0  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,17,0,1596593415,"~/wintspo-client/src/containers/Auth/Login.js"
--'  26  0  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,26,0,1596593415,"~/wintspo-client/src/containers/Auth/Login.js"
--'  17  0  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,17,0,1596593415,"~/wintspo-client/src/containers/Auth/Login.js"
--'  17  0  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,17,0,1596593415,"~/wintspo-client/src/containers/Auth/Login.js"
--'  26  0  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,26,0,1596593415,"~/wintspo-client/src/containers/Auth/Login.js"
--'  17  0  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,17,0,1596593415,"~/wintspo-client/src/containers/Auth/Login.js"
--'  17  0  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,17,0,1596593415,"~/wintspo-client/src/containers/Auth/Login.js"
--'  26  0  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,26,0,1596593415,"~/wintspo-client/src/containers/Auth/Login.js"
--'  17  0  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,17,0,1596593415,"~/wintspo-client/src/containers/Auth/Login.js"
--'  17  0  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,17,0,1596593415,"~/wintspo-client/src/containers/Auth/Login.js"
--'  17  0  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,17,0,1596593407,"~/wintspo-client/src/containers/Auth/Login.js"
--'  17  0  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,17,0,1596593407,"~/wintspo-client/src/containers/Auth/Login.js"
--'  17  0  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,17,0,1596593407,"~/wintspo-client/src/containers/Auth/Login.js"
--'  17  0  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,17,0,1596593407,"~/wintspo-client/src/containers/Auth/Login.js"
--'  17  0  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,17,0,1596593407,"~/wintspo-client/src/containers/Auth/Login.js"
--'  17  0  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,17,0,1596593407,"~/wintspo-client/src/containers/Auth/Login.js"
--'  17  0  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,17,0,1596593407,"~/wintspo-client/src/containers/Auth/Login.js"
--'  17  0  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,17,0,1596593407,"~/wintspo-client/src/containers/Auth/Login.js"
--'  5  42  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,5,42,1596593396,"~/wintspo-client/src/containers/Auth/Login.js"
--'  5  42  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,5,42,1596593396,"~/wintspo-client/src/containers/Auth/Login.js"
--'  5  42  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,5,42,1596593396,"~/wintspo-client/src/containers/Auth/Login.js"
--'  5  42  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,5,42,1596593396,"~/wintspo-client/src/containers/Auth/Login.js"
--'  5  42  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,5,42,1596593396,"~/wintspo-client/src/containers/Auth/Login.js"
--'  5  42  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,5,42,1596593396,"~/wintspo-client/src/containers/Auth/Login.js"
--'  5  42  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,5,42,1596593396,"~/wintspo-client/src/containers/Auth/Login.js"
--'  5  42  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,5,42,1596593396,"~/wintspo-client/src/containers/Auth/Login.js"
--'  5  42  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,5,42,1596593396,"~/wintspo-client/src/containers/Auth/Login.js"
--'  5  42  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,5,42,1596593396,"~/wintspo-client/src/containers/Auth/Login.js"
--'  5  42  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,5,42,1596593396,"~/wintspo-client/src/containers/Auth/Login.js"
--'  5  42  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,5,42,1596593396,"~/wintspo-client/src/containers/Auth/Login.js"
--'  5  42  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,5,42,1596593396,"~/wintspo-client/src/containers/Auth/Login.js"
--'  5  42  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,5,42,1596593396,"~/wintspo-client/src/containers/Auth/Login.js"
--'  5  42  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,5,42,1596593396,"~/wintspo-client/src/containers/Auth/Login.js"
--'  5  42  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,5,42,1596593396,"~/wintspo-client/src/containers/Auth/Login.js"
--'  5  42  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,5,42,1596593396,"~/wintspo-client/src/containers/Auth/Login.js"
--'  5  42  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,5,42,1596593396,"~/wintspo-client/src/containers/Auth/Login.js"
--'  5  42  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,5,42,1596593396,"~/wintspo-client/src/containers/Auth/Login.js"
--'  5  42  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,5,42,1596593396,"~/wintspo-client/src/containers/Auth/Login.js"
--'  5  42  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,5,42,1596593394,"~/wintspo-client/src/containers/Auth/Login.js"
--'  5  42  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,5,42,1596593394,"~/wintspo-client/src/containers/Auth/Login.js"
--'  5  42  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,5,42,1596593394,"~/wintspo-client/src/containers/Auth/Login.js"
--'  5  42  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,5,42,1596593394,"~/wintspo-client/src/containers/Auth/Login.js"
--'  5  42  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,5,42,1596593394,"~/wintspo-client/src/containers/Auth/Login.js"
--'  5  42  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,5,42,1596593394,"~/wintspo-client/src/containers/Auth/Login.js"
--'  5  42  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,5,42,1596593394,"~/wintspo-client/src/containers/Auth/Login.js"
--'  5  42  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,5,42,1596593394,"~/wintspo-client/src/containers/Auth/Login.js"
--'  99  5  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,99,5,1596593343,"~/wintspo-client/src/containers/Auth/Login.js"
--'  90  5  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,90,5,1596593343,"~/wintspo-client/src/containers/Auth/Login.js"
--'  90  5  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,90,5,1596593343,"~/wintspo-client/src/containers/Auth/Login.js"
--'  90  5  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,90,5,1596593343,"~/wintspo-client/src/containers/Auth/Login.js"
--'  90  5  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,90,5,1596593343,"~/wintspo-client/src/containers/Auth/Login.js"
--'  90  5  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,90,5,1596593343,"~/wintspo-client/src/containers/Auth/Login.js"
--'  90  5  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,90,5,1596593343,"~/wintspo-client/src/containers/Auth/Login.js"
--'  99  5  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,99,5,1596593343,"~/wintspo-client/src/containers/Auth/Login.js"
--'  90  5  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,90,5,1596593343,"~/wintspo-client/src/containers/Auth/Login.js"
--'  90  5  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,90,5,1596593343,"~/wintspo-client/src/containers/Auth/Login.js"
--'  90  5  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,90,5,1596593343,"~/wintspo-client/src/containers/Auth/Login.js"
--'  90  5  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,90,5,1596593343,"~/wintspo-client/src/containers/Auth/Login.js"
--'  90  5  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,90,5,1596593343,"~/wintspo-client/src/containers/Auth/Login.js"
--'  90  5  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,90,5,1596593343,"~/wintspo-client/src/containers/Auth/Login.js"
--'  99  5  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,99,5,1596593343,"~/wintspo-client/src/containers/Auth/Login.js"
--'  90  5  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,90,5,1596593343,"~/wintspo-client/src/containers/Auth/Login.js"
--'  90  5  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,90,5,1596593343,"~/wintspo-client/src/containers/Auth/Login.js"
--'  90  5  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,90,5,1596593343,"~/wintspo-client/src/containers/Auth/Login.js"
--'  90  5  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,90,5,1596593343,"~/wintspo-client/src/containers/Auth/Login.js"
--'  90  5  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,90,5,1596593343,"~/wintspo-client/src/containers/Auth/Login.js"
--'  90  5  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,90,5,1596593343,"~/wintspo-client/src/containers/Auth/Login.js"
--'  99  5  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,99,5,1596593343,"~/wintspo-client/src/containers/Auth/Login.js"
--'  90  5  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,90,5,1596593343,"~/wintspo-client/src/containers/Auth/Login.js"
--'  90  5  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,90,5,1596593343,"~/wintspo-client/src/containers/Auth/Login.js"
--'  90  5  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,90,5,1596593343,"~/wintspo-client/src/containers/Auth/Login.js"
--'  90  5  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,90,5,1596593343,"~/wintspo-client/src/containers/Auth/Login.js"
--'  90  5  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,90,5,1596593343,"~/wintspo-client/src/containers/Auth/Login.js"
--'  90  5  ~/wintspo-client/src/containers/Auth/Login.js
-|4,39,90,5,1596593343,"~/wintspo-client/src/containers/Auth/Login.js"
+-'  16  19  ~/wintspo-server/src/api/auth/auth.controller.js
+|4,39,16,19,1596687091,"~/wintspo-server/src/api/auth/auth.controller.js"
+-'  21  25  ~/wintspo-server/src/api/auth/auth.controller.js
+|4,39,21,25,1596687079,"~/wintspo-server/src/api/auth/auth.controller.js"
+-'  21  25  ~/wintspo-server/src/api/auth/auth.controller.js
+|4,39,21,25,1596686672,"~/wintspo-server/src/api/auth/auth.controller.js"
+-'  20  27  ~/wintspo-server/src/api/auth/auth.controller.js
+|4,39,20,27,1596686596,"~/wintspo-server/src/api/auth/auth.controller.js"
+-'  20  27  ~/wintspo-server/src/api/auth/auth.controller.js
+|4,39,20,27,1596686596,"~/wintspo-server/src/api/auth/auth.controller.js"
+-'  20  27  ~/wintspo-server/src/api/auth/auth.controller.js
+|4,39,20,27,1596686470,"~/wintspo-server/src/api/auth/auth.controller.js"
+-'  26  0  ~/wintspo-server/src/api/auth/auth.controller.js
+|4,39,26,0,1596686330,"~/wintspo-server/src/api/auth/auth.controller.js"
+-'  26  0  ~/wintspo-server/src/api/auth/auth.controller.js
+|4,39,26,0,1596686330,"~/wintspo-server/src/api/auth/auth.controller.js"
+-'  26  0  ~/wintspo-server/src/api/auth/auth.controller.js
+|4,39,26,0,1596686330,"~/wintspo-server/src/api/auth/auth.controller.js"
+-'  6  23  ~/wintspo-server/.env
+|4,39,6,23,1596686115,"~/wintspo-server/.env"
+-'  6  23  ~/wintspo-server/.env
+|4,39,6,23,1596686115,"~/wintspo-server/.env"
+-'  6  23  ~/wintspo-server/.env
+|4,39,6,23,1596686115,"~/wintspo-server/.env"
+-'  6  23  ~/wintspo-server/.env
+|4,39,6,23,1596686115,"~/wintspo-server/.env"
+-'  6  23  ~/wintspo-server/.env
+|4,39,6,23,1596686115,"~/wintspo-server/.env"
+-'  6  23  ~/wintspo-server/.env
+|4,39,6,23,1596686115,"~/wintspo-server/.env"
+-'  6  23  ~/wintspo-server/.env
+|4,39,6,23,1596686115,"~/wintspo-server/.env"
+-'  6  23  ~/wintspo-server/.env
+|4,39,6,23,1596686115,"~/wintspo-server/.env"
+-'  10  8  ~/wintspo-server/src/api/auth/index.js
+|4,39,10,8,1596685751,"~/wintspo-server/src/api/auth/index.js"
+-'  10  8  ~/wintspo-server/src/api/auth/index.js
+|4,39,10,8,1596685751,"~/wintspo-server/src/api/auth/index.js"
+-'  10  8  ~/wintspo-server/src/api/auth/index.js
+|4,39,10,8,1596685751,"~/wintspo-server/src/api/auth/index.js"
+-'  10  8  ~/wintspo-server/src/api/auth/index.js
+|4,39,10,8,1596685751,"~/wintspo-server/src/api/auth/index.js"
+-'  10  8  ~/wintspo-server/src/api/auth/index.js
+|4,39,10,8,1596685751,"~/wintspo-server/src/api/auth/index.js"
+-'  10  8  ~/wintspo-server/src/api/auth/index.js
+|4,39,10,8,1596685751,"~/wintspo-server/src/api/auth/index.js"
+-'  10  8  ~/wintspo-server/src/api/auth/index.js
+|4,39,10,8,1596685751,"~/wintspo-server/src/api/auth/index.js"
+-'  10  8  ~/wintspo-server/src/api/auth/index.js
+|4,39,10,8,1596685751,"~/wintspo-server/src/api/auth/index.js"
+-'  10  8  ~/wintspo-server/src/api/auth/index.js
+|4,39,10,8,1596685751,"~/wintspo-server/src/api/auth/index.js"
+-'  10  8  ~/wintspo-server/src/api/auth/index.js
+|4,39,10,8,1596685751,"~/wintspo-server/src/api/auth/index.js"
+-'  10  8  ~/wintspo-server/src/api/auth/index.js
+|4,39,10,8,1596685751,"~/wintspo-server/src/api/auth/index.js"
+-'  10  8  ~/wintspo-server/src/api/auth/index.js
+|4,39,10,8,1596685751,"~/wintspo-server/src/api/auth/index.js"
+-'  10  8  ~/wintspo-server/src/api/auth/index.js
+|4,39,10,8,1596685751,"~/wintspo-server/src/api/auth/index.js"
+-'  10  8  ~/wintspo-server/src/api/auth/index.js
+|4,39,10,8,1596685751,"~/wintspo-server/src/api/auth/index.js"
+-'  10  8  ~/wintspo-server/src/api/auth/index.js
+|4,39,10,8,1596685751,"~/wintspo-server/src/api/auth/index.js"
+-'  10  8  ~/wintspo-server/src/api/auth/index.js
+|4,39,10,8,1596685751,"~/wintspo-server/src/api/auth/index.js"
+-'  6  31  ~/wintspo-server/src/api/index.js
+|4,39,6,31,1596685713,"~/wintspo-server/src/api/index.js"
+-'  6  31  ~/wintspo-server/src/api/index.js
+|4,39,6,31,1596685713,"~/wintspo-server/src/api/index.js"
+-'  6  31  ~/wintspo-server/src/api/index.js
+|4,39,6,31,1596685713,"~/wintspo-server/src/api/index.js"
+-'  6  31  ~/wintspo-server/src/api/index.js
+|4,39,6,31,1596685713,"~/wintspo-server/src/api/index.js"
+-'  6  31  ~/wintspo-server/src/api/index.js
+|4,39,6,31,1596685713,"~/wintspo-server/src/api/index.js"
+-'  6  31  ~/wintspo-server/src/api/index.js
+|4,39,6,31,1596685713,"~/wintspo-server/src/api/index.js"
+-'  6  31  ~/wintspo-server/src/api/index.js
+|4,39,6,31,1596685713,"~/wintspo-server/src/api/index.js"
+-'  6  31  ~/wintspo-server/src/api/index.js
+|4,39,6,31,1596685713,"~/wintspo-server/src/api/index.js"
+-'  6  31  ~/wintspo-server/src/api/index.js
+|4,39,6,31,1596685713,"~/wintspo-server/src/api/index.js"
+-'  6  31  ~/wintspo-server/src/api/index.js
+|4,39,6,31,1596685713,"~/wintspo-server/src/api/index.js"
+-'  6  31  ~/wintspo-server/src/api/index.js
+|4,39,6,31,1596685713,"~/wintspo-server/src/api/index.js"
+-'  6  31  ~/wintspo-server/src/api/index.js
+|4,39,6,31,1596685713,"~/wintspo-server/src/api/index.js"
+-'  6  31  ~/wintspo-server/src/api/index.js
+|4,39,6,31,1596685713,"~/wintspo-server/src/api/index.js"
+-'  6  31  ~/wintspo-server/src/api/index.js
+|4,39,6,31,1596685713,"~/wintspo-server/src/api/index.js"
+-'  6  31  ~/wintspo-server/src/api/index.js
+|4,39,6,31,1596685713,"~/wintspo-server/src/api/index.js"
+-'  6  31  ~/wintspo-server/src/api/index.js
+|4,39,6,31,1596685713,"~/wintspo-server/src/api/index.js"
+-'  6  31  ~/wintspo-server/src/api/index.js
+|4,39,6,31,1596685713,"~/wintspo-server/src/api/index.js"
+-'  6  31  ~/wintspo-server/src/api/index.js
+|4,39,6,31,1596685713,"~/wintspo-server/src/api/index.js"
+-'  6  31  ~/wintspo-server/src/api/index.js
+|4,39,6,31,1596685713,"~/wintspo-server/src/api/index.js"
+-'  6  31  ~/wintspo-server/src/api/index.js
+|4,39,6,31,1596685713,"~/wintspo-server/src/api/index.js"
+-'  6  31  ~/wintspo-server/src/api/index.js
+|4,39,6,31,1596685713,"~/wintspo-server/src/api/index.js"
+-'  6  31  ~/wintspo-server/src/api/index.js
+|4,39,6,31,1596685713,"~/wintspo-server/src/api/index.js"
+-'  6  31  ~/wintspo-server/src/api/index.js
+|4,39,6,31,1596685713,"~/wintspo-server/src/api/index.js"
+-'  6  31  ~/wintspo-server/src/api/index.js
+|4,39,6,31,1596685713,"~/wintspo-server/src/api/index.js"
+-'  6  31  ~/wintspo-server/src/api/index.js
+|4,39,6,31,1596685713,"~/wintspo-server/src/api/index.js"
+-'  6  31  ~/wintspo-server/src/api/index.js
+|4,39,6,31,1596685713,"~/wintspo-server/src/api/index.js"
+-'  6  31  ~/wintspo-server/src/api/index.js
+|4,39,6,31,1596685713,"~/wintspo-server/src/api/index.js"
+-'  6  31  ~/wintspo-server/src/api/index.js
+|4,39,6,31,1596685713,"~/wintspo-server/src/api/index.js"
+-'  6  31  ~/wintspo-server/src/api/index.js
+|4,39,6,31,1596685713,"~/wintspo-server/src/api/index.js"
+-'  6  31  ~/wintspo-server/src/api/index.js
+|4,39,6,31,1596685713,"~/wintspo-server/src/api/index.js"
+-'  6  31  ~/wintspo-server/src/api/index.js
+|4,39,6,31,1596685713,"~/wintspo-server/src/api/index.js"
+-'  6  31  ~/wintspo-server/src/api/index.js
+|4,39,6,31,1596685713,"~/wintspo-server/src/api/index.js"
+-'  10  42  ~/wintspo-server/src/api/auth/index.js
+|4,39,10,42,1596685706,"~/wintspo-server/src/api/auth/index.js"
+-'  10  42  ~/wintspo-server/src/api/auth/index.js
+|4,39,10,42,1596685706,"~/wintspo-server/src/api/auth/index.js"
+-'  10  42  ~/wintspo-server/src/api/auth/index.js
+|4,39,10,42,1596685706,"~/wintspo-server/src/api/auth/index.js"
+-'  10  42  ~/wintspo-server/src/api/auth/index.js
+|4,39,10,42,1596685706,"~/wintspo-server/src/api/auth/index.js"
+-'  10  42  ~/wintspo-server/src/api/auth/index.js
+|4,39,10,42,1596685706,"~/wintspo-server/src/api/auth/index.js"
+-'  10  42  ~/wintspo-server/src/api/auth/index.js
+|4,39,10,42,1596685706,"~/wintspo-server/src/api/auth/index.js"
+-'  10  42  ~/wintspo-server/src/api/auth/index.js
+|4,39,10,42,1596685706,"~/wintspo-server/src/api/auth/index.js"
+-'  10  42  ~/wintspo-server/src/api/auth/index.js
+|4,39,10,42,1596685706,"~/wintspo-server/src/api/auth/index.js"
+-'  10  42  ~/wintspo-server/src/api/auth/index.js
+|4,39,10,42,1596685706,"~/wintspo-server/src/api/auth/index.js"
+-'  10  42  ~/wintspo-server/src/api/auth/index.js
+|4,39,10,42,1596685706,"~/wintspo-server/src/api/auth/index.js"
+-'  10  42  ~/wintspo-server/src/api/auth/index.js
+|4,39,10,42,1596685706,"~/wintspo-server/src/api/auth/index.js"
+-'  10  42  ~/wintspo-server/src/api/auth/index.js
+|4,39,10,42,1596685706,"~/wintspo-server/src/api/auth/index.js"
+-'  10  42  ~/wintspo-server/src/api/auth/index.js
+|4,39,10,42,1596685706,"~/wintspo-server/src/api/auth/index.js"
+-'  10  42  ~/wintspo-server/src/api/auth/index.js
+|4,39,10,42,1596685706,"~/wintspo-server/src/api/auth/index.js"
+-'  10  42  ~/wintspo-server/src/api/auth/index.js
+|4,39,10,42,1596685706,"~/wintspo-server/src/api/auth/index.js"
+-'  10  42  ~/wintspo-server/src/api/auth/index.js
+|4,39,10,42,1596685706,"~/wintspo-server/src/api/auth/index.js"
+-'  10  42  ~/wintspo-server/src/api/auth/index.js
+|4,39,10,42,1596685706,"~/wintspo-server/src/api/auth/index.js"
+-'  10  42  ~/wintspo-server/src/api/auth/index.js
+|4,39,10,42,1596685706,"~/wintspo-server/src/api/auth/index.js"
+-'  10  42  ~/wintspo-server/src/api/auth/index.js
+|4,39,10,42,1596685706,"~/wintspo-server/src/api/auth/index.js"
+-'  10  42  ~/wintspo-server/src/api/auth/index.js
+|4,39,10,42,1596685706,"~/wintspo-server/src/api/auth/index.js"
+-'  10  42  ~/wintspo-server/src/api/auth/index.js
+|4,39,10,42,1596685706,"~/wintspo-server/src/api/auth/index.js"
+-'  10  42  ~/wintspo-server/src/api/auth/index.js
+|4,39,10,42,1596685706,"~/wintspo-server/src/api/auth/index.js"
+-'  10  42  ~/wintspo-server/src/api/auth/index.js
+|4,39,10,42,1596685706,"~/wintspo-server/src/api/auth/index.js"
+-'  10  42  ~/wintspo-server/src/api/auth/index.js
+|4,39,10,42,1596685706,"~/wintspo-server/src/api/auth/index.js"
+-'  10  42  ~/wintspo-server/src/api/auth/index.js
+|4,39,10,42,1596685706,"~/wintspo-server/src/api/auth/index.js"
+-'  10  42  ~/wintspo-server/src/api/auth/index.js
+|4,39,10,42,1596685706,"~/wintspo-server/src/api/auth/index.js"
+-'  10  42  ~/wintspo-server/src/api/auth/index.js
+|4,39,10,42,1596685706,"~/wintspo-server/src/api/auth/index.js"
+-'  10  42  ~/wintspo-server/src/api/auth/index.js
+|4,39,10,42,1596685706,"~/wintspo-server/src/api/auth/index.js"
+-'  10  42  ~/wintspo-server/src/api/auth/index.js
+|4,39,10,42,1596685706,"~/wintspo-server/src/api/auth/index.js"
+-'  10  42  ~/wintspo-server/src/api/auth/index.js
+|4,39,10,42,1596685706,"~/wintspo-server/src/api/auth/index.js"
+-'  10  42  ~/wintspo-server/src/api/auth/index.js
+|4,39,10,42,1596685706,"~/wintspo-server/src/api/auth/index.js"
+-'  10  42  ~/wintspo-server/src/api/auth/index.js
+|4,39,10,42,1596685706,"~/wintspo-server/src/api/auth/index.js"
+-'  26  0  ~/wintspo-server/src/api/auth/auth.controller.js
+|4,39,26,0,1596685693,"~/wintspo-server/src/api/auth/auth.controller.js"
+-'  26  0  ~/wintspo-server/src/api/auth/auth.controller.js
+|4,39,26,0,1596685693,"~/wintspo-server/src/api/auth/auth.controller.js"
+-'  26  0  ~/wintspo-server/src/api/auth/auth.controller.js
+|4,39,26,0,1596685693,"~/wintspo-server/src/api/auth/auth.controller.js"
 
 # History of marks within files (newest to oldest):
+
+> ~/wintspo-server/src/api/auth/auth.controller.js
+	*	1596687089	0
+	"	16	19
+	^	16	20
+	.	16	19
+	+	1	27
+	+	1	69
+	+	3	40
+	+	28	23
+	+	75	37
+	+	76	20
+	+	113	33
+	+	114	21
+	+	129	33
+	+	135	56
+	+	135	57
+	+	1	0
+	+	3	0
+	+	1	26
+	+	36	1
+	+	30	62
+	+	32	42
+	+	35	49
+	+	37	19
+	+	38	19
+	+	40	2
+	+	59	58
+	+	60	14
+	+	61	20
+	+	72	27
+	+	59	20
+	+	2	8
+	+	44	67
+	+	45	14
+	+	46	20
+	+	49	15
+	+	56	0
+	+	78	35
+	+	81	52
+	+	83	19
+	+	86	2
+	+	88	46
+	+	91	6
+	+	92	45
+	+	93	14
+	+	94	20
+	+	97	54
+	+	100	2
+	+	110	27
+	+	81	43
+	+	127	0
+	+	67	14
+	+	68	20
+	+	71	92
+	+	72	0
+	+	66	16
+	+	105	14
+	+	106	20
+	+	108	0
+	+	109	92
+	+	129	27
+	+	135	1
+	+	136	0
+	+	134	0
+	+	135	2
+	+	137	26
+	+	138	30
+	+	139	12
+	+	144	1
+	+	3	41
+	+	5	30
+	+	6	47
+	+	7	19
+	+	8	25
+	+	15	2
+	+	5	24
+	+	19	58
+	+	21	33
+	+	22	17
+	+	23	14
+	+	16	18
+	+	22	12
+	+	23	25
+	+	24	4
+	+	25	1
+	+	20	27
+	+	16	19
+
+> ~/wintspo-server/.env
+	*	1596686114	0
+	"	6	23
+	^	6	24
+	.	6	23
+	+	2	114
+	+	3	20
+	+	4	20
+	+	6	26
+	+	5	29
+	+	6	23
+
+> ~/wintspo-server/src/api/auth/index.js
+	*	1596685749	0
+	"	10	8
+	^	10	9
+	.	10	8
+	+	1	37
+	+	3	46
+	+	5	52
+	+	6	46
+	+	7	65
+	+	8	38
+	+	12	21
+	+	5	11
+	+	6	11
+	+	9	23
+	+	10	8
+
+> ~/wintspo-server/src/api/index.js
+	*	1596685712	0
+	"	6	31
+	^	6	32
+	.	7	0
+	+	1	37
+	+	2	0
+	+	7	34
+	+	7	74
+	+	7	77
+	+	8	20
+	+	3	58
+	+	6	41
+	+	7	0
+	+	8	0
+	+	4	31
+	+	6	31
+	+	4	0
+	+	7	0
+
+> ~/wintspo-server/src/index.js
+	*	1596684800	0
+	"	1	26
+	^	9	47
+	.	10	0
+	+	45	2
+	+	42	10
+	+	42	8
+	+	42	18
+	+	42	0
+	+	44	28
+	+	1	0
+	+	4	37
+	+	41	31
+	+	41	21
+	+	41	2
+	+	41	26
+	+	41	25
+	+	41	57
+	+	41	3
+	+	41	114
+	+	12	57
+	+	38	32
+	+	38	56
+	+	12	89
+	+	38	67
+	+	12	57
+	+	38	32
+	+	12	86
+	+	38	69
+	+	1	27
+	+	13	0
+	+	13	38
+	+	41	0
+	+	43	14
+	+	44	64
+	+	41	112
+	+	41	23
+	+	41	0
+	+	13	0
+	+	13	37
+	+	13	41
+	+	13	8
+	+	13	16
+	+	13	51
+	+	13	2
+	+	13	14
+	+	13	18
+	+	13	2
+	+	13	0
+	+	13	51
+	+	13	80
+	+	13	0
+	+	13	23
+	+	13	3
+	+	13	102
+	+	5	37
+	+	11	33
+	+	13	0
+	+	13	22
+	+	11	0
+	+	6	44
+	+	40	0
+	+	38	21
+	+	13	0
+	+	13	33
+	+	13	0
+	+	35	0
+	+	13	189
+	+	5	50
+	+	7	28
+	+	13	0
+	+	14	184
+	+	13	51
+	+	14	51
+	+	14	165
+	+	41	24
+	+	40	0
+	+	41	0
+	+	5	35
+	+	26	2
+	+	19	24
+	+	8	35
+	+	28	90
+	+	29	10
+	+	30	19
+	+	31	9
+	+	32	2
+	+	33	20
+	+	34	2
+	+	9	46
+	+	39	22
+	+	10	0
+
+> ~/wintspo-server/yarn.lock
+	*	1596684597	0
+	"	58	0
+
+> ~/wintspo-server/package.json
+	*	1596684585	0
+	"	15	3
+	^	15	57
+	.	15	31
+	+	2	17
+	+	11	52
+	+	12	2
+	+	8	3
+	+	14	27
+	+	15	31
+	+	14	14
+	+	15	18
+	+	14	26
+	+	15	31
+
+> ~/wintspo-server/package-lock.json
+	*	1596684574	0
+	"	425	11
+
+> ~/wintspo-server/.en
+	*	1596684310	0
+	"	1	0
+
+> ~/wintspo-server/src/.env
+	*	1596684304	0
+	"	1	0
+
+> ~/wintspo-server/src/models/account.js
+	*	1596684277	0
+	"	4	46
+	^	4	47
+	.	5	0
+	+	1	37
+	+	2	28
+	+	11	136
+	+	12	24
+	+	12	36
+	+	12	16
+	+	12	128
+	+	12	38
+	+	12	54
+	+	12	75
+	+	12	79
+	+	12	91
+	+	12	105
+	+	12	126
+	+	12	130
+	+	14	62
+	+	15	44
+	+	16	3
+	+	60	51
+	+	3	33
+	+	7	25
+	+	8	91
+	+	12	22
+	+	19	53
+	+	20	60
+	+	21	81
+	+	50	1
+	+	11	8
+	+	4	46
+	+	50	2
+	+	58	42
+	+	59	1
+	+	55	5
+	+	12	8
+	+	13	17
+	+	15	0
+	+	13	1
+	+	20	22
+	+	22	0
+	+	29	0
+	+	30	14
+	+	38	0
+	+	39	16
+	+	43	0
+	+	47	90
+	+	58	0
+	+	6	21
+	+	10	16
+	+	18	16
+	+	36	8
+	+	45	0
+	+	46	9
+	+	52	39
+	+	4	87
+	+	8	156
+	+	8	180
+	+	9	0
+	+	5	0
+
+> ~/wintspo-server/src/lib/token.js
+	*	1596644272	0
+	"	52	37
+	^	39	68
+	.	39	67
+	+	2	36
+	+	4	33
+	+	5	44
+	+	7	52
+	+	7	74
+	+	12	29
+	+	13	20
+	+	52	37
+	+	7	2
+	+	7	20
+	+	7	11
+	+	7	31
+	+	7	20
+	+	7	32
+	+	12	0
+	+	7	12
+	+	8	12
+	+	9	13
+	+	10	24
+	+	14	3
+	+	15	2
+	+	16	2
+	+	6	0
+	+	7	2
+	+	8	3
+	+	9	3
+	+	10	3
+	+	11	3
+	+	14	3
+	+	15	2
+	+	20	29
+	+	22	24
+	+	23	53
+	+	24	28
+	+	25	21
+	+	26	6
+	+	29	1
+	+	31	46
+	+	32	47
+	+	33	26
+	+	36	43
+	+	37	54
+	+	39	71
+	+	40	48
+	+	43	6
+	+	44	3
+	+	46	14
+	+	50	1
+	+	39	67
+
+> ~/wintspo-server/src/lib/tokens.js
+	*	1596644250	0
+	"	1	0
+
+> ~/wintspo-server/src/models/book.js
+	*	1596638590	0
+	"	6	13
+	^	4	11
+	.	4	10
+	+	1	37
+	+	2	28
+	+	19	2
+	+	10	0
+	+	21	45
+	+	11	22
+	+	15	16
+	+	17	25
+	+	4	10
+
+> ~/wintspo-server/src/api/books/index.js
+	*	1596638178	0
+	"	3	26
+	^	12	38
+	.	12	37
+	+	5	22
+	+	5	86
+	+	5	13
+	+	4	48
+	+	5	34
+	+	5	32
+	+	5	56
+	+	5	1
+	+	5	22
+	+	5	23
+	+	5	19
+	+	5	20
+	+	5	12
+	+	4	0
+	+	5	0
+	+	5	22
+	+	5	0
+	+	13	22
+	+	7	0
+	+	8	31
+	+	8	72
+	+	8	0
+	+	13	0
+	+	8	31
+	+	13	0
+	+	9	33
+	+	9	103
+	+	13	0
+	+	10	39
+	+	11	37
+	+	12	37
+
+> ~/wintspo-server/src/api/books/books.controller.js
+	*	1596638164	0
+	"	157	1
+	^	142	0
+	.	142	0
+	+	6	1
+	+	5	0
+	+	1	35
+	+	6	0
+	+	13	25
+	+	32	1
+	+	23	3
+	+	1	22
+	+	7	0
+	+	14	4
+	+	15	3
+	+	23	0
+	+	31	0
+	+	34	31
+	+	41	14
+	+	42	27
+	+	46	1
+	+	41	0
+	+	40	62
+	+	71	1
+	+	60	4
+	+	56	36
+	+	59	1
+	+	60	1
+	+	86	2
+	+	88	34
+	+	88	0
+	+	88	3
+	+	88	0
+	+	88	29
+	+	157	1
+	+	137	0
+	+	88	27
+	+	133	2
+	+	3	51
+	+	88	0
+	+	133	1
+	+	134	0
+	+	110	24
+	+	138	31
+	+	140	12
+	+	142	0
 
 > ~/wintspo-client/src/containers/Base/HeaderContainer.js
 	*	1596599353	0
@@ -777,15 +1263,6 @@ $
 	+	10	20
 	+	20	0
 
-> ~/wintspo-server/.env
-	*	1596519949	0
-	"	4	19
-	^	4	20
-	.	4	19
-	+	2	114
-	+	3	20
-	+	4	19
-
 > ~/wintspo-client/src/index.js
 	*	1596383063	0
 	"	11	23
@@ -873,410 +1350,16 @@ $
 	*	1596378849	0
 	"	1	0
 
-> ~/wintspo-server/src/api/auth/index.js
-	*	1596115337	0
-	"	9	22
-	^	9	23
-	.	9	23
-	+	1	37
-	+	3	46
-	+	5	52
-	+	6	46
-	+	7	65
-	+	8	38
-	+	11	21
-	+	5	11
-	+	6	11
-	+	9	23
-
-> ~/wintspo-server/src/api/auth/auth.controller.js
-	*	1596115021	0
-	"	121	1
-	^	121	2
-	.	121	1
-	+	1	27
-	+	1	69
-	+	3	40
-	+	5	23
-	+	52	37
-	+	53	20
-	+	90	33
-	+	91	21
-	+	106	33
-	+	112	56
-	+	112	57
-	+	1	0
-	+	3	0
-	+	1	26
-	+	13	1
-	+	7	62
-	+	9	42
-	+	12	49
-	+	14	19
-	+	15	19
-	+	17	2
-	+	36	58
-	+	37	14
-	+	38	20
-	+	49	27
-	+	36	20
-	+	2	8
-	+	21	67
-	+	22	14
-	+	23	20
-	+	26	15
-	+	33	0
-	+	55	35
-	+	58	52
-	+	60	19
-	+	63	2
-	+	65	46
-	+	68	6
-	+	69	45
-	+	70	14
-	+	71	20
-	+	74	54
-	+	77	2
-	+	87	27
-	+	58	43
-	+	104	0
-	+	44	14
-	+	45	20
-	+	48	92
-	+	49	0
-	+	43	16
-	+	82	14
-	+	83	20
-	+	85	0
-	+	86	92
-	+	106	27
-	+	112	1
-	+	113	0
-	+	111	0
-	+	112	2
-	+	114	26
-	+	115	30
-	+	116	12
-	+	121	1
-
-> ~/wintspo-server/src/models/account.js
-	*	1596114595	0
-	"	76	41
-	^	72	6
-	.	72	5
-	+	1	37
-	+	2	28
-	+	12	78
-	+	14	24
-	+	16	11
-	+	14	16
-	+	24	0
-	+	17	0
-	+	18	2
-	+	19	1
-	+	20	1
-	+	21	2
-	+	22	2
-	+	23	1
-	+	24	2
-	+	26	44
-	+	27	44
-	+	28	3
-	+	78	51
-	+	3	33
-	+	6	25
-	+	7	91
-	+	14	22
-	+	30	53
-	+	31	60
-	+	34	79
-	+	68	1
-	+	9	8
-	+	4	46
-	+	68	2
-	+	76	42
-	+	77	1
-	+	72	5
-
 > ~/wintspo-server/src/api/auth/auth.control.js
 	*	1596114021	0
 	"	1	0
-
-> ~/wintspo-server/src/lib/token.js
-	*	1596114002	0
-	"	39	31
-	^	50	2
-	.	50	1
-	+	2	36
-	+	4	33
-	+	5	44
-	+	7	52
-	+	7	74
-	+	12	29
-	+	13	20
-	+	52	37
-	+	7	2
-	+	7	20
-	+	7	11
-	+	7	31
-	+	7	20
-	+	7	32
-	+	12	0
-	+	7	12
-	+	8	12
-	+	9	13
-	+	10	24
-	+	14	3
-	+	15	2
-	+	16	2
-	+	6	0
-	+	7	2
-	+	8	3
-	+	9	3
-	+	10	3
-	+	11	3
-	+	14	3
-	+	15	2
-	+	20	29
-	+	22	24
-	+	23	53
-	+	24	28
-	+	25	21
-	+	26	6
-	+	29	1
-	+	31	46
-	+	32	47
-	+	33	26
-	+	36	43
-	+	37	54
-	+	39	71
-	+	40	48
-	+	43	6
-	+	44	3
-	+	46	14
-	+	50	1
-
-> ~/wintspo-server/src/index.js
-	*	1596113827	0
-	"	45	2
-	^	45	3
-	.	39	22
-	+	45	2
-	+	42	10
-	+	42	8
-	+	42	18
-	+	42	0
-	+	44	28
-	+	1	0
-	+	4	37
-	+	41	31
-	+	41	21
-	+	41	2
-	+	41	26
-	+	41	25
-	+	41	57
-	+	41	3
-	+	41	114
-	+	12	57
-	+	38	32
-	+	38	56
-	+	12	89
-	+	38	67
-	+	12	57
-	+	38	32
-	+	12	86
-	+	38	69
-	+	1	27
-	+	13	0
-	+	13	38
-	+	41	0
-	+	43	14
-	+	44	64
-	+	41	112
-	+	41	23
-	+	41	0
-	+	13	0
-	+	13	37
-	+	13	41
-	+	13	8
-	+	13	16
-	+	13	51
-	+	13	2
-	+	13	14
-	+	13	18
-	+	13	2
-	+	13	0
-	+	13	51
-	+	13	80
-	+	13	0
-	+	13	23
-	+	13	3
-	+	13	102
-	+	5	37
-	+	11	33
-	+	13	0
-	+	13	22
-	+	11	0
-	+	6	44
-	+	40	0
-	+	38	21
-	+	13	0
-	+	13	33
-	+	13	0
-	+	35	0
-	+	13	189
-	+	5	50
-	+	7	28
-	+	13	0
-	+	14	184
-	+	13	51
-	+	14	51
-	+	14	165
-	+	41	24
-	+	40	0
-	+	41	0
-	+	5	35
-	+	26	2
-	+	19	24
-	+	8	35
-	+	28	90
-	+	29	10
-	+	30	19
-	+	31	9
-	+	32	2
-	+	33	20
-	+	34	2
-	+	9	46
-	+	39	22
 
 > ~/wintspo-server/src/models/accounts.js
 	*	1596095155	0
 	"	1	0
 
-> ~/wintspo-server/src/models/book.js
-	*	1596088139	0
-	"	21	41
-	^	4	11
-	.	4	10
-	+	1	37
-	+	2	28
-	+	19	2
-	+	10	0
-	+	21	45
-	+	11	22
-	+	15	16
-	+	17	25
-	+	4	10
-
 > ~/wintspo-server/src/models/book.ks
 	*	1596088134	0
-	"	1	0
-
-> ~/wintspo-server/src/api/books/books.controller.js
-	*	1596087022	0
-	"	1	35
-	^	142	0
-	.	142	0
-	+	6	1
-	+	5	0
-	+	1	35
-	+	6	0
-	+	13	25
-	+	32	1
-	+	23	3
-	+	1	22
-	+	7	0
-	+	14	4
-	+	15	3
-	+	23	0
-	+	31	0
-	+	34	31
-	+	41	14
-	+	42	27
-	+	46	1
-	+	41	0
-	+	40	62
-	+	71	1
-	+	60	4
-	+	56	36
-	+	59	1
-	+	60	1
-	+	86	2
-	+	88	34
-	+	88	0
-	+	88	3
-	+	88	0
-	+	88	29
-	+	157	1
-	+	137	0
-	+	88	27
-	+	133	2
-	+	3	51
-	+	88	0
-	+	133	1
-	+	134	0
-	+	110	24
-	+	138	31
-	+	140	12
-	+	142	0
-
-> ~/wintspo-server/src/api/books/index.js
-	*	1596085539	0
-	"	3	26
-	^	12	38
-	.	12	37
-	+	5	22
-	+	5	86
-	+	5	13
-	+	4	48
-	+	5	34
-	+	5	32
-	+	5	56
-	+	5	1
-	+	5	22
-	+	5	23
-	+	5	19
-	+	5	20
-	+	5	12
-	+	4	0
-	+	5	0
-	+	5	22
-	+	5	0
-	+	13	22
-	+	7	0
-	+	8	31
-	+	8	72
-	+	8	0
-	+	13	0
-	+	8	31
-	+	13	0
-	+	9	33
-	+	9	103
-	+	13	0
-	+	10	39
-	+	11	37
-	+	12	37
-
-> ~/wintspo-server/src/api/index.js
-	*	1596085500	0
-	"	7	28
-	^	7	32
-	.	7	31
-	+	1	37
-	+	2	0
-	+	9	34
-	+	9	74
-	+	9	77
-	+	10	20
-	+	4	33
-	+	8	9
-	+	9	0
-	+	10	0
-	+	5	31
-	+	7	31
-
-> ~/wintspo-server/src/.env
-	*	1596082984	0
 	"	1	0
 
 > ~/wintspo-server/src/index.jjs
@@ -1291,22 +1374,6 @@ $
 	+	1	27
 	+	2	51
 	+	34	0
-
-> ~/wintspo-server/package.json
-	*	1596024802	0
-	"	15	56
-	^	15	57
-	.	15	31
-	+	2	17
-	+	11	52
-	+	12	2
-	+	8	3
-	+	14	27
-	+	15	31
-	+	14	14
-	+	15	18
-	+	14	26
-	+	15	31
 
 > ~/wintspo-server/jsconfig.json
 	*	1596017411	0

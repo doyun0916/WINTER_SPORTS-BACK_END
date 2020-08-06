@@ -1,285 +1,3 @@
-sudo apt-get update
-sudo curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.2/install.sh | bash
-nvm install v8.1.2
-sudo curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh | bash
-nvm --version
-nvm -version
-nvm install v8.1.2
-node -v
-curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh | bash
-exit
-nvm install v8.1.2
-node -v
-ls
-mkdir wintspo-server
-ls
-cd wintspo-server
-ls
-yarn init
-cd ..
-curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
-echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list
-sudo apt update && sudo apt install yarn
-ls
-cd wintspo-server
-ls
-yarn init
-yarn add koa
-ls
-vim package.json
-ls
-cd ..
-node -v
-npm -v
-nvm ls
-nvm install 10.13.0
-nvm ls
-node -v
-nvm alias default v10.13.0
-ls
-cd wintspo-server
-ls
-yarn add koa
-ls
-mkdir src
-cd src
-vim index.js
-cd ..
-node src
-npm install -g nodemon
-nodemon --watch src/ src/index.js
-ls
-vim package.json
-yarn start
-yarn start:dev
-yarn add koa-router
-ls
-cd src
-ls
-vim index.js
-cd ..
-yarn start
-ls
-cd src
-ls
-vim index.js
-ls
-yarn start
-ls
-mkdir api
-ls
-cd api
-vim index.js
-cd ..
-ls
-vim index.js
-yarn start
-ls
-vim api
-cd api
-vim index.js
-ls
-cd ..
-ls
-vim index.js
-cd api
-vim index.js
-ls
-cd ..
-ls
-vim index.js
-yarn start
-ls
-vim index.js
-ls
-yarn start
-ls
-vim index.js
-ls
-cd api
-ls
-mkdir books
-ls
-cd books
-ls
-vim index.js
-cd ..
-ls
-vim index.js
-cd ..
-vim index.js
-ls
-cd api
-ls
-vim index.js
-ls
-cd books
-ls
-vim index.js
-yarn start
-ls
-vim index.js
-yat nstart
-yarn start
-ls
-vim index.js
-cd ..
-ls
-vim index.js
-yatn start
-yarn start
-ls
-cd ..
-ls
-mkdir books
-ls
-cd books
-vim index.js
-ls
-cd ..
-ls
-vim index.js
-;s
-ls
-vim index.js
-ls
-cd books
-ls
-vim index.js
-ls
-vim index.js
-cd ..
-ls
-cd books
-ls
-vim index.js
-cd ..
-ls
-vim index.js
-yarn start
-ls
-vim index.js
-ls
-cd books
-ls
-vim index.js
-ls
-cd ..
-ls
-cd api
-cd books
-ls
-vim books.controller.js
-ls
-vim index.js
-yarn start
-ls
-vim books.controller.js
-ls
-vim index.js
-yarn start
-ls
-cd ..
-ls
-cd ..
-ls
-cd books
-ls
-vim index.js
-ls
-cd ..
-ls
-cd api
-ls
-cd ..
-cd index.js
-ls
-vim index.js
-ls
-vim index.js
-ls
-cd books
-vim index.js
-ls
-cd ..
-ls
-cd api
-cd books
-ls
-vim index.js
-ls
-cd ..
-ls
-cd ..
-ls
-rm -rf books
-ls
-yarn start
-ls
-cd api
-ls
-cd books
-ls
-vim index.js
-ls
-cd ..
-yarn start
-ls
-cd books
-ls
-vim index.js
-ls
-cd ..
-ls
-vim index.js
-ls
-cd ..
-ls
-vim src
-cd src
-ls
-vim indes.jx
-vim index.js
-ls
-vim api
-cd api
-ls
-vim index.js
-ls
-vim books
-cd books
-ls
-vim index.js
-yarn start
-cd ..
-ls
-cd ..
-ls
-mkdir books
-ls
-cd books
-ls
-vim index.js
-yarn start
-ls
-cd ..
-ls
-cd api
-ls
-vim index.js
-ls
-cd books
-ls
-vim index.js
-ls
-rm books.controller.js
-ls
-cd ..
-ls
-cd ..
-ls
-yarn start
-ls
 cd books
 ls
 vim index.js
@@ -1940,5 +1658,343 @@ cd containers
 cd Auth
 ls
 vim Register.js
+yarn start
+exit
+cd wintspo-client
+ls
+cd ..
+ls
+git status
+git add .
+git commit -m "front-ended till register_connection"
+git push -u origin master
+git push -u -f origin master
+ls
+cd wintspo-client
+ls
+cd src
+cd redux
+cd modules
+vim user.js
+vim index.js
+ls
+cd ..
+cd lib
+vim storage.js
+ls
+cd ..
+cd containers
+cd Auth
+ls
+vim Register.js
+vim Login.js
+cd ..
+ls
+vim App.j
+vim App.js
+yarn start
+ls
+cd containers
+ls
+Auth
+cd Auth
+ls
+vim Login.js
+yarn start
+cd ..
+ls
+cd Baer
+cd Base
+ls
+vim HeaderContainer.js
+cd ..
+yarn add query-string
+cd src
+cd containers
+ls
+cd Auth
+ls
+vim Login.js
+yarn start
+cd ..
+cd Base
+vim HeadContainer.js
+vim HeaderContainer.js
+ls
+yanr start
+yarn start
+cd ..
+ls
+git add .
+git commit -m "proto_completed"
+git status
+git push -u -f origin mater
+git push -u -f origin master
+exit
+cd wintspo-server
+yarn start
+exit
+ls
+cd wintspo-client
+yarn start
+EXIT
+exit
+ls
+cd wintspo-server
+yarn start
+EXIT
+exit
+ls
+cd wintspo-server
+ls
+cd src
+ls
+vim index.js
+ls
+cd lib
+ls
+vim token.js
+ls
+cd ..
+ls
+cd models
+ls
+vim account.js
+ls
+cd wintspo-server
+ls
+cd src
+ls
+vim index.js
+ls
+cd api
+ls
+vim index.js
+ls
+cd books
+ls
+vim books.controller.js
+ls
+vim index.js
+cd ..
+ls
+cd auth
+ls
+vim auth.controller.js
+ls
+cd ..
+ls
+rm -rf books
+ls
+cd ..
+ls
+cd ..
+ls
+cd src
+cd lib
+ls
+cd ..
+ls
+cd models
+ls
+vim account.js
+ls
+vim book.js
+ls
+vim account.js
+vim book.js
+ls
+rm book.js
+ls
+cd ..
+ls
+cd lib
+ls
+vim token.js
+ls
+cd ..
+ls
+yarn start
+ls
+cd lib
+ls
+vim token.js
+ls
+cd ..
+ls
+cd models
+ls
+vim account.js
+ls
+vim account.js
+ls
+cd ..
+ls
+cd lib
+ls
+vim token.js
+ls
+yarn start
+ls
+vim token.js
+yarn start
+ls
+cd ..
+ls
+cd models.
+cd models
+ls
+cd ..
+ls
+cd api
+ls
+vim index.js
+ls
+cd auth
+ls
+vim index.js
+ls
+vim auth.controller.js
+ls
+cd ..
+ls
+c d..
+ls
+cd ..
+ls
+vim lib
+ls
+cd lib
+ls
+vim token.js
+ls
+cd ..
+ls
+cd models
+ls
+vim account.js
+ls
+cd ..
+ls
+cd models
+ls
+vim account.js
+ls
+cd ..
+ls
+cd models
+ls
+vim account.js
+ls
+cd ..
+ls
+vim lib
+cd lib
+ls
+vim tokens.js
+ls
+vim token.js
+ls
+cd ..
+ls
+cd api
+ls
+cd auth
+ls
+vim auth.controller.js
+exit
+ls
+cd wintspo-client
+yarn start
+exit
+ls
+cd wintspo-server
+npm i nodemailer
+ls
+cd src
+ls
+vim index.js
+ls
+cd models
+ls
+vim account.js
+ls
+cd ..
+ls
+vim index.js
+ls
+vim .env
+ls
+cd ..
+vim .en
+vim .env
+ls
+cd src
+ls
+vim index.js
+cd ..
+yanr add nodemailer
+yarn add nodemailer
+ls
+vim package-lock.json
+ls
+vim package.json
+vim yarn.lock
+ls
+rm package-lock.json
+ls
+ls -la
+ls
+cd src
+ls
+vim index.js
+ls
+cd api
+ls
+vim index.js
+ls
+cd auth
+ls
+vim auth.controller.js
+ls
+vim index.js
+ls
+cd auth.controller.js
+vim auth.controller.js
+ls
+vim index.js
+ls
+cd ..
+ls
+vim index.js
+yarn start
+ls
+auth
+cd auth
+ls
+vim index.js
+cd ..
+ls
+yarn start
+ls
+cd ..
+ls
+ls -la
+vim .env
+yarn start
+ls
+cd src
+ls
+cd api
+ls
+cd auth
+ls
+vim auth.controller.js
+ls
+yanr start
+yarn start
+ls
+vim auth.controller.js
+ls
 yarn start
 exit
