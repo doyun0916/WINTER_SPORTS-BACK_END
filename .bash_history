@@ -1,999 +1,3 @@
-vim index.js
-yarn start
-ls
-vim books.controller.js
-yarn start
-cd ..
-ls
-cd ..
-ls
-vim index.js
-yarn start
-ls
-cd api
-ls
-cd books
-cd ..
-ls
-cd comments
-ls
-cd comments.controller.js
-ls
-vim comments.controller.js
-cd ..
-ls
-rm -rf comments
-ls
-cd books
-ls
-vim books.controller.js
-yarn start
-ls
-vim books.controller.js
-joi --version
-joi -v
-Joi -n
-Joi -v
-Joi -version
-Joi --version
-ls
-vim books.controller.js
-yarn start
-ls
-vim books.controller.js
-ls
-yarn start
-exit
-ls
-cd wintspo-server
-ls
-sl
-ls
-cd src
-ls
-cd models
-ls
-vim account.js
-cd ..
-ls
-vim index.jjs
-ls
-vim index.js
-vim .env
-cd ..
-vim .env
-ls
-cd src
-ls
-cd models
-ls
-cd account.js
-vim account.js
-ls
-cd ..
-ls
-cd api
-ls
-mkdir
-mkdir auth
-ls
-cd auth
-ls
-vim
-ls
-vim auth.controller.js
-ls
-cd ..
-ls
-cd books
-ls
-cd ..
-ls
-auth
-ls
-cd auth
-ls
-vim index.js
-ls
-vim auth.controller.js
-cd ..
-vim index.js
-yarn start
-ls
-cd ..
-ls
-cd models
-ls
-cd ..
-ls
-cd api
-ls
-cd ..
-cd models
-ls
-cd ..
-ls
-cd models
-ls
-vim account.js
-ls
-cd ..
-ls
-cd api
-ls
-cd auth
-ls
-cd auth.controller.js
-vim auth.controller.js
-yarn start
-ls
-vim auth.controller.js
-ls
-vim index.js
-ls
-cd ..
-ls
-vim index.js
-cd ..
-ls
-vim index.js
-cd api
-ls
-vim index.js
-ls
-cd books
-ls
-vim index.js
-ls
-cd ..
-cd auth
-ls
-vim index.js
-yarn start
-ls
-vim auth.controller.js
-yarn start
-ls
-vim auth.controller.js
-yarn start
-ls
-vim index.js
-vim auth.controller.js
-ls
-cd ..
-ls
-cd books
-ls
-vim books.controller.js
-ls
-cd ..
-ls
-cd ..
-ls
-cd models
-ls
-vim account.js
-ls
-vim book.js
-ls
-cd ..
-ls
-cd api
-ls
-cd books
-ls
-vim books.controller.js
-ls
-cd ..
-ls
-cd auth
-ls
-vim auth.controller.js
-yarn start
-ls
-vim auth.controller.js
-ls
-yarn start
-ls
-cd ..
-ls
-cd ..
-ls
-cd models
-ls
-vim account.js
-yarn start
-ls
-vim book.js
-vim account.js
-ls
-cd ..
-ls
-cd api
-ls
-cd auth
-cd auth.controller.js
-vim auth.controller.js
-ls
-vim auth.controller.js
-ls
-cd ..
-ls
-cd ..
-ls
-cd models
-ls
-vim account.js
-ls
-cd ..
-ls
-cd api
-ls
-cd auth
-ls
-vim auth.controller.js
-ls
-vim index.js
-ls
-cd ..
-cd models
-ls
-vim book.ks
-vim book.js
-vim account.js
-ls
-cd ..
-ls
-cd src
-ls
-cd api
-ls
-cd auth
-ls
-vim auth.controller.js
-ls
-yarn start
-ls
-vim auth.controller.js
-yarn start
-ls
-vim auth.controller.js
-vim index.js
-vim auth.controller.js
-yarn start
-ls
-vim auth.controller.js
-ls
-yarn start
-cd ..
-vim .env
-yarn add jsonwebtoken
-ls
-cd src
-ls
-vim index.js
-ls
-cd ..
-ls
-cd src
-ls
-cd models
-ls
-vim account.js
-cd ..
-ls
-vim index.js
-yarn start
-ls
-cd lib
-cd ..
-ls
-cd lib
-ls -la
-ls
-cd sr 
-cd src
-ls
-ls -la
-mkdir lib
-ls
-cd lib
-vim token.js
-ls
-cd ..
-ls
-cd models
-ls
-vim account.js
-ls
-cd ..
-ls
-cd api
-ls
-cd auth
-ls
-vim auth.controller.js
-yarn start
-ls
-cd ..
-ls
-cd ..
-ls
-cd models
-ls
-cd account.js
-vim account.js
-ls
-yarn start
-ls
-cd ..
-ls
-cd api
-ls
-cd auth
-ls
-vim auth.controller.js
-yarn start
-ls
-vim auth.controller.js
-ls
-yarn start
-vim auth.controller.js
-
-vim auth.controller.js
-yarn start
-ls
-vim auth.controller.js
-ls
-cd ..
-ls
-cd ..
-ls
-cd models
-ls
-vim accounts.js
-vim account.js
-cd ..
-ls
-cd src
-ls
-cd api
-ls
-cd auth
-ls
-cd auth.controller.js
-vim auth.controller.js
-yarn start
-vim auth.controller.js
-exit
-ls
-cd wintspo-server
-ls
-cd src
-ls
-cd api
-ls
-cd auth
-ls
-vim index.js
-exit
-ls
-cd wintspo-server
-ls
-cd src
-ls
-cd lib
-ls
-vim token.js
-cd ..
-ls
-vim index.js
-ls
-cd api
-ls
-cd auth
-ls
-cd auth.controller.js
-vim auth.controller.js
-vim index.js
-ls
-cd ..
-ls
-cd lib
-ls
-vim token.js
-ls
-cd ..
-ls
-cd api
-ls
-cd auth
-vim auth.control.js
-ls
-vim auth.controller.js
-cd ..
-ls
-cd ..
-ls
-cd models
-ls
-vim account.js
-ls
-cd ..
-ls
-cd api
-ls
-cd auth
-ls
-vim auth.controller.js
-ls
-vim index.js
-ls
-yarn start
-ls
-cd wintspo-client
-ls
-cd config
-ls
-vim webpack.config.js
-npm start
-cd ..
-npm install --save @babel/polyfill
-ls
-cd config
-ls
-vim webpack.config.js
-npt start
-yarn start
-ls
-vim webpack.config.js
-ls
-cd ..
-ls
-cd ..
-ls
-rm -rf wintspo-client
-ls
-create-react-app wintspo-client
-yarn add react-router-dom react-redux redux redux-actions immutable styled-components open-color
-ls
-ls -la
-s
-ls
-cd wintspo-client
-ls
-yarn add react-router-dom react-redux redux redux-actions immutable styled-components open-color
-ls -la
-cd ..
-ls
-ls =la
-ls -la
-rm -rf node_modules
-ls
-ls -la
-cd .config
-ls
-ls -la
-cd ..
-ls
-ls -la
-cd .gnupg
-ls
-ls -a
-ls -la
-cd private-keys-v1.d
-ls
-ls -la
-cd ..
-ls
-cd wintspo-server
-ls
-ls -la
-vim .env
-ls
-ls -la
-vim .env
-ls
-cd ..
-git --hard 59db55c4ba2a2325279aa8e1f08417142fcff51f
-git reset --hard 59db55c4ba2a2325279aa8e1f08417142fcff51f
-ls
-ls -la
-git status
-ls
-cd wintspo-server
-ls
-ls -la
-ls
-git checkout .
-cd ..
-git checkout .
-ls
-git clone https://github.com/doyun0916/WinterSports-server.git
-ls
-ls -la
-ls
-vim WinterSports-server
-ls
-cd WinterSports-server
-ls
-ls -la
-cd ..
-ls
-ls -la
-ls
-rm -rf WinterSports-server
-ls
-vim package.json
-ls
-ls -la
-ls
-cd wintspo-client
-ls
-ls -la
-cd ..
-ls
-ls -la
-cd .config
-ls
-cd configstore
-ls
-cd ..
-ls -la
-cd .gnupg
-ls
-cd ..
-ls
-ls -la
-cd .yarn
-ls
-cd bin
-ls
-ls -la
-cd ..
-ls
-ls -la
-cd ..
-ls
-ls -la
-rm -rf .yarn
-ls -la
-rm package.json
-ls -la
-rm yarn.lock
-ls
-rm -rf wintspo-client
-ls
-ls -la
-cd wintspo-server
-ls
-yarn start
-cd ..
-ls
-exit
-ls
-create-react-app wintspo-client
-ls
-cd wintspo-client
-yarn add react-router-dom react-redux redux redux-actions immutable styled-components open-color
-ls
-vim package.json
-yarn start
-ls
-vim package.json
-yarn start
-vim .jsconfig.json
-ls
-mkdir components containers lib pages redux
-ls
-rm components containers lib pages redux
-rmdir components containers lib pages redux
-ls
-cd src
-ls
-mkdir components containers lib pages redux
-ls
-rm App.css
-rm App.test.js
-rm logo.svg
-cd pages
-ls
-vim Auth.js
-vim Home.js
-vim index.js
-cd ..
-vim App.js
-ls
-vim Root.js
-vim index.js
-yarn start
-ls
-cd redux
-ls
-mkdir modules
-cd modules
-ls
-vim base.js
-vim index.js
-cd ..
-vim configureStore.js
-ls
-cd ..
-vim index.js
-vim Root.js
-yarn start
-vim Root.js
-yarn start
-ls
-cd ..
-ls
-vim package.json
-ls
-yarn add react-hot-loader@next
-ls
-vim package.json
-yarn eject
-cd ..
-ls
-git add .
-git commit -m "wintspo-client added trial3"
-ls
-cd wintspo-client
-ls
-vim package.json
-ls
-ls -la
-yarn eject
-cd ..
-ls
-git status
-git add .
-ls
-git status
-git commit -m "wintspo-client trial3"
-ls
-cd wintspo-client
-yarn eject
-ls
-vim package.json
-ls
-cd config
-ls
-vim webpack.config.js
-ls
-vim webpackDevServer.config.js
-cd ..
-ls
-cd src
-ls
-vim index.js
-cd ..
-cd src
-vim index.js
-yarn start
-cd redux
-ls
-vim configureStore.js
-cd ..
-yarn add styled-components open-color
-yarn start
-exit
-ls
-cd wintspo-server
-ls
-ls -la
-vim .env
-ls
-cd ..
-ls
-cd wintspo-client
-ls
-yarn add styled-components open-color
-ls
-cd src
-ls
-vim index.css
-ls
-cd lib
-ls
-vim styleUtil.js
-ls
-cd ..
-ls
-cd components
-ls
-mkdir Base
-ls
-cd Base
-ls
-mkdir Header
-ls
-cd Header
-vim Header.js
-ls
-cd ..
-ls
-cd ..
-ls
-mkdir Header
-ls
-cd Base
-ls
-cd Header
-ls
-vim index.js
-cd ..
-ls
-cd ..
-ls
-cd Header
-ls
-cd ..
-ls
-rmdir Header
-ls
-cd ..
-ls
-cd containers
-ls
-mkdir Base
-ls
-cd Base
-vim HeaderContainer.js
-cd ..
-ls
-cd ..
-ls
-vim App.js
-yarn start
-ls
-cd components
-ls
-cd Base
-ls
-cd Header
-ls
-vim Header.js
-cd ..
-ls
-cd lib
-ls
-cd ..
-cd componetns
-cd components
-ls
-cd Base
-ls
-cd Header
-ls
-vim Header.js
-cd ..
-yarn start
-ls
-cd src
-ls
-cd components
-ls
-cd Base
-ls
-cd Header
-ls
-vim Header.js
-ls
-cd ..
-ls
-cd ..
-ls
-cd ..
-ls
-cd containers
-ls
-cd Basse
-cd Base
-ls
-vim HeaderContainer.js
-ls
-cd ..
-ls
-cd src
-ls
-cd lib
-ls
-cd ..
-vim App.js
-ls
-cd lib
-ls
-vim styleUtil.js
-ls
-cd ..
-ls
-cd components
-cd Base
-ls
-cd Header
-ls
-vim LoginButton.js
-ls
-vim index.js
-cd ..
-ls
-cd containers
-ls
-cd Base
-ls
-vim HeaderContainer.js
-yarn start
-ls
-cd ..
-cd components
-ls
-cd Base
-ls
-cd Header
-ls
-vim index.js
-vim LoginButton.js
-yarn start
-ls
-cd ..
-ls
-cd ..
-ls
-cd ..
-ls
-cd containers
-ls
-cd Base
-ls
-vim HeaderContainer.js
-cd ..
-ls
-vim App.js
-yarn start
-ls
-cd containers
-ls
-cd Base
-ls
-vim HeaderContainer.js
-yarn start
-ls
-cd wintspo-client
-ls
-cd s rc
-cd src
-ls
-cd pages
-ls
-vim Auth.js
-cd ..
-cd containers Base
-cd containers
-cd Base
-cd HeaderContainer.js
-vim HeaderContainer.js
-yarn start
-cd ..
-cd components
-ls
-cd Base
-ls
-cd ..
-mkdir Auth
-cd Auth
-vim AuthWrapper.js
-ls
-vim index.js
-ls
-cd ..
-cd pages
-ls
-vim Auth.js
-ls
-yarn start
-ls
-vim Auth.js
-cd ..
-cd src
-cd components
-ls
-cd Auth
-ls
-vim AuthWrapper.js
-vim index.js
-cd ..
-ls
-cd ..
-ls
-cd components
-ls
-cd Auth
-ls
-cd ..
-cd pages
-ls
-vim Auth.js
-ls
-cd ..
-cd components
-ls
-cd Auth
-ls
-vim AuthWrapper.js
-ls
-cd ..
-yarn start
-cd Auth
-ls
-vim AuthContent.js
-ls
-vim index.js
-ls
-cd ..
-ls
-cd containers
-ls
-mkdir Auth
-ls
-cd Auth
-ls
-vim Login.js
-vim Register.js
-ls
-vim index.js
-ls
-ls -la
-vim index.js
-cd ..
-cd pages
-ls
-vim Auth.js
-yarn start
-vim Auth.js
-yarn start
-cd ..
-ls
-cd components
-ls
-cd Auth
-ls
-vim InputWithLabel.js
-vim index.js
-cd ..
-ls
-cd ..
-ls
-cd containers
-ls
-vim Auth
-cd Auth
-ls
-vim Login.js
-yarn start
-ls
-vim Login.js
-yarn start
-ls
-cd ..
-ls
-cd components
-ls
-cd Auth
-ls
-vim AuthButton.js
-ls
-vim index.js
-ls
-vim AuthButton.js
-ls
-cd ..
-cd containers
-ls
-cd Auth
-ls
-vim Login.js
-yarn start
 cd ..
 ls
 cd ..
@@ -1998,3 +1002,999 @@ ls
 cd auth
 ls
 vim auth.controller.js
+ls
+cd wintspo-server
+ls
+cd src
+ls
+cd models
+ls
+cd indexing.js
+vim indexing.js
+ls
+vim notice.js
+ls
+rm indexing.js
+ls
+cd ..
+ls
+cd models
+ls
+cd ..
+ls
+cd api
+ls
+cd auth
+ls
+cd ..
+cd notice
+ls
+vim notice.controller.js
+ls
+vim index.js
+ls
+cd ..
+ls
+vim index.js
+cd notice
+ls
+vim notice.controller.js
+cd ..
+ls
+cd ..
+ls
+cd models
+ls
+vim account.js
+cd ..
+ls
+cd api
+ls
+cd auth
+ls
+vim auth.controller.js
+ls
+cd ..
+ls
+cd notice
+ls
+vim notice.controller.js
+exit
+ls
+cd wintspo-server
+ls
+cd src
+ls
+cd models
+ls
+vim notice.js
+cd ..
+ls
+cd api
+ls
+cd auth
+ls
+vim auth.controller.js
+vim index.js
+ls
+cd ..
+ls
+vim index.js
+ls
+cd ..
+ls
+cd models
+ls
+vim account.js
+ls
+cd ..
+ls
+cd api
+ls
+cd auth
+ls
+vim auth.controller.js
+cd ..
+ls
+cd ..
+ls
+cd models
+ls
+cd account.js
+vim account.js
+ls
+vim notice.js
+ls
+vim notice.js
+yarn start
+ls
+vim notice.js
+yarn start
+ls
+cd ..
+ls
+cd api
+ls
+cd notice
+ls
+vim index.js
+ls
+vim notice.controller.js
+ls
+vim index.js
+yarn start
+ls
+cd ..
+ls
+cd models
+ls
+vim account.js
+ls
+cd ..
+ls
+cd api
+ls
+cd auth
+ls
+vim auth.controller.js
+ls
+cd ..
+ls
+cd ..
+ls
+cd models
+ls
+cd account.js
+vim account.js
+cd ..
+ls
+cd api
+ls
+cd auth
+ls
+vim auth.controller.js
+ls
+cd ..
+cd models
+ls
+vim account.js
+ls
+vim notice.js
+ls
+cd ..
+cd api
+cd notice
+ls
+cd notice.controller.js
+ls
+vim notice.controller.js
+yarn start
+vim notice.controller.js
+cd ..
+ls
+cd auth
+ls
+vim auth.controller.js
+cd ..
+ls
+cd ..
+cd api
+ls
+cd notice
+ls
+vim notice.controller.js
+exit
+ls
+cd wintspo-server
+ls
+cd src
+ls
+cd models
+ls
+cd ..
+ls
+cd api
+ls
+cd notice
+ls
+vim notice.controller.js
+ls
+cd ..
+ls
+cd auth
+ls
+vim index.js
+ls
+vim auth.controller.js
+cd ..
+ls
+cd notice
+ls
+vim notice.controller.js
+ls
+cd notice.controller.js
+vim notice.controller.js
+ls
+vim index.js
+ls
+cd ..
+ls
+cd models
+ls
+vim notice.js
+yarn start
+vim notice.js
+yarn start
+vim notice.js
+yarn start
+ls
+vim account.js
+ls
+vim account.js
+ls
+cd ..
+ls
+cd api
+cd auth
+vim auth.controller.js
+ls
+vim index.js
+ls
+cd ..
+ls
+cd notice
+vim index.js
+cd ..
+ls
+vim index.js
+ls
+cd notice
+l
+ls
+cd ..
+ls
+cd models
+ls
+vim notice.js
+ls
+cd ..
+ls
+cd api
+cd notice
+ls
+vim notice.controller.js
+ls
+vim index.js
+vim notice.controller.js
+ls
+yarn start
+ls
+cd ..
+ls
+cd models
+ls
+vim notice.js
+ls
+yarn start
+ls
+cd ..
+ls
+cd ..
+cd src
+ls
+cd api
+ls
+cd notice
+ls
+vim notice.controller.js
+ls
+cd ..
+ls
+cd ..
+cd models
+ls
+vim notice.js
+yarn start
+vim notice.js
+yarn start
+vim notice.js
+yarn start
+vim notice.js
+yarns tart
+yarn start
+ls
+cd notice.js
+vim notice.js
+ls
+vim notice.js
+cd ..
+ls
+cd api
+ls
+cd notice
+ls
+vim notice.controller.js
+ls
+vim index.js
+yarn start
+ls
+vim notice.controller.js
+ls
+cd ..
+ls
+cd ..
+ls
+cd models
+ls
+cd notice.js
+vim notice.js
+ls
+vim notice.js
+rm swp.notice.js
+vim notice.js
+rm .notice.js.swp
+ls
+yanr start
+yarn start
+vim notice.js
+yarn start
+vim notice.js
+ls
+cd ..
+ls
+cd ..
+cd src
+cd api
+cd notice
+ls
+vim notice.controller.js
+ls
+cd ..
+ls
+cd models
+ls
+cd notice.js
+vim notice.js
+yarn start
+vim notice.js
+yarn start
+vim notice.js
+yarn start
+vim notice.js
+ls
+cd ..
+cd src
+cd api
+cd notice
+vim notice.controller.js
+cd ..
+ls
+cd models
+ls
+vim notice.js
+ls
+yarn strat
+yarn start
+ls
+vim notice.js
+yarn start
+vim notice.js
+yarn start
+ls
+vim notice.js
+yarn start
+ls
+vim notice.js
+ls
+cd ..
+ls
+cd src
+cd api
+ls
+cd notice
+ls
+vim notice.controller.js
+ls
+vim index.js
+yarn start
+ls
+cd ..
+ls
+cd models
+ls
+vim notice.js
+yarn start
+ls
+vim notice.js
+ls
+cd ..
+ls
+cd api
+ls
+cd notice
+ls
+vim notice.controller.js
+ls
+vim index.js
+cd ..
+c d..
+cd ..
+ls
+cd ..
+ls
+git add .
+git commit -m "notice_api_added"
+git push -u origin master
+git push -u -f origin master
+git push -u origin master
+ls
+cd wintspo-client
+ls
+cd src
+ls
+exit
+ls
+cd wintspo-client
+ls
+vim package.json
+ls
+cd src
+ls
+cd ..
+ls
+vim package.json
+ls
+cd wintspo-client
+ls
+cd src
+ls
+vim App.js
+exit
+ls
+cd wintspo-client
+ls
+cd src
+ls
+vim kakao.js
+ls
+vim App.js
+cd ..
+yarn add react-helemt
+yarn add react-helmet
+ls
+yarn start
+ls
+yarn remove react-helmet
+ls
+cd src
+ls
+rm kakao.js
+ls
+vim App.js
+cd ..
+exit
+ls
+cd wintspo-client
+ls
+cd src
+ls
+vim App.js
+ls
+cd components
+ls
+cd Auth
+ls
+vim AuthButton.js
+ls
+cd ..
+ls
+cd ..
+ls
+cd containers
+ls
+cd ..
+cd pages
+ls
+vim Home.js
+exit
+ls
+cd wintspo-client
+ls
+cd src
+ls
+vim index.js
+ls
+ls -la
+ls
+cd redux
+ls
+vim configureStore.js
+ls
+;s
+cd ..
+ls
+cd ..
+ls
+cd wintspo-server
+ls
+cd src
+ls
+vim index.js
+exit
+ls
+cd wintspo-server
+ls
+cd src
+ls
+cd models
+ls
+vim question.js
+cd ..
+ls
+cd api
+ls
+cd question
+ls
+vim question.controller.js
+ls
+cd ..
+ls
+cd models
+ls
+vim answer.js
+ls
+cd ..
+ls
+cd api
+ls
+cd question
+ls
+cd question.controller.js
+vim question.controller.js
+vim index.js
+ls
+vim question.controller.js
+ls
+cd wintspo-client
+ls
+cd src
+ls
+cd ..
+ls
+cd ..
+ls
+cd wintspo-server
+ls
+cd src
+ls
+cd api
+ls
+cd auth
+ls
+cd ..
+ls
+cd models
+ls
+vim question.js
+ls
+cd ..
+ls
+cd api
+ls
+mkdir question
+ls
+vim index.js
+ls
+cd question
+ls
+vim question.controller.js
+ls
+vim question.controller.js
+ls
+vim index.js
+ls
+cd ..
+ls
+cd ..
+ls
+cd models
+ls
+vim question.js
+ls
+cd ..
+ls
+cd api
+ls
+cd notice
+ls
+cd index.js
+vim index.js
+cd ..
+ls
+cd question
+ls
+vim question.controller.js
+ls
+cd ..
+ls
+cd ..
+ls
+cd models
+ls
+vim answer.js
+ls
+cd ..
+ls
+cd api
+ls
+cd index.js
+vim index.js
+ls
+cd notice
+ls
+vim index.js
+ls
+cd ..
+ls
+cd answer
+ls
+vim answer.controller.js
+ls
+cd ..
+ls
+cd question
+ls
+cd index.js
+vim index.js
+ls
+cd ..
+ls
+cd answer
+ls
+vim index.js
+ls
+cd wintspo-server
+ls
+cd src
+ls
+cd api
+ls
+cd auth
+ls
+cd ..
+ls
+cd notice
+ls
+cd ..
+ls
+cd models
+ls
+vim notice.js
+ls
+vim notice.js
+ls
+vim account.js
+vim notice.js
+ls
+cd ..
+ls
+cd api
+ls
+cd auth
+ls
+cd ..
+ls
+cd notice
+ls
+vim notice.controller.js
+ls
+vim index.js
+ls
+cd ..
+ls
+cd question
+ls
+vim index.js
+ls
+vim question.controller.js
+ls
+cd ..
+ls
+cd question
+ls
+vim index.js
+ls
+vim index.js
+ls
+cd ..
+ls
+mkdir answer
+ls
+cd answer
+ls
+vim answer.controller.js
+ls
+vim index.js
+ls
+vim index.js
+cd ..
+ls
+cd ..
+ls
+cd models
+ls
+vim account.js
+ls
+vim notice.js
+ls
+vim notice.js
+ls
+vim question.js
+ls
+vim answer.js
+ls
+cd ..
+ls
+cd api
+ls
+cd question
+ls
+vim question.controller.js
+cd ..
+ls
+cd answer
+ls
+cd answer.controller.js
+vim answer.controller.js
+ls
+cd ..
+ls
+cd models
+ls
+vim answer.js
+cd ..
+ls
+cd src
+ls
+cd apo
+cd api
+ls
+cd question
+ls
+vim index.js
+ls
+cd ..
+ls
+cd ..
+ls
+cd models
+ls
+vim account.js
+ls
+cd wintspo-server
+ls
+cd src
+ls
+cd models
+ls
+vim question.js
+ls
+vim answer.js
+ls
+vim answer.js
+ls
+cd ..
+ls
+cd apu
+cd api
+ls
+cd question
+ls
+vim index.js
+ls
+cd ..
+ls
+cd notice
+ls
+vim notice.controller.js
+cd ..
+ls
+cd models
+ls
+cd notice.js
+vim notice.js
+ls
+cd ..
+ls
+cd api
+ls
+cd answer
+cd ..
+cd notice
+ls
+vim notice.controller.js
+ls
+cd index.js
+vim index.js
+ls
+vim index.js
+ls
+cd ..
+ls
+cd models
+ls
+cd ..
+cd models
+ls
+vim answer.js
+ls
+vim question.js
+exit
+ls
+cd wintspo-server
+ls
+cd src
+ls
+cd api
+ls
+cd question
+ls
+vim index.js
+ls
+cd ..
+ls
+cd answer
+ls
+vim index.js
+ls
+cd ..
+ls
+cd ..
+ls
+cd models
+ls
+vim answer.js
+ls
+vim question.js
+ls
+vim question.js
+ls
+vim answer.js
+ls
+vim question.js
+vim answer.js
+exit
+ls
+cd wintspo-client
+cd ..
+cd wintspo-server
+ls
+cd src
+ls
+cd api
+ls
+cd question
+ls
+vim index.js
+ls
+vim question.controller.js
+ls
+cd ..
+ls
+cd answer
+ls
+cd answer.controller.js
+vim answer.controller.js
+ls
+cd ..
+ls
+cd question
+ls
+vim question.controller.js
+ls
+vim index.js
+ls
+vim question.controller.js
+ls
+vim index.js
+cd ..
+ls
+cd answer
+ls
+vim index.js
+cd ..
+ls
+cd question
+ls
+vim indx.js
+vim index.js
+ls
+vim question.controller.js
+ls
+vim index.js
+ls
+vim question.controller.js
+ls
+cd ..
+ls
+cd answer
+ls
+vim answer.controller.js
+cd ..
+ls
+cd answer
+ls
+vim answer.controller.js
+cd ..
+ls
+cd question
+ls
+vim question.controller.js
+exit
+ls
+cd wintspo-server
+ls
+yarn start
+ls
+cd src
+ls
+cd models
+ls
+vim answer.js
+yarn start
+ls
+cd ..
+ls
+cd api
+cd question
+ls
+vim index.js
+ls
+yarn start
+ls
+cd ..
+ls
+cd answer
+ls
+vim answer.controller.js
+
+yarn start
+ls
+yarn start
+exit
+ls
+cd wintspo-server
+ls
+cd src
+ls
+cd api
+ls
+cd auth
+ls
+vim auth.controller.js
+ls
+cd ..
+ls
+cd ..
+ls
+cd models
+ls
+vim account.js
+ls
+cd ..
+ls
+cd api
+ls
+cd answer
+ls
+vim answer
+ls
+cd ..
+ls
+cd auth
+ls
+vim auth.controller.js
+yarn start
+vim auth.controller.js
+yarn start
+exit

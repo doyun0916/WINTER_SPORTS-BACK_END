@@ -15,19 +15,19 @@ $
 
 # Command Line History (newest to oldest):
 :q
-|2,0,1596948367,,"q"
-:Q
-|2,0,1596948320,,"Q"
+|2,0,1597563872,,"q"
 :wq
-|2,0,1596948118,,"wq"
+|2,0,1597563866,,"wq"
+:Q
+|2,0,1597562740,,"Q"
 :Wq
-|2,0,1596945430,,"Wq"
+|2,0,1597562718,,"Wq"
 :q!
 |2,0,1596526732,,"q!"
 
 # Search String History (newest to oldest):
 ? @$
-|2,1,1596701975,,"@$"
+|2,1,1597561169,,"@$"
 
 # Expression History (newest to oldest):
 
@@ -39,8 +39,8 @@ $
 
 # Registers:
 "0	LINE	0
-	export default configureStore;
-|3,0,0,1,1,0,1596701975,"export default configureStore;"
+	
+|3,0,0,1,1,0,1597561169,""
 ""1	LINE	0
 	
 |3,1,1,1,1,0,1596715452,""
@@ -70,362 +70,234 @@ $
 |3,0,9,1,1,0,1596715448,"	let info = await transporter.sendMail({"
 
 # File marks:
-'0  8  0  ~/wintspo-server/src/api/notice/index.js
-|4,48,8,0,1596948367,"~/wintspo-server/src/api/notice/index.js"
-'1  39  45  ~/wintspo-server/src/api/notice/notice.controller.js
-|4,49,39,45,1596948340,"~/wintspo-server/src/api/notice/notice.controller.js"
-'2  1  0  ~/wintspo-server/src/models/notice.js
-|4,50,1,0,1596948322,"~/wintspo-server/src/models/notice.js"
-'3  39  45  ~/wintspo-server/src/api/notice/notice.controller.js
-|4,51,39,45,1596948238,"~/wintspo-server/src/api/notice/notice.controller.js"
-'4  30  0  ~/wintspo-server/src/models/notice.js
-|4,52,30,0,1596948234,"~/wintspo-server/src/models/notice.js"
-'5  30  0  ~/wintspo-server/src/models/notice.js
-|4,53,30,0,1596948234,"~/wintspo-server/src/models/notice.js"
-'6  30  0  ~/wintspo-server/src/models/notice.js
-|4,54,30,0,1596948182,"~/wintspo-server/src/models/notice.js"
-'7  30  0  ~/wintspo-server/src/models/notice.js
-|4,55,30,0,1596948182,"~/wintspo-server/src/models/notice.js"
-'8  9  0  ~/wintspo-server/src/api/notice/index.js
-|4,56,9,0,1596948118,"~/wintspo-server/src/api/notice/index.js"
-'9  9  0  ~/wintspo-server/src/api/notice/index.js
-|4,57,9,0,1596948118,"~/wintspo-server/src/api/notice/index.js"
+'0  32  0  ~/wintspo-server/src/api/auth/auth.controller.js
+|4,48,32,0,1597563872,"~/wintspo-server/src/api/auth/auth.controller.js"
+'1  65  1  ~/wintspo-server/src/api/notice/notice.controller.js
+|4,49,65,1,1597563866,"~/wintspo-server/src/api/notice/notice.controller.js"
+'2  45  1  ~/wintspo-server/src/api/notice/notice.controller.js
+|4,50,45,1,1597563780,"~/wintspo-server/src/api/notice/notice.controller.js"
+'3  45  1  ~/wintspo-server/src/api/notice/notice.controller.js
+|4,51,45,1,1597563780,"~/wintspo-server/src/api/notice/notice.controller.js"
+'4  5  0  ~/wintspo-server/src/api/notice/notice.controller.js
+|4,52,5,0,1597563568,"~/wintspo-server/src/api/notice/notice.controller.js"
+'5  4  0  ~/wintspo-server/src/api/notice/notice.controller.js
+|4,53,4,0,1597563568,"~/wintspo-server/src/api/notice/notice.controller.js"
+'6  5  0  ~/wintspo-server/src/api/notice/notice.controller.js
+|4,54,5,0,1597563568,"~/wintspo-server/src/api/notice/notice.controller.js"
+'7  4  0  ~/wintspo-server/src/api/notice/notice.controller.js
+|4,55,4,0,1597563568,"~/wintspo-server/src/api/notice/notice.controller.js"
+'8  41  0  ~/wintspo-server/src/api/answer/answer.controller.js
+|4,56,41,0,1597563487,"~/wintspo-server/src/api/answer/answer.controller.js"
+'9  41  0  ~/wintspo-server/src/api/answer/answer.controller.js
+|4,57,41,0,1597563481,"~/wintspo-server/src/api/answer/answer.controller.js"
 
 # Jumplist (newest first):
--'  8  0  ~/wintspo-server/src/api/notice/index.js
-|4,39,8,0,1596948367,"~/wintspo-server/src/api/notice/index.js"
--'  9  0  ~/wintspo-server/src/api/notice/index.js
-|4,39,9,0,1596948343,"~/wintspo-server/src/api/notice/index.js"
--'  39  45  ~/wintspo-server/src/api/notice/notice.controller.js
-|4,39,39,45,1596948340,"~/wintspo-server/src/api/notice/notice.controller.js"
--'  39  45  ~/wintspo-server/src/api/notice/notice.controller.js
-|4,39,39,45,1596948340,"~/wintspo-server/src/api/notice/notice.controller.js"
--'  1  0  ~/wintspo-server/src/models/notice.js
-|4,39,1,0,1596948322,"~/wintspo-server/src/models/notice.js"
--'  1  0  ~/wintspo-server/src/models/notice.js
-|4,39,1,0,1596948322,"~/wintspo-server/src/models/notice.js"
--'  1  0  ~/wintspo-server/src/models/notice.js
-|4,39,1,0,1596948322,"~/wintspo-server/src/models/notice.js"
--'  1  0  ~/wintspo-server/src/models/notice.js
-|4,39,1,0,1596948322,"~/wintspo-server/src/models/notice.js"
--'  30  0  ~/wintspo-server/src/models/notice.js
-|4,39,30,0,1596948316,"~/wintspo-server/src/models/notice.js"
--'  30  0  ~/wintspo-server/src/models/notice.js
-|4,39,30,0,1596948316,"~/wintspo-server/src/models/notice.js"
--'  30  0  ~/wintspo-server/src/models/notice.js
-|4,39,30,0,1596948316,"~/wintspo-server/src/models/notice.js"
--'  30  0  ~/wintspo-server/src/models/notice.js
-|4,39,30,0,1596948316,"~/wintspo-server/src/models/notice.js"
--'  39  45  ~/wintspo-server/src/api/notice/notice.controller.js
-|4,39,39,45,1596948238,"~/wintspo-server/src/api/notice/notice.controller.js"
--'  39  45  ~/wintspo-server/src/api/notice/notice.controller.js
-|4,39,39,45,1596948238,"~/wintspo-server/src/api/notice/notice.controller.js"
--'  39  45  ~/wintspo-server/src/api/notice/notice.controller.js
-|4,39,39,45,1596948238,"~/wintspo-server/src/api/notice/notice.controller.js"
--'  39  45  ~/wintspo-server/src/api/notice/notice.controller.js
-|4,39,39,45,1596948238,"~/wintspo-server/src/api/notice/notice.controller.js"
--'  30  0  ~/wintspo-server/src/models/notice.js
-|4,39,30,0,1596948234,"~/wintspo-server/src/models/notice.js"
--'  30  0  ~/wintspo-server/src/models/notice.js
-|4,39,30,0,1596948234,"~/wintspo-server/src/models/notice.js"
--'  30  0  ~/wintspo-server/src/models/notice.js
-|4,39,30,0,1596948234,"~/wintspo-server/src/models/notice.js"
--'  30  0  ~/wintspo-server/src/models/notice.js
-|4,39,30,0,1596948234,"~/wintspo-server/src/models/notice.js"
+-'  32  0  ~/wintspo-server/src/api/auth/auth.controller.js
+|4,39,32,0,1597563872,"~/wintspo-server/src/api/auth/auth.controller.js"
+-'  65  1  ~/wintspo-server/src/api/notice/notice.controller.js
+|4,39,65,1,1597563866,"~/wintspo-server/src/api/notice/notice.controller.js"
+-'  45  1  ~/wintspo-server/src/api/notice/notice.controller.js
+|4,39,45,1,1597563781,"~/wintspo-server/src/api/notice/notice.controller.js"
+-'  45  1  ~/wintspo-server/src/api/notice/notice.controller.js
+|4,39,45,1,1597563780,"~/wintspo-server/src/api/notice/notice.controller.js"
+-'  5  0  ~/wintspo-server/src/api/notice/notice.controller.js
+|4,39,5,0,1597563569,"~/wintspo-server/src/api/notice/notice.controller.js"
+-'  5  0  ~/wintspo-server/src/api/notice/notice.controller.js
+|4,39,5,0,1597563569,"~/wintspo-server/src/api/notice/notice.controller.js"
+-'  4  0  ~/wintspo-server/src/api/notice/notice.controller.js
+|4,39,4,0,1597563568,"~/wintspo-server/src/api/notice/notice.controller.js"
+-'  4  0  ~/wintspo-server/src/api/notice/notice.controller.js
+|4,39,4,0,1597563568,"~/wintspo-server/src/api/notice/notice.controller.js"
+-'  73  1  ~/wintspo-server/src/api/notice/notice.controller.js
+|4,39,73,1,1597563522,"~/wintspo-server/src/api/notice/notice.controller.js"
 -'  44  1  ~/wintspo-server/src/api/notice/notice.controller.js
-|4,39,44,1,1596948203,"~/wintspo-server/src/api/notice/notice.controller.js"
+|4,39,44,1,1597563522,"~/wintspo-server/src/api/notice/notice.controller.js"
+-'  64  1  ~/wintspo-server/src/api/notice/notice.controller.js
+|4,39,64,1,1597563522,"~/wintspo-server/src/api/notice/notice.controller.js"
 -'  44  1  ~/wintspo-server/src/api/notice/notice.controller.js
-|4,39,44,1,1596948203,"~/wintspo-server/src/api/notice/notice.controller.js"
--'  44  1  ~/wintspo-server/src/api/notice/notice.controller.js
-|4,39,44,1,1596948203,"~/wintspo-server/src/api/notice/notice.controller.js"
--'  44  1  ~/wintspo-server/src/api/notice/notice.controller.js
-|4,39,44,1,1596948203,"~/wintspo-server/src/api/notice/notice.controller.js"
--'  44  1  ~/wintspo-server/src/api/notice/notice.controller.js
-|4,39,44,1,1596948203,"~/wintspo-server/src/api/notice/notice.controller.js"
--'  44  1  ~/wintspo-server/src/api/notice/notice.controller.js
-|4,39,44,1,1596948203,"~/wintspo-server/src/api/notice/notice.controller.js"
--'  30  0  ~/wintspo-server/src/models/notice.js
-|4,39,30,0,1596948182,"~/wintspo-server/src/models/notice.js"
--'  30  0  ~/wintspo-server/src/models/notice.js
-|4,39,30,0,1596948182,"~/wintspo-server/src/models/notice.js"
--'  30  0  ~/wintspo-server/src/models/notice.js
-|4,39,30,0,1596948182,"~/wintspo-server/src/models/notice.js"
--'  30  0  ~/wintspo-server/src/models/notice.js
-|4,39,30,0,1596948182,"~/wintspo-server/src/models/notice.js"
--'  30  0  ~/wintspo-server/src/models/notice.js
-|4,39,30,0,1596948182,"~/wintspo-server/src/models/notice.js"
--'  30  0  ~/wintspo-server/src/models/notice.js
-|4,39,30,0,1596948182,"~/wintspo-server/src/models/notice.js"
--'  30  0  ~/wintspo-server/src/models/notice.js
-|4,39,30,0,1596948182,"~/wintspo-server/src/models/notice.js"
--'  30  0  ~/wintspo-server/src/models/notice.js
-|4,39,30,0,1596948182,"~/wintspo-server/src/models/notice.js"
--'  9  0  ~/wintspo-server/src/api/notice/index.js
-|4,39,9,0,1596948118,"~/wintspo-server/src/api/notice/index.js"
--'  9  0  ~/wintspo-server/src/api/notice/index.js
-|4,39,9,0,1596948118,"~/wintspo-server/src/api/notice/index.js"
--'  9  0  ~/wintspo-server/src/api/notice/index.js
-|4,39,9,0,1596948118,"~/wintspo-server/src/api/notice/index.js"
--'  9  0  ~/wintspo-server/src/api/notice/index.js
-|4,39,9,0,1596948118,"~/wintspo-server/src/api/notice/index.js"
--'  9  0  ~/wintspo-server/src/api/notice/index.js
-|4,39,9,0,1596948118,"~/wintspo-server/src/api/notice/index.js"
--'  9  0  ~/wintspo-server/src/api/notice/index.js
-|4,39,9,0,1596948118,"~/wintspo-server/src/api/notice/index.js"
--'  9  0  ~/wintspo-server/src/api/notice/index.js
-|4,39,9,0,1596948118,"~/wintspo-server/src/api/notice/index.js"
--'  9  0  ~/wintspo-server/src/api/notice/index.js
-|4,39,9,0,1596948118,"~/wintspo-server/src/api/notice/index.js"
--'  9  0  ~/wintspo-server/src/api/notice/index.js
-|4,39,9,0,1596948118,"~/wintspo-server/src/api/notice/index.js"
--'  9  0  ~/wintspo-server/src/api/notice/index.js
-|4,39,9,0,1596948118,"~/wintspo-server/src/api/notice/index.js"
--'  9  0  ~/wintspo-server/src/api/notice/index.js
-|4,39,9,0,1596948118,"~/wintspo-server/src/api/notice/index.js"
--'  9  0  ~/wintspo-server/src/api/notice/index.js
-|4,39,9,0,1596948118,"~/wintspo-server/src/api/notice/index.js"
--'  9  0  ~/wintspo-server/src/api/notice/index.js
-|4,39,9,0,1596948118,"~/wintspo-server/src/api/notice/index.js"
--'  9  0  ~/wintspo-server/src/api/notice/index.js
-|4,39,9,0,1596948118,"~/wintspo-server/src/api/notice/index.js"
--'  9  0  ~/wintspo-server/src/api/notice/index.js
-|4,39,9,0,1596948118,"~/wintspo-server/src/api/notice/index.js"
--'  9  0  ~/wintspo-server/src/api/notice/index.js
-|4,39,9,0,1596948118,"~/wintspo-server/src/api/notice/index.js"
--'  9  0  ~/wintspo-server/src/api/notice/index.js
-|4,39,9,0,1596948118,"~/wintspo-server/src/api/notice/index.js"
--'  9  0  ~/wintspo-server/src/api/notice/index.js
-|4,39,9,0,1596948118,"~/wintspo-server/src/api/notice/index.js"
--'  9  0  ~/wintspo-server/src/api/notice/index.js
-|4,39,9,0,1596948118,"~/wintspo-server/src/api/notice/index.js"
--'  9  0  ~/wintspo-server/src/api/notice/index.js
-|4,39,9,0,1596948118,"~/wintspo-server/src/api/notice/index.js"
--'  9  0  ~/wintspo-server/src/api/notice/index.js
-|4,39,9,0,1596948118,"~/wintspo-server/src/api/notice/index.js"
--'  9  0  ~/wintspo-server/src/api/notice/index.js
-|4,39,9,0,1596948118,"~/wintspo-server/src/api/notice/index.js"
--'  9  0  ~/wintspo-server/src/api/notice/index.js
-|4,39,9,0,1596948118,"~/wintspo-server/src/api/notice/index.js"
--'  9  0  ~/wintspo-server/src/api/notice/index.js
-|4,39,9,0,1596948118,"~/wintspo-server/src/api/notice/index.js"
--'  8  0  ~/wintspo-server/src/api/notice/index.js
-|4,39,8,0,1596948092,"~/wintspo-server/src/api/notice/index.js"
--'  8  0  ~/wintspo-server/src/api/notice/index.js
-|4,39,8,0,1596948092,"~/wintspo-server/src/api/notice/index.js"
--'  8  0  ~/wintspo-server/src/api/notice/index.js
-|4,39,8,0,1596948092,"~/wintspo-server/src/api/notice/index.js"
--'  8  0  ~/wintspo-server/src/api/notice/index.js
-|4,39,8,0,1596948092,"~/wintspo-server/src/api/notice/index.js"
--'  8  0  ~/wintspo-server/src/api/notice/index.js
-|4,39,8,0,1596948092,"~/wintspo-server/src/api/notice/index.js"
--'  8  0  ~/wintspo-server/src/api/notice/index.js
-|4,39,8,0,1596948092,"~/wintspo-server/src/api/notice/index.js"
--'  8  0  ~/wintspo-server/src/api/notice/index.js
-|4,39,8,0,1596948092,"~/wintspo-server/src/api/notice/index.js"
--'  8  0  ~/wintspo-server/src/api/notice/index.js
-|4,39,8,0,1596948092,"~/wintspo-server/src/api/notice/index.js"
--'  8  0  ~/wintspo-server/src/api/notice/index.js
-|4,39,8,0,1596948092,"~/wintspo-server/src/api/notice/index.js"
--'  8  0  ~/wintspo-server/src/api/notice/index.js
-|4,39,8,0,1596948092,"~/wintspo-server/src/api/notice/index.js"
--'  8  0  ~/wintspo-server/src/api/notice/index.js
-|4,39,8,0,1596948092,"~/wintspo-server/src/api/notice/index.js"
--'  8  0  ~/wintspo-server/src/api/notice/index.js
-|4,39,8,0,1596948092,"~/wintspo-server/src/api/notice/index.js"
--'  8  0  ~/wintspo-server/src/api/notice/index.js
-|4,39,8,0,1596948092,"~/wintspo-server/src/api/notice/index.js"
--'  8  0  ~/wintspo-server/src/api/notice/index.js
-|4,39,8,0,1596948092,"~/wintspo-server/src/api/notice/index.js"
--'  8  0  ~/wintspo-server/src/api/notice/index.js
-|4,39,8,0,1596948092,"~/wintspo-server/src/api/notice/index.js"
--'  8  0  ~/wintspo-server/src/api/notice/index.js
-|4,39,8,0,1596948092,"~/wintspo-server/src/api/notice/index.js"
--'  8  0  ~/wintspo-server/src/api/notice/index.js
-|4,39,8,0,1596948092,"~/wintspo-server/src/api/notice/index.js"
--'  8  0  ~/wintspo-server/src/api/notice/index.js
-|4,39,8,0,1596948092,"~/wintspo-server/src/api/notice/index.js"
--'  8  0  ~/wintspo-server/src/api/notice/index.js
-|4,39,8,0,1596948092,"~/wintspo-server/src/api/notice/index.js"
--'  8  0  ~/wintspo-server/src/api/notice/index.js
-|4,39,8,0,1596948092,"~/wintspo-server/src/api/notice/index.js"
--'  8  0  ~/wintspo-server/src/api/notice/index.js
-|4,39,8,0,1596948092,"~/wintspo-server/src/api/notice/index.js"
--'  8  0  ~/wintspo-server/src/api/notice/index.js
-|4,39,8,0,1596948092,"~/wintspo-server/src/api/notice/index.js"
--'  8  0  ~/wintspo-server/src/api/notice/index.js
-|4,39,8,0,1596948092,"~/wintspo-server/src/api/notice/index.js"
--'  8  0  ~/wintspo-server/src/api/notice/index.js
-|4,39,8,0,1596948092,"~/wintspo-server/src/api/notice/index.js"
--'  44  1  ~/wintspo-server/src/api/notice/notice.controller.js
-|4,39,44,1,1596948084,"~/wintspo-server/src/api/notice/notice.controller.js"
--'  44  1  ~/wintspo-server/src/api/notice/notice.controller.js
-|4,39,44,1,1596948084,"~/wintspo-server/src/api/notice/notice.controller.js"
--'  44  1  ~/wintspo-server/src/api/notice/notice.controller.js
-|4,39,44,1,1596948084,"~/wintspo-server/src/api/notice/notice.controller.js"
--'  44  1  ~/wintspo-server/src/api/notice/notice.controller.js
-|4,39,44,1,1596948084,"~/wintspo-server/src/api/notice/notice.controller.js"
--'  44  1  ~/wintspo-server/src/api/notice/notice.controller.js
-|4,39,44,1,1596948084,"~/wintspo-server/src/api/notice/notice.controller.js"
--'  44  1  ~/wintspo-server/src/api/notice/notice.controller.js
-|4,39,44,1,1596948084,"~/wintspo-server/src/api/notice/notice.controller.js"
--'  44  1  ~/wintspo-server/src/api/notice/notice.controller.js
-|4,39,44,1,1596948084,"~/wintspo-server/src/api/notice/notice.controller.js"
--'  44  1  ~/wintspo-server/src/api/notice/notice.controller.js
-|4,39,44,1,1596948084,"~/wintspo-server/src/api/notice/notice.controller.js"
--'  44  1  ~/wintspo-server/src/api/notice/notice.controller.js
-|4,39,44,1,1596948084,"~/wintspo-server/src/api/notice/notice.controller.js"
--'  44  1  ~/wintspo-server/src/api/notice/notice.controller.js
-|4,39,44,1,1596948084,"~/wintspo-server/src/api/notice/notice.controller.js"
--'  44  1  ~/wintspo-server/src/api/notice/notice.controller.js
-|4,39,44,1,1596948084,"~/wintspo-server/src/api/notice/notice.controller.js"
--'  44  1  ~/wintspo-server/src/api/notice/notice.controller.js
-|4,39,44,1,1596948084,"~/wintspo-server/src/api/notice/notice.controller.js"
--'  44  1  ~/wintspo-server/src/api/notice/notice.controller.js
-|4,39,44,1,1596948084,"~/wintspo-server/src/api/notice/notice.controller.js"
--'  44  1  ~/wintspo-server/src/api/notice/notice.controller.js
-|4,39,44,1,1596948084,"~/wintspo-server/src/api/notice/notice.controller.js"
--'  44  1  ~/wintspo-server/src/api/notice/notice.controller.js
-|4,39,44,1,1596948084,"~/wintspo-server/src/api/notice/notice.controller.js"
--'  44  1  ~/wintspo-server/src/api/notice/notice.controller.js
-|4,39,44,1,1596948084,"~/wintspo-server/src/api/notice/notice.controller.js"
--'  44  1  ~/wintspo-server/src/api/notice/notice.controller.js
-|4,39,44,1,1596948084,"~/wintspo-server/src/api/notice/notice.controller.js"
--'  44  1  ~/wintspo-server/src/api/notice/notice.controller.js
-|4,39,44,1,1596948084,"~/wintspo-server/src/api/notice/notice.controller.js"
+|4,39,44,1,1597563522,"~/wintspo-server/src/api/notice/notice.controller.js"
+-'  41  0  ~/wintspo-server/src/api/answer/answer.controller.js
+|4,39,41,0,1597563487,"~/wintspo-server/src/api/answer/answer.controller.js"
+-'  41  0  ~/wintspo-server/src/api/answer/answer.controller.js
+|4,39,41,0,1597563487,"~/wintspo-server/src/api/answer/answer.controller.js"
+-'  41  0  ~/wintspo-server/src/api/answer/answer.controller.js
+|4,39,41,0,1597563487,"~/wintspo-server/src/api/answer/answer.controller.js"
+-'  41  0  ~/wintspo-server/src/api/answer/answer.controller.js
+|4,39,41,0,1597563487,"~/wintspo-server/src/api/answer/answer.controller.js"
+-'  41  0  ~/wintspo-server/src/api/answer/answer.controller.js
+|4,39,41,0,1597563487,"~/wintspo-server/src/api/answer/answer.controller.js"
+-'  41  0  ~/wintspo-server/src/api/answer/answer.controller.js
+|4,39,41,0,1597563487,"~/wintspo-server/src/api/answer/answer.controller.js"
+-'  41  0  ~/wintspo-server/src/api/answer/answer.controller.js
+|4,39,41,0,1597563487,"~/wintspo-server/src/api/answer/answer.controller.js"
+-'  41  0  ~/wintspo-server/src/api/answer/answer.controller.js
+|4,39,41,0,1597563487,"~/wintspo-server/src/api/answer/answer.controller.js"
+-'  41  0  ~/wintspo-server/src/api/answer/answer.controller.js
+|4,39,41,0,1597563481,"~/wintspo-server/src/api/answer/answer.controller.js"
+-'  41  0  ~/wintspo-server/src/api/answer/answer.controller.js
+|4,39,41,0,1597563481,"~/wintspo-server/src/api/answer/answer.controller.js"
+-'  41  0  ~/wintspo-server/src/api/answer/answer.controller.js
+|4,39,41,0,1597563481,"~/wintspo-server/src/api/answer/answer.controller.js"
+-'  41  0  ~/wintspo-server/src/api/answer/answer.controller.js
+|4,39,41,0,1597563481,"~/wintspo-server/src/api/answer/answer.controller.js"
+-'  41  0  ~/wintspo-server/src/api/answer/answer.controller.js
+|4,39,41,0,1597563481,"~/wintspo-server/src/api/answer/answer.controller.js"
+-'  41  0  ~/wintspo-server/src/api/answer/answer.controller.js
+|4,39,41,0,1597563481,"~/wintspo-server/src/api/answer/answer.controller.js"
+-'  41  0  ~/wintspo-server/src/api/answer/answer.controller.js
+|4,39,41,0,1597563481,"~/wintspo-server/src/api/answer/answer.controller.js"
+-'  41  0  ~/wintspo-server/src/api/answer/answer.controller.js
+|4,39,41,0,1597563481,"~/wintspo-server/src/api/answer/answer.controller.js"
+-'  10  31  ~/wintspo-server/src/api/answer/answer.controller.js
+|4,39,10,31,1597563394,"~/wintspo-server/src/api/answer/answer.controller.js"
+-'  10  31  ~/wintspo-server/src/api/answer/answer.controller.js
+|4,39,10,31,1597563394,"~/wintspo-server/src/api/answer/answer.controller.js"
+-'  10  31  ~/wintspo-server/src/api/answer/answer.controller.js
+|4,39,10,31,1597563394,"~/wintspo-server/src/api/answer/answer.controller.js"
+-'  10  31  ~/wintspo-server/src/api/answer/answer.controller.js
+|4,39,10,31,1597563394,"~/wintspo-server/src/api/answer/answer.controller.js"
+-'  10  31  ~/wintspo-server/src/api/answer/answer.controller.js
+|4,39,10,31,1597563394,"~/wintspo-server/src/api/answer/answer.controller.js"
+-'  10  31  ~/wintspo-server/src/api/answer/answer.controller.js
+|4,39,10,31,1597563394,"~/wintspo-server/src/api/answer/answer.controller.js"
+-'  10  31  ~/wintspo-server/src/api/answer/answer.controller.js
+|4,39,10,31,1597563394,"~/wintspo-server/src/api/answer/answer.controller.js"
+-'  10  31  ~/wintspo-server/src/api/answer/answer.controller.js
+|4,39,10,31,1597563394,"~/wintspo-server/src/api/answer/answer.controller.js"
+-'  10  31  ~/wintspo-server/src/api/answer/answer.controller.js
+|4,39,10,31,1597563394,"~/wintspo-server/src/api/answer/answer.controller.js"
+-'  10  31  ~/wintspo-server/src/api/answer/answer.controller.js
+|4,39,10,31,1597563394,"~/wintspo-server/src/api/answer/answer.controller.js"
+-'  10  31  ~/wintspo-server/src/api/answer/answer.controller.js
+|4,39,10,31,1597563394,"~/wintspo-server/src/api/answer/answer.controller.js"
+-'  10  31  ~/wintspo-server/src/api/answer/answer.controller.js
+|4,39,10,31,1597563394,"~/wintspo-server/src/api/answer/answer.controller.js"
+-'  10  31  ~/wintspo-server/src/api/answer/answer.controller.js
+|4,39,10,31,1597563394,"~/wintspo-server/src/api/answer/answer.controller.js"
+-'  10  31  ~/wintspo-server/src/api/answer/answer.controller.js
+|4,39,10,31,1597563394,"~/wintspo-server/src/api/answer/answer.controller.js"
+-'  10  31  ~/wintspo-server/src/api/answer/answer.controller.js
+|4,39,10,31,1597563394,"~/wintspo-server/src/api/answer/answer.controller.js"
+-'  10  31  ~/wintspo-server/src/api/answer/answer.controller.js
+|4,39,10,31,1597563394,"~/wintspo-server/src/api/answer/answer.controller.js"
+-'  77  1  ~/wintspo-server/src/api/question/question.controller.js
+|4,39,77,1,1597563384,"~/wintspo-server/src/api/question/question.controller.js"
+-'  77  1  ~/wintspo-server/src/api/question/question.controller.js
+|4,39,77,1,1597563384,"~/wintspo-server/src/api/question/question.controller.js"
+-'  77  1  ~/wintspo-server/src/api/question/question.controller.js
+|4,39,77,1,1597563384,"~/wintspo-server/src/api/question/question.controller.js"
+-'  77  1  ~/wintspo-server/src/api/question/question.controller.js
+|4,39,77,1,1597563384,"~/wintspo-server/src/api/question/question.controller.js"
+-'  77  1  ~/wintspo-server/src/api/question/question.controller.js
+|4,39,77,1,1597563384,"~/wintspo-server/src/api/question/question.controller.js"
+-'  77  1  ~/wintspo-server/src/api/question/question.controller.js
+|4,39,77,1,1597563384,"~/wintspo-server/src/api/question/question.controller.js"
+-'  77  1  ~/wintspo-server/src/api/question/question.controller.js
+|4,39,77,1,1597563384,"~/wintspo-server/src/api/question/question.controller.js"
+-'  77  1  ~/wintspo-server/src/api/question/question.controller.js
+|4,39,77,1,1597563384,"~/wintspo-server/src/api/question/question.controller.js"
+-'  77  1  ~/wintspo-server/src/api/question/question.controller.js
+|4,39,77,1,1597563384,"~/wintspo-server/src/api/question/question.controller.js"
+-'  77  1  ~/wintspo-server/src/api/question/question.controller.js
+|4,39,77,1,1597563384,"~/wintspo-server/src/api/question/question.controller.js"
+-'  77  1  ~/wintspo-server/src/api/question/question.controller.js
+|4,39,77,1,1597563384,"~/wintspo-server/src/api/question/question.controller.js"
+-'  77  1  ~/wintspo-server/src/api/question/question.controller.js
+|4,39,77,1,1597563384,"~/wintspo-server/src/api/question/question.controller.js"
+-'  77  1  ~/wintspo-server/src/api/question/question.controller.js
+|4,39,77,1,1597563384,"~/wintspo-server/src/api/question/question.controller.js"
+-'  77  1  ~/wintspo-server/src/api/question/question.controller.js
+|4,39,77,1,1597563384,"~/wintspo-server/src/api/question/question.controller.js"
+-'  77  1  ~/wintspo-server/src/api/question/question.controller.js
+|4,39,77,1,1597563384,"~/wintspo-server/src/api/question/question.controller.js"
+-'  77  1  ~/wintspo-server/src/api/question/question.controller.js
+|4,39,77,1,1597563384,"~/wintspo-server/src/api/question/question.controller.js"
+-'  77  1  ~/wintspo-server/src/api/question/question.controller.js
+|4,39,77,1,1597563384,"~/wintspo-server/src/api/question/question.controller.js"
+-'  77  1  ~/wintspo-server/src/api/question/question.controller.js
+|4,39,77,1,1597563384,"~/wintspo-server/src/api/question/question.controller.js"
+-'  77  1  ~/wintspo-server/src/api/question/question.controller.js
+|4,39,77,1,1597563384,"~/wintspo-server/src/api/question/question.controller.js"
+-'  77  1  ~/wintspo-server/src/api/question/question.controller.js
+|4,39,77,1,1597563384,"~/wintspo-server/src/api/question/question.controller.js"
+-'  77  1  ~/wintspo-server/src/api/question/question.controller.js
+|4,39,77,1,1597563384,"~/wintspo-server/src/api/question/question.controller.js"
+-'  77  1  ~/wintspo-server/src/api/question/question.controller.js
+|4,39,77,1,1597563384,"~/wintspo-server/src/api/question/question.controller.js"
+-'  77  1  ~/wintspo-server/src/api/question/question.controller.js
+|4,39,77,1,1597563384,"~/wintspo-server/src/api/question/question.controller.js"
+-'  77  1  ~/wintspo-server/src/api/question/question.controller.js
+|4,39,77,1,1597563384,"~/wintspo-server/src/api/question/question.controller.js"
+-'  77  1  ~/wintspo-server/src/api/question/question.controller.js
+|4,39,77,1,1597563384,"~/wintspo-server/src/api/question/question.controller.js"
+-'  77  1  ~/wintspo-server/src/api/question/question.controller.js
+|4,39,77,1,1597563384,"~/wintspo-server/src/api/question/question.controller.js"
+-'  77  1  ~/wintspo-server/src/api/question/question.controller.js
+|4,39,77,1,1597563384,"~/wintspo-server/src/api/question/question.controller.js"
+-'  77  1  ~/wintspo-server/src/api/question/question.controller.js
+|4,39,77,1,1597563384,"~/wintspo-server/src/api/question/question.controller.js"
+-'  77  1  ~/wintspo-server/src/api/question/question.controller.js
+|4,39,77,1,1597563384,"~/wintspo-server/src/api/question/question.controller.js"
+-'  77  1  ~/wintspo-server/src/api/question/question.controller.js
+|4,39,77,1,1597563384,"~/wintspo-server/src/api/question/question.controller.js"
+-'  77  1  ~/wintspo-server/src/api/question/question.controller.js
+|4,39,77,1,1597563384,"~/wintspo-server/src/api/question/question.controller.js"
+-'  77  1  ~/wintspo-server/src/api/question/question.controller.js
+|4,39,77,1,1597563384,"~/wintspo-server/src/api/question/question.controller.js"
+-'  73  1  ~/wintspo-server/src/api/question/question.controller.js
+|4,39,73,1,1597563378,"~/wintspo-server/src/api/question/question.controller.js"
+-'  73  1  ~/wintspo-server/src/api/question/question.controller.js
+|4,39,73,1,1597563378,"~/wintspo-server/src/api/question/question.controller.js"
+-'  73  1  ~/wintspo-server/src/api/question/question.controller.js
+|4,39,73,1,1597563378,"~/wintspo-server/src/api/question/question.controller.js"
+-'  73  1  ~/wintspo-server/src/api/question/question.controller.js
+|4,39,73,1,1597563378,"~/wintspo-server/src/api/question/question.controller.js"
+-'  73  1  ~/wintspo-server/src/api/question/question.controller.js
+|4,39,73,1,1597563378,"~/wintspo-server/src/api/question/question.controller.js"
+-'  73  1  ~/wintspo-server/src/api/question/question.controller.js
+|4,39,73,1,1597563378,"~/wintspo-server/src/api/question/question.controller.js"
+-'  73  1  ~/wintspo-server/src/api/question/question.controller.js
+|4,39,73,1,1597563378,"~/wintspo-server/src/api/question/question.controller.js"
+-'  73  1  ~/wintspo-server/src/api/question/question.controller.js
+|4,39,73,1,1597563378,"~/wintspo-server/src/api/question/question.controller.js"
+-'  73  1  ~/wintspo-server/src/api/question/question.controller.js
+|4,39,73,1,1597563378,"~/wintspo-server/src/api/question/question.controller.js"
+-'  73  1  ~/wintspo-server/src/api/question/question.controller.js
+|4,39,73,1,1597563378,"~/wintspo-server/src/api/question/question.controller.js"
+-'  73  1  ~/wintspo-server/src/api/question/question.controller.js
+|4,39,73,1,1597563378,"~/wintspo-server/src/api/question/question.controller.js"
+-'  73  1  ~/wintspo-server/src/api/question/question.controller.js
+|4,39,73,1,1597563378,"~/wintspo-server/src/api/question/question.controller.js"
+-'  73  1  ~/wintspo-server/src/api/question/question.controller.js
+|4,39,73,1,1597563378,"~/wintspo-server/src/api/question/question.controller.js"
+-'  73  1  ~/wintspo-server/src/api/question/question.controller.js
+|4,39,73,1,1597563378,"~/wintspo-server/src/api/question/question.controller.js"
+-'  73  1  ~/wintspo-server/src/api/question/question.controller.js
+|4,39,73,1,1597563378,"~/wintspo-server/src/api/question/question.controller.js"
+-'  73  1  ~/wintspo-server/src/api/question/question.controller.js
+|4,39,73,1,1597563378,"~/wintspo-server/src/api/question/question.controller.js"
+-'  73  1  ~/wintspo-server/src/api/question/question.controller.js
+|4,39,73,1,1597563378,"~/wintspo-server/src/api/question/question.controller.js"
+-'  73  1  ~/wintspo-server/src/api/question/question.controller.js
+|4,39,73,1,1597563378,"~/wintspo-server/src/api/question/question.controller.js"
+-'  73  1  ~/wintspo-server/src/api/question/question.controller.js
+|4,39,73,1,1597563378,"~/wintspo-server/src/api/question/question.controller.js"
+-'  73  1  ~/wintspo-server/src/api/question/question.controller.js
+|4,39,73,1,1597563378,"~/wintspo-server/src/api/question/question.controller.js"
+-'  73  1  ~/wintspo-server/src/api/question/question.controller.js
+|4,39,73,1,1597563378,"~/wintspo-server/src/api/question/question.controller.js"
+-'  73  1  ~/wintspo-server/src/api/question/question.controller.js
+|4,39,73,1,1597563378,"~/wintspo-server/src/api/question/question.controller.js"
+-'  73  1  ~/wintspo-server/src/api/question/question.controller.js
+|4,39,73,1,1597563378,"~/wintspo-server/src/api/question/question.controller.js"
+-'  73  1  ~/wintspo-server/src/api/question/question.controller.js
+|4,39,73,1,1597563378,"~/wintspo-server/src/api/question/question.controller.js"
 
 # History of marks within files (newest to oldest):
 
-> ~/wintspo-server/src/api/notice/index.js
-	*	1596948367	0
-	"	8	0
-	^	9	0
-	.	8	51
-	+	1	37
-	+	3	46
-	+	11	0
-	+	2	11
-	+	3	50
-	+	5	46
-	+	10	23
-	+	5	47
-	+	6	49
-	+	7	51
-	+	8	51
-
-> ~/wintspo-server/src/api/notice/notice.controller.js
-	*	1596948339	0
-	"	39	45
-	^	44	2
-	.	44	1
-	+	1	39
-	+	1	79
-	+	3	37
-	+	7	54
-	+	8	14
-	+	9	20
-	+	12	1
-	+	2	0
-	+	11	16
-	+	7	33
-	+	1	39
-	+	11	19
-	+	14	37
-	+	18	13
-	+	15	1
-	+	18	41
-	+	19	14
-	+	20	20
-	+	21	1
-	+	22	23
-	+	23	1
-	+	21	1
-	+	25	41
-	+	29	64
-	+	30	14
-	+	31	20
-	+	34	1
-	+	29	63
-	+	36	39
-	+	39	65
-	+	40	14
-	+	41	20
-	+	43	20
-	+	38	0
-	+	39	2
-	+	44	1
-
-> ~/wintspo-server/src/models/notice.js
-	*	1596948321	0
-	"	1	0
-	^	30	0
-	.	29	2
-	+	1	35
-	+	2	30
-	+	1	15
-	+	2	28
-	+	3	28
-	+	3	59
-	+	3	57
-	+	6	28
-	+	3	54
-	+	6	48
-	+	8	0
-	+	9	39
-	+	3	44
-	+	9	79
-	+	20	0
-	+	10	18
-	+	11	4
-	+	12	5
-	+	11	5
-	+	10	19
-	+	12	47
-	+	13	6
-	+	16	0
-	+	10	26
-	+	15	23
-	+	26	49
-	+	10	44
-	+	11	11
-	+	12	13
-	+	12	29
-	+	13	7
-	+	4	0
-	+	9	39
-	+	10	28
-	+	4	9
-	+	5	11
-	+	6	13
-	+	26	42
-	+	9	24
-	+	13	0
-	+	11	2
-	+	12	2
-	+	13	4
-	+	14	0
-	+	16	1
-	+	9	38
-	+	18	42
-	+	19	28
-	+	20	1
-	+	10	12
-	+	15	13
-	+	18	37
-	+	19	37
-	+	23	24
-	+	22	43
-	+	24	20
-	+	3	0
-	+	24	19
-	+	32	0
-	+	26	0
-	+	27	45
-	+	28	39
-	+	29	2
-
 > ~/wintspo-server/src/api/auth/auth.controller.js
-	*	1596948062	0
-	"	31	18
+	*	1597563870	0
+	"	32	0
 	^	25	19
 	.	26	0
 	+	12	49
@@ -529,9 +401,266 @@ $
 	+	24	0
 	+	26	0
 
+> ~/wintspo-server/src/api/notice/notice.controller.js
+	*	1597563851	0
+	"	65	1
+	^	65	2
+	.	65	1
+	+	1	39
+	+	1	79
+	+	4	37
+	+	18	54
+	+	19	14
+	+	20	20
+	+	23	1
+	+	2	0
+	+	22	16
+	+	18	33
+	+	1	39
+	+	22	19
+	+	25	37
+	+	29	13
+	+	26	1
+	+	29	41
+	+	30	14
+	+	31	20
+	+	32	1
+	+	33	23
+	+	34	1
+	+	32	1
+	+	36	41
+	+	49	64
+	+	50	14
+	+	51	20
+	+	54	1
+	+	49	63
+	+	56	39
+	+	68	65
+	+	69	14
+	+	70	20
+	+	72	20
+	+	67	0
+	+	68	2
+	+	73	1
+	+	5	1
+	+	5	0
+	+	2	26
+	+	10	50
+	+	11	19
+	+	15	0
+	+	41	50
+	+	42	19
+	+	45	1
+	+	61	50
+	+	62	19
+	+	65	1
+
+> ~/wintspo-server/src/api/answer/answer.controller.js
+	*	1597563486	0
+	"	41	0
+	^	41	0
+	.	41	0
+	+	5	37
+	+	19	46
+	+	25	14
+	+	26	20
+	+	28	22
+	+	31	39
+	+	43	7
+	+	19	13
+	+	43	50
+	+	44	14
+	+	45	20
+	+	47	21
+	+	1	0
+	+	1	39
+	+	48	0
+	+	20	41
+	+	21	2
+	+	2	43
+	+	21	62
+	+	22	7
+	+	20	40
+	+	23	64
+	+	24	2
+	+	22	3
+	+	17	0
+	+	7	6
+	+	3	26
+	+	12	50
+	+	13	19
+	+	16	1
+	+	9	33
+	+	36	49
+	+	37	19
+	+	41	0
+
+> ~/wintspo-server/src/api/question/question.controller.js
+	*	1597563382	0
+	"	77	1
+	^	73	2
+	.	73	1
+	+	1	44
+	+	5	39
+	+	23	59
+	+	24	14
+	+	25	20
+	+	27	22
+	+	30	37
+	+	34	24
+	+	30	15
+	+	35	14
+	+	36	20
+	+	41	41
+	+	53	15
+	+	41	15
+	+	56	75
+	+	58	14
+	+	59	20
+	+	64	41
+	+	76	54
+	+	78	14
+	+	79	20
+	+	81	22
+	+	82	39
+	+	82	91
+	+	82	105
+	+	82	125
+	+	82	149
+	+	82	151
+	+	82	164
+	+	82	16
+	+	82	190
+	+	82	248
+	+	82	262
+	+	82	282
+	+	82	306
+	+	76	57
+	+	2	39
+	+	76	70
+	+	83	0
+	+	76	95
+	+	38	19
+	+	34	40
+	+	56	69
+	+	76	74
+	+	76	48
+	+	76	50
+	+	78	0
+	+	76	54
+	+	77	53
+	+	53	55
+	+	57	10
+	+	53	43
+	+	57	44
+	+	61	44
+	+	60	63
+	+	61	27
+	+	53	59
+	+	61	0
+	+	53	20
+	+	54	26
+	+	61	13
+	+	7	6
+	+	3	26
+	+	12	35
+	+	13	35
+	+	15	50
+	+	16	19
+	+	19	1
+	+	47	50
+	+	48	19
+	+	51	1
+	+	69	50
+	+	70	19
+	+	73	1
+
+> ~/wintspo-server/src/models/question.js
+	*	1597562865	0
+	"	10	17
+	^	37	62
+	.	37	61
+	+	1	37
+	+	2	28
+	+	11	43
+	+	2	55
+	+	2	134
+	+	4	13
+	+	2	129
+	+	5	14
+	+	8	25
+	+	10	17
+	+	9	0
+	+	13	0
+	+	11	61
+	+	15	59
+	+	23	8
+	+	11	46
+	+	25	7
+	+	15	84
+	+	16	14
+	+	15	28
+	+	26	2
+	+	38	52
+	+	2	73
+	+	38	117
+	+	38	70
+	+	38	131
+	+	49	0
+	+	38	7
+	+	28	24
+	+	15	25
+	+	28	50
+	+	29	39
+	+	33	72
+	+	36	32
+	+	32	25
+	+	38	23
+	+	37	0
+	+	36	47
+	+	37	37
+	+	38	1
+	+	38	70
+	+	38	42
+	+	38	38
+	+	38	40
+	+	38	85
+	+	48	53
+	+	3	0
+	+	11	44
+	+	33	50
+	+	38	2
+	+	43	0
+	+	33	61
+	+	36	60
+	+	37	52
+	+	12	34
+	+	40	48
+	+	12	23
+	+	41	72
+	+	41	46
+	+	41	35
+	+	41	46
+	+	41	72
+	+	43	0
+	+	41	46
+	+	44	46
+	+	40	43
+	+	45	68
+	+	41	71
+	+	46	2
+	+	41	66
+	+	42	0
+	+	45	62
+	+	11	44
+	+	12	22
+	+	41	13
+	+	45	13
+	+	37	61
+
 > ~/wintspo-server/src/models/account.js
-	*	1596945364	0
-	"	3	0
+	*	1597562755	0
+	"	19	16
 	^	12	18
 	.	13	0
 	+	1	37
@@ -608,103 +737,189 @@ $
 	+	19	16
 	+	13	0
 
-> ~/wintspo-server/src/api/index.js
-	*	1596941151	0
-	"	8	24
-	^	8	25
-	.	8	24
+> ~/wintspo-server/src/models/answer.js
+	*	1597561148	0
+	"	26	26
+	^	30	44
+	.	30	43
 	+	1	37
-	+	2	0
-	+	9	34
-	+	9	74
-	+	9	77
-	+	10	20
-	+	3	58
-	+	7	41
-	+	9	0
-	+	10	0
-	+	4	31
-	+	7	31
-	+	4	0
-	+	9	0
-	+	5	34
-	+	8	24
+	+	2	28
+	+	5	20
+	+	8	44
+	+	11	70
+	+	21	45
+	+	22	38
+	+	33	49
+	+	25	40
+	+	26	36
+	+	32	0
+	+	27	1
+	+	21	48
+	+	22	6
+	+	21	41
+	+	22	28
+	+	29	56
+	+	30	55
+	+	31	1
+	+	29	45
+	+	30	43
 
-> ~/wintspo-server/src/api/auth/index.js
-	*	1596941106	0
-	"	7	8
+> ~/wintspo-server/src/api/answer/answer
+	*	1597559995	0
+	"	1	0
+
+> ~/wintspo-server/src/api/question/index.js
+	*	1597554264	0
+	"	8	15
+	^	8	16
+	.	8	15
+	+	1	37
+	+	3	52
+	+	5	31
+	+	2	13
+	+	3	13
+	+	5	58
+	+	6	57
+	+	7	60
+	+	8	25
+	+	7	23
+	+	8	61
+	+	10	25
+	+	8	15
+
+> ~/wintspo-server/src/api/notice/index.js
+	*	1597553799	0
+	"	7	0
 	^	9	0
-	.	6	17
+	.	8	51
 	+	1	37
 	+	3	46
-	+	5	52
-	+	6	46
-	+	6	112
-	+	7	38
-	+	10	21
-	+	5	11
-	+	6	11
-	+	8	23
-	+	8	43
-	+	7	0
-	+	9	0
-	+	5	20
-	+	6	17
+	+	11	0
+	+	2	11
+	+	3	50
+	+	5	46
+	+	10	23
+	+	5	47
+	+	6	49
+	+	7	51
+	+	8	51
 
-> ~/wintspo-server/src/models/indexing.js
-	*	1596937445	0
-	"	11	20
-	^	11	21
-	.	11	20
+> ~/wintspo-server/src/api/question/indx.js
+	*	1597552152	0
+	"	1	0
+
+> ~/wintspo-server/src/api/answer/index.js
+	*	1597551924	0
+	"	6	10
+	^	6	11
+	.	6	10
+	+	1	37
+	+	3	50
+	+	8	23
+	+	5	50
+	+	6	10
+
+> ~/wintspo-server/src/models/notice.js
+	*	1597551804	0
+	"	25	1
+	^	30	0
+	.	29	2
 	+	1	35
-	+	2	15
+	+	2	30
 	+	1	15
-	+	4	30
-	+	6	17
-	+	4	54
-	+	6	35
-	+	4	66
-	+	7	3
-	+	13	50
-	+	14	19
-	+	17	22
-	+	13	32
-	+	17	51
-	+	18	19
-	+	19	1
-	+	15	1
-	+	21	31
-	+	14	12
-	+	14	44
-	+	14	28
-	+	18	7
-	+	14	57
-	+	18	50
-	+	14	42
-	+	4	75
-	+	14	30
-	+	4	66
-	+	14	51
-	+	18	66
-	+	5	17
-	+	6	17
-	+	5	0
-	+	14	36
-	+	18	36
-	+	9	7
-	+	14	28
-	+	18	28
-	+	9	8
-	+	4	6
-	+	9	0
+	+	2	28
+	+	3	28
+	+	3	59
+	+	3	57
+	+	6	28
+	+	3	54
+	+	6	48
+	+	8	0
+	+	9	39
+	+	3	44
+	+	9	79
+	+	20	0
+	+	10	18
+	+	11	4
+	+	12	5
+	+	11	5
+	+	10	19
+	+	12	47
 	+	13	6
-	+	17	6
-	+	10	27
+	+	16	0
+	+	10	26
+	+	15	23
+	+	26	49
+	+	10	44
+	+	11	11
+	+	12	13
+	+	12	29
+	+	13	7
+	+	4	0
+	+	9	39
+	+	10	28
+	+	4	9
+	+	5	11
+	+	6	13
+	+	26	42
+	+	9	24
+	+	13	0
+	+	11	2
+	+	12	2
+	+	13	4
+	+	14	0
+	+	16	1
+	+	9	38
+	+	18	42
+	+	19	28
+	+	20	1
+	+	10	12
+	+	15	13
+	+	18	37
+	+	19	37
+	+	23	24
+	+	22	43
+	+	24	20
+	+	3	0
+	+	24	19
+	+	32	0
+	+	26	0
+	+	27	45
+	+	28	39
+	+	29	2
+
+> ~/wintspo-server/src/api/index.js
+	*	1597390114	0
+	"	12	35
+	^	12	36
+	.	12	35
+	+	1	37
+	+	2	0
+	+	12	34
+	+	12	74
+	+	12	77
+	+	14	20
+	+	3	58
+	+	9	41
+	+	12	0
+	+	14	0
+	+	4	31
+	+	9	31
+	+	4	0
+	+	12	0
+	+	5	34
+	+	10	24
+	+	6	37
+	+	7	0
 	+	11	20
+	+	6	13
+	+	11	39
+	+	7	34
+	+	12	35
 
 > ~/wintspo-server/src/index.js
-	*	1596720588	0
-	"	28	2
+	*	1597129589	0
+	"	45	2
 	^	45	3
 	.	28	70
 	+	45	2
@@ -796,6 +1011,191 @@ $
 	+	39	22
 	+	10	0
 	+	28	70
+
+> ~/wintspo-client/src/redux/configureStore.js
+	*	1597129345	0
+	"	25	9
+	^	25	30
+	.	25	29
+	+	1	29
+	+	1	36
+	+	1	29
+	+	1	44
+	+	1	32
+	+	1	61
+	+	1	97
+	+	1	0
+	+	1	97
+	+	1	62
+	+	25	29
+
+> ~/wintspo-client/src/index.js
+	*	1597126979	0
+	"	11	23
+	^	29	1
+	.	25	0
+	+	4	23
+	+	14	8
+	+	6	50
+	+	9	30
+	+	14	21
+	+	7	47
+	+	13	14
+	+	15	15
+	+	14	13
+	+	11	28
+	+	12	3
+	+	13	7
+	+	14	11
+	+	15	7
+	+	16	7
+	+	17	6
+	+	18	2
+	+	20	13
+	+	22	16
+	+	23	52
+	+	25	0
+
+> ~/wintspo-client/src/pages/Home.js
+	*	1597051008	0
+	"	13	19
+	^	13	20
+	.	13	19
+	+	13	19
+
+> ~/wintspo-client/src/components/Auth/AuthButton.js
+	*	1597050827	0
+	"	5	0
+	^	4	37
+	.	4	37
+	+	39	25
+	+	4	37
+
+> ~/wintspo-client/src/App.js
+	*	1597050803	0
+	"	33	19
+	^	33	20
+	.	34	0
+	+	1	41
+	+	41	18
+	+	4	61
+	+	33	18
+	+	4	62
+	+	6	34
+	+	7	38
+	+	8	41
+	+	9	50
+	+	30	3
+	+	13	46
+	+	14	24
+	+	16	36
+	+	17	39
+	+	20	14
+	+	21	34
+	+	22	50
+	+	28	4
+	+	43	20
+	+	44	55
+	+	46	6
+	+	33	28
+	+	4	62
+	+	5	0
+	+	34	0
+
+> ~/wintspo-client/src/kakao.js
+	*	1597047418	0
+	"	2	35
+	^	2	36
+	.	3	0
+	+	37	21
+	+	3	0
+
+> ~/wintspo-client/package.json
+	*	1596961048	0
+	"	111	7
+	^	153	1
+	.	153	0
+	+	21	27
+	+	22	27
+	+	23	42
+	+	146	16
+	+	148	4
+	+	151	4
+	+	152	31
+	+	152	37
+	+	153	0
+
+> ~/wintspo-server/src/api/auth/index.js
+	*	1596941106	0
+	"	7	8
+	^	9	0
+	.	6	17
+	+	1	37
+	+	3	46
+	+	5	52
+	+	6	46
+	+	6	112
+	+	7	38
+	+	10	21
+	+	5	11
+	+	6	11
+	+	8	23
+	+	8	43
+	+	7	0
+	+	9	0
+	+	5	20
+	+	6	17
+
+> ~/wintspo-server/src/models/indexing.js
+	*	1596937445	0
+	"	11	20
+	^	11	21
+	.	11	20
+	+	1	35
+	+	2	15
+	+	1	15
+	+	4	30
+	+	6	17
+	+	4	54
+	+	6	35
+	+	4	66
+	+	7	3
+	+	13	50
+	+	14	19
+	+	17	22
+	+	13	32
+	+	17	51
+	+	18	19
+	+	19	1
+	+	15	1
+	+	21	31
+	+	14	12
+	+	14	44
+	+	14	28
+	+	18	7
+	+	14	57
+	+	18	50
+	+	14	42
+	+	4	75
+	+	14	30
+	+	4	66
+	+	14	51
+	+	18	66
+	+	5	17
+	+	6	17
+	+	5	0
+	+	14	36
+	+	18	36
+	+	9	7
+	+	14	28
+	+	18	28
+	+	9	8
+	+	4	6
+	+	9	0
+	+	13	6
+	+	17	6
+	+	10	27
+	+	11	20
 
 > ~/wintspo-server/src/lib/token.js
 	*	1596717900	0
@@ -1129,33 +1529,6 @@ $
 	+	16	81
 	+	19	0
 
-> ~/wintspo-client/src/App.js
-	*	1596593267	0
-	"	46	6
-	^	46	7
-	.	46	6
-	+	1	41
-	+	41	18
-	+	4	61
-	+	33	18
-	+	5	0
-	+	6	34
-	+	7	38
-	+	8	41
-	+	9	50
-	+	30	3
-	+	13	46
-	+	14	24
-	+	16	36
-	+	17	39
-	+	20	14
-	+	21	34
-	+	22	50
-	+	28	4
-	+	43	20
-	+	44	55
-	+	46	6
-
 > ~/wintspo-client/src/App.j
 	*	1596592872	0
 	"	1	0
@@ -1351,38 +1724,6 @@ $
 	*	1596542392	0
 	"	1	0
 
-> ~/wintspo-client/src/redux/configureStore.js
-	*	1596541847	0
-	"	25	29
-	^	25	30
-	.	25	29
-	+	1	29
-	+	1	36
-	+	1	29
-	+	1	44
-	+	1	32
-	+	1	61
-	+	1	97
-	+	1	0
-	+	1	97
-	+	1	62
-	+	25	29
-
-> ~/wintspo-client/package.json
-	*	1596538660	0
-	"	153	0
-	^	153	1
-	.	153	0
-	+	21	27
-	+	22	27
-	+	23	42
-	+	146	16
-	+	148	4
-	+	151	4
-	+	152	31
-	+	152	37
-	+	153	0
-
 > ~/wintspo-client/src/components/Auth/InputWithLabel.js
 	*	1596532701	0
 	"	1	4
@@ -1398,14 +1739,6 @@ $
 	^	24	32
 	.	24	31
 	+	24	31
-
-> ~/wintspo-client/src/components/Auth/AuthButton.js
-	*	1596531923	0
-	"	4	36
-	^	4	37
-	.	4	37
-	+	39	25
-	+	4	37
 
 > ~/wintspo-client/src/pages/Auth.js
 	*	1596526983	0
@@ -1490,33 +1823,6 @@ $
 	+	10	20
 	+	20	0
 
-> ~/wintspo-client/src/index.js
-	*	1596383063	0
-	"	11	23
-	^	29	1
-	.	25	0
-	+	4	23
-	+	14	8
-	+	6	50
-	+	9	30
-	+	14	21
-	+	7	47
-	+	13	14
-	+	15	15
-	+	14	13
-	+	11	28
-	+	12	3
-	+	13	7
-	+	14	11
-	+	15	7
-	+	16	7
-	+	17	6
-	+	18	2
-	+	20	13
-	+	22	16
-	+	23	52
-	+	25	0
-
 > ~/wintspo-client/config/webpackDevServer.config.js
 	*	1596382732	0
 	"	130	0
@@ -1557,13 +1863,6 @@ $
 	^	2	41
 	.	2	40
 	+	2	40
-
-> ~/wintspo-client/src/pages/Home.js
-	*	1596380777	0
-	"	13	19
-	^	13	20
-	.	13	19
-	+	13	19
 
 > ~/wintspo-client/.jsconfig.json
 	*	1596380626	0
