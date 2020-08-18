@@ -1,534 +1,3 @@
-cd ..
-ls
-cd ..
-cd components
-ls
-vim Auth
-cd Auth
-vim RightAlignedLink.js
-vim index.js
-ls
-cd ..
-cd containers
-ls
-cd Auth
-ls
-vim Login.js
-yarn start
-vim Login.js
-yarn start
-ls
-vim Register.js
-cd ..
-cd components
-ls
-cd Auth
-ls
-vim InputWithLabel.js
-yarn start
-vim InputWithLabel.js
-cd ..
-cd containers
-ls
-vim Auth
-cd Auth
-ls
-vim Register.js
-ls
-yarn start
-cd ..
-ls
-cd redux
-ls
-cd modules
-ls
-vim auth.js
-vim index.js
-cd ..
-cd containers
-cd Auth
-ls
-vim Login.js
-ls
-vim Register.js
-yarn start
-ls
-vim Login.js
-yarn start
-cd ..
-ls
-cd redux
-ls
-cd modules
-ls
-vim auth.js
-cd ..
-cd containers
-ls
-cd Auth
-vim Login.js
-ls
-cd ..
-cd Auth
-ls
-vim Register.js
-yarn start
-ls
-vim Register.js
-ls
-vim Login.js
-vim Register.js
-vim Login.js
-yarn start
-cd ..
-yarn add axios redux-pender
-cd ..
-git add .
-git commit -m "front-end part base_comp"
-git push -u origin master
-git push -u -f origin master
-cd wintspo-client
-ls
-cd src
-cd lib
-cd api
-ls
-mkdir api
-cd api
-vim auth.js
-cd ..
-ls
-cd ..
-vim package.json
-yanr start
-yarn start
-ls
-vim package.json
-cd src
-cd redux
-vim configureStore.js
-ls
-cd modules
-ls
-vim index.js
-vim auth.js
-cd ..
-yarn add validator
-ls
-cd src
-cd containers
-cd Auth
-vim Register.js
-yarn start
-cd ..
-cd redux
-vim configureStore.js
-yarn start
-vim configureStore.js
-yarn start
-vim configureStore.js
-yarn start
-ls
-vim configureStore.js
-cd ..
-ls
-cd lib
-ls
-cd api
-ls
-vim auth.js
-ls
-cd ..
-cd redux
-ls
-cd modules
-ls
-vim auth.js
-ls
-cd ..
-ls
-vim components
-cd components
-ls
-cd Auth
-ls
-cd ..
-ls
-cd containers
-ls
-cd Auth
-ls
-vim Register.js
-cd ..
-ls
-cd redux
-ls
-cd modules
-ls
-vim auth.js
-cd ..
-cd containers
-cd Auth
-vim Register.js
-yarn start
-vim Register.js
-yarn start
-vim Register.js
-ls
-cd ..
-ls
-cd redux
-ls
-cd modules
-ls
-vim auth,js
-vim auth.js
-yarn start
-ls
-cd ..
-ls
-cd lib
-ls
-styleUtil.js
-vim styleUtil.js
-cd ..
-cd components
-ls
-cd Auth
-ls
-vim AuthErro.js
-ls
-vim index.js
-cd ..
-cd containers
-ls
-cd Auth
-ls
-vim Register.js
-yarn start
-ls
-vim Register.js
-yarn start
-cd ..
-cd components
-ls
-cd Auth
-ls
-vim index.js
-ls
-vim AuthError.js
-vim AuthErro.js
-rm AuthErro.js
-vim AuthError.js
-vim index.js
-yarn start
-ls
-vim AuthError.js
-ls
-yarn start
-ls
-cd ..
-cd containers
-ls
-cd Auth
-ls
-vim Register.js
-ls
-cd ..
-ls
-cd redux
-ls
-cd modules
-ls
-vim auth.js
-cd..
-cd ..
-ls
-cd lib
-ls
-cd api
-ls
-vim auth.js
-cd .. ..
-cd ....
-cd ..
-ls
-cd ..
-ls
-cd containers
-ls
-cd Auth
-ls
-vim Register.js
-cd ..
-yarn add lodash
-yarn start
-ls
-cd wintspo-server
-yarn start
-ls
-cd wintspo-server
-yarn start
-ls
-cd wintspo-client
-ls
-cd src
-cd containers Auth
-cd containers
-cd Auth
-ls
-vim Register.js
-yarn start
-exit
-cd wintspo-client
-ls
-cd ..
-ls
-git status
-git add .
-git commit -m "front-ended till register_connection"
-git push -u origin master
-git push -u -f origin master
-ls
-cd wintspo-client
-ls
-cd src
-cd redux
-cd modules
-vim user.js
-vim index.js
-ls
-cd ..
-cd lib
-vim storage.js
-ls
-cd ..
-cd containers
-cd Auth
-ls
-vim Register.js
-vim Login.js
-cd ..
-ls
-vim App.j
-vim App.js
-yarn start
-ls
-cd containers
-ls
-Auth
-cd Auth
-ls
-vim Login.js
-yarn start
-cd ..
-ls
-cd Baer
-cd Base
-ls
-vim HeaderContainer.js
-cd ..
-yarn add query-string
-cd src
-cd containers
-ls
-cd Auth
-ls
-vim Login.js
-yarn start
-cd ..
-cd Base
-vim HeadContainer.js
-vim HeaderContainer.js
-ls
-yanr start
-yarn start
-cd ..
-ls
-git add .
-git commit -m "proto_completed"
-git status
-git push -u -f origin mater
-git push -u -f origin master
-exit
-cd wintspo-server
-yarn start
-exit
-ls
-cd wintspo-client
-yarn start
-EXIT
-exit
-ls
-cd wintspo-server
-yarn start
-EXIT
-exit
-ls
-cd wintspo-server
-ls
-cd src
-ls
-vim index.js
-ls
-cd lib
-ls
-vim token.js
-ls
-cd ..
-ls
-cd models
-ls
-vim account.js
-ls
-cd wintspo-server
-ls
-cd src
-ls
-vim index.js
-ls
-cd api
-ls
-vim index.js
-ls
-cd books
-ls
-vim books.controller.js
-ls
-vim index.js
-cd ..
-ls
-cd auth
-ls
-vim auth.controller.js
-ls
-cd ..
-ls
-rm -rf books
-ls
-cd ..
-ls
-cd ..
-ls
-cd src
-cd lib
-ls
-cd ..
-ls
-cd models
-ls
-vim account.js
-ls
-vim book.js
-ls
-vim account.js
-vim book.js
-ls
-rm book.js
-ls
-cd ..
-ls
-cd lib
-ls
-vim token.js
-ls
-cd ..
-ls
-yarn start
-ls
-cd lib
-ls
-vim token.js
-ls
-cd ..
-ls
-cd models
-ls
-vim account.js
-ls
-vim account.js
-ls
-cd ..
-ls
-cd lib
-ls
-vim token.js
-ls
-yarn start
-ls
-vim token.js
-yarn start
-ls
-cd ..
-ls
-cd models.
-cd models
-ls
-cd ..
-ls
-cd api
-ls
-vim index.js
-ls
-cd auth
-ls
-vim index.js
-ls
-vim auth.controller.js
-ls
-cd ..
-ls
-c d..
-ls
-cd ..
-ls
-vim lib
-ls
-cd lib
-ls
-vim token.js
-ls
-cd ..
-ls
-cd models
-ls
-vim account.js
-ls
-cd ..
-ls
-cd models
-ls
-vim account.js
-ls
-cd ..
-ls
-cd models
-ls
-vim account.js
-ls
-cd ..
-ls
-vim lib
-cd lib
-ls
-vim tokens.js
-ls
-vim token.js
-ls
-cd ..
-ls
-cd api
-ls
-cd auth
-ls
-vim auth.controller.js
-exit
-ls
-cd wintspo-client
-yarn start
-exit
-ls
-cd wintspo-server
 npm i nodemailer
 ls
 cd src
@@ -1996,5 +1465,536 @@ ls
 vim auth.controller.js
 yarn start
 vim auth.controller.js
+yarn start
+exit
+ls
+cd wintspo-server
+ls
+cd src
+ls
+cd api
+ls
+cd ..
+cd models
+ls
+vim question.js
+ls
+vim account.js
+ls
+cd ..
+ls
+cd api
+ls
+cd answer
+ls
+vim answer.controller.js
+yarn start
+vim answer.controller.js
+yarn start
+ls
+cd ..
+ls
+vim question
+cd question
+ls
+vim question.controller.js
+ls
+cd ..
+ls
+cd answer
+ls
+vim answer.controller.js
+ls
+vim answer.controller.js
+ls
+cd ..
+ls
+cd question
+ls
+cd question.controller.js
+vim question.controller.js
+ls
+vim question.controller.js
+ls
+cd ..
+ls
+cd answer
+ls
+vim answer.controller.js
+ls
+cd ..
+ls
+cd question
+ls
+vim question.controller.js
+ls
+cd ..
+ls
+cd answer
+ls
+vim answer.controller.js
+ls
+cd ..
+ls
+cd notice
+ls
+vim notice.controller.js
+cd ..
+ls
+git add .
+git commit -m "API_PROTO_COMP_W_REQUI"
+ls
+git push -u origin master
+git push -u -f origin master
+exit
+ls
+cd wintspo-server
+ls
+cd src
+ls
+cd ..
+cd models
+ls
+cd src
+cd models
+ls
+vim answer.js
+ls
+vim question.js
+ls
+vim account.js
+cd ..
+ls
+cd models
+ls
+vim question.js
+exit
+ls
+cd wintspo-server
+ls
+cd src
+ls
+vim index.js
+ls
+cd ..
+ls
+cd src
+ls
+cd api
+ls
+cd ..
+ls
+cd lib
+ls
+cd ..
+ls
+cd models
+ls
+cd ..
+ls
+vim index.js
+ls
+vim file_upload.pug
+ls
+koa -v
+koa -version
+ls
+cd ..
+yarn add koa-file-uploader
+ls
+cd src
+ls
+mkdir fileupload
+ls
+cd fileupload
+ls
+cd ..
+ls
+rmdir fileupload
+ls
+vim index.js
+ls
+cd ..
+ls
+cd src
+cd ..
+ls
+cd wintspo-server
+ls
+cd src
+ls
+cd api
+ls
+cd ..
+ls
+vim index.js
+ls
+mkdir images
+ls
+cd images
+ls
+cd ..
+ls
+cd ..
+ls
+mkdir images
+ls
+cd images
+ls
+cd ..
+ls
+rmdir images
+ls
+cd src
+ls
+cd ..
+ls
+cd ..
+ls
+mkdir images
+ls
+cd images
+ls
+cd ..
+ls
+rmdir images
+ls
+cd wintspo-server
+ls
+cd src
+ls
+rmdir images
+ls
+vim index.js
+ls
+cd ..
+ls
+vim package.json
+ls
+cd src
+ls
+mkdir images
+ls
+cd ..
+ls
+mkdir images
+ls
+cd src
+ls
+vim index.js
+ls
+vim index.js
+ls
+vim index.js
+ls
+cd api
+ls
+vim index.js
+ls
+cd ..
+ls
+vim index.js
+ls
+cd ..
+ls
+yarn add koa-multer
+ls
+cd src
+ls
+vim index.js
+ls
+tarn start
+yarn start
+ls
+vim index.js
+ls
+cd ..
+yarn remove @koa/multer
+yarn remove multer
+ls
+ls -la
+vim .env
+ls
+cd images
+l
+ls
+cd ..
+ls
+cd src
+ls
+vim index.js
+ls
+cd ..
+ls
+cd images
+ls
+cd ..
+ls
+cd src
+ls
+vim index.js
+yarn start
+ls
+vim index.js
+yarn start
+ls
+vim index.js
+ls
+cd api
+ls
+cd notice
+ls
+vim index.js
+ls
+yarn start
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+cd images
+ls
+cd ..
+ls
+cd ..
+ls
+cd wintspo-client
+ls
+cd src
+ls
+cd pages
+ls
+vim index.js
+vim Home.js
+ls
+vim Auth.js
+ls
+cd ..
+ls
+cd containers
+ls
+cd Auth
+ls
+vim Login.js
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+cd wintspo-server
+ls
+cd images
+ls
+exit
+ls
+cd wintspo-server
+ls
+yarn start
+yarn remove koa-file-uploader
+yarn remove koa-multer
+yarn add @koa/multer multer
+ls
+cd src
+ls
+vim index.js
+cd ..
+yarn add koa-body
+ls
+rmdir images
+ls
+cd src
+ls
+vim index.js
+cd ..
+yarn remove koa-body
+yarn add koa-multer
+ls
+cd src
+ls
+vim index.js
+cd ..
+yarn start
+ls
+cd upload
+ls
+cd ..
+ls
+cd src
+ls
+rmdir images
+cd ..
+ls
+rmdir upload
+ls
+cd src
+ls
+vim index.js
+yarn start
+vim index.js
+yarn start
+ls
+vim index.js
+ls
+cd ..
+ls
+cd images
+ls
+cd ..
+ls
+cd ..
+ls
+cd wintspo-client
+ls
+cd src
+ls
+vim index.js
+ls
+cd ..
+ls
+cd src
+ls
+cd ..
+ls
+cd src
+ls
+cd containers
+ls
+cd ..
+ls
+cd components
+ls
+cd Auth
+ls
+vim AuthButton.js
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+cd wintspo-server
+ls
+cd src
+ls
+vim index.js
+ls
+vim index.js
+ls
+cd api
+ls
+mkdir
+mkdir upload
+ls
+cd upload
+vim upload.js
+ls
+cd ..
+ls
+vim index.js
+ls
+cd upload
+ls
+vim upload.js
+yarn start
+ls
+cd ..
+ls
+vim index.js
+ls
+cd upload
+ls
+vim upload.js
+ls
+yarn start
+ls
+cd ..
+ls
+cd notice
+ls
+vim index.js
+ls
+vim notice.controller.js
+ls
+cd ..
+ls
+cd upload
+ls
+vim upload.js
+ls
+cd ..
+ls
+cd answer
+ls
+vim answer.controller.js
+ls
+cd ..
+ls
+cd ..
+ls
+cd api
+vim index.s
+vim index.js
+ls
+cd ..
+ls
+cd models
+ls
+vim account.js
+ls
+cd ..
+ls
+cd api
+ls
+cd upload
+ls
+vim upload.js
+ls
+yarn start
+ls
+cd ..
+ls
+cd notice
+ls
+vim index.js
+cd ..
+ls
+cd upload
+ls
+vim upload.js
+ls
+yarn start
+vim upload.js
+ls
+cd ..
+ls
+rm -rf upload
+ls
+cd ..
+ls
+vim index.js
+ls
+yarn start
+ls
+cd api
+ls
+vim index.js
+yarn start
+ls
+cd ..
+ls
+vim index.js
+yarn start
+ls
+vim index.js
+yarn start
+ls
+vim index.js
+yarn start
+ls
+vim index.js
 yarn start
 exit
