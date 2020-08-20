@@ -11,6 +11,7 @@
     "koa-bodyparser": "^4.3.0",
     "koa-multer": "^1.0.2",
     "koa-router": "^9.1.0",
+    "koa-static": "^5.0.0",
     "mongoose": "^5.9.26",
     "nodemailer": "^6.4.11"
   },

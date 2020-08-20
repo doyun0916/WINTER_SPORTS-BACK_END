@@ -1,17 +1,18 @@
 require('dotenv').config();
 
 const Koa = require('koa');
+const serve = require('koa-static');
 const Router = require('koa-router');
 const mongoose = require('mongoose');
 const bodyParser = require('koa-bodyparser');
 const api = require('./api');
 const jwt = require('jsonwebtoken');
 const { jwtMiddleware } = require('lib/token');
-const multer = require('koa-multer');
 const path = require('path');
 
 const app = new Koa();
 const router = new Router();
+const staticDirPath = path.join(__dirname, 'images');
 
 mongoose.Promise = global.Promise;
 
@@ -29,30 +30,14 @@ mongoose.connect(process.env.MONGO_URI, {
 
 const token = jwt.sign({ creator: 'dyk'}, 'secret-key', { expiresIn: '1d' }, (err, token) => {
 	if(err) {
-		console.log(err);
+		console.log(token);
 		return;
-	}
-	console.log(token);
-});
-
-let storage = multer.diskStorage({
-	destination: path.resolve('images'),
-	filename: (ctx, file, cb) => {
-		const uniqueSuffix = '파일경로확정시추가';
-		cb(null, uniqueSuffix + file.originalname);
-	}
-});
-let upload = multer({ storage: storage });
-router.post('/upload', upload.single('file'), async ctx => {
-	if(ctx.req.file) {
-		ctx.body = 'upload success';
-	} else {
-		ctx.body = 'upload error';
 	}
 });
 
 const port = process.env.PORT || 4000;
 
+app.use(serve(staticDirPath));
 app.use(bodyParser());
 app.use(jwtMiddleware);
 router.use('/api', api.routes());
